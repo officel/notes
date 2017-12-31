@@ -53,5 +53,10 @@ sysctl net.ipv4.tcp_keepalive_time
 ## kipmi() 対策
 
 ```
+# 動的
 echo 100 > /sys/module/ipmi_si/parameters/kipmid_max_busy_us
+
+# 永続化
+vi /etc/modprobe.d/ipmi.conf
+options ipmi_si kipmid_max_busy_us=100
 ```
