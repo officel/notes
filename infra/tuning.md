@@ -14,7 +14,17 @@ cat /sys/class/net/eth0/queues/rx-0/rps_cpus
 ## ファイルハンドル
 
 ```
+ulimit -u
+# -a の open files が１プロセスのディスクリプタ数
+# -n がファイルディスクリプタの値
+
+# /etc/sysconfig/init
+ulimit -n 65536
+
 cat /proc/sys/fs/file-nr
+# 過去にオープンした最大値（割り当て済みファイルハンドル数）
+# 現在オープンしているファイルハンドル数
+# オープン可能なファイル数の最大（file-max の値のはず）
 ```
 
 ## socket,backlog, etc...
