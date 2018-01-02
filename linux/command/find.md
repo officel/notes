@@ -25,4 +25,7 @@ find -regextype posix-egrep -regex ".*\.(php|tpl)" -ls
 find . -name "*.php" | xargs grep "search"
 grep "search" -rl .
 
+# たくさんのファイルを削除
+find /var/log/ -maxdepth 1 -type f -print0 | xargs -0 rm -f
+
 ```
