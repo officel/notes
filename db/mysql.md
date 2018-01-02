@@ -1,5 +1,16 @@
 # MySQL
 
+## トラブル
+
+```
+show status like '%connect%';
+show global variables like 'max_connections';
+
+# ステータスリセット
+flush status
+```
+
+
 ## 接続
 
 ```
@@ -21,6 +32,7 @@ show databases;
 show tables;
 show processlist;
 show status;
+show global status;
 show variables;
 show global variables;
 show table status;
@@ -35,4 +47,33 @@ show grants for 'USER'@'HOST'
 rename user 'OLDUSER'@'HOST' to 'NEWUSER'@'LOCLAHOST';
 revoke all privileges, grant option from USER
 flush privileges;
+```
+
+## クエリキャッシュを無効にする
+
+```
+SET GLOBAL query_cache_size=0;
+SET GLOBAL query_cache_type=0;
+SHOW GLOBAL VARIABLES LIKE '%query_cache%';
+
+# see https://qiita.com/mamy1326/items/d1548d8cf4528277172a
+```
+
+## ユーザ一覧からユーザ権限を確認
+
+```
+mysql -u root -N -e 'select concat("SHOW GRANTS FOR `",user, "`@`",host, "`;") from mysql.user order by user,host;' > user.sql
+mysql -u root -N < user.sql
+
+# see https://qiita.com/raki/items/cfd015ac50806bbac40a
+```
+
+
+## メモ
+
+```
+# テーブルデータの件数一覧(InnoDBでは即時性も正確性も怪しいので注意)
+select table_name, table_rows from information_schema.TABLES where table_schema = 'DB名';
+
+
 ```
