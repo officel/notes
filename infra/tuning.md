@@ -60,6 +60,10 @@ sysctl net.ipv4.tcp_keepalive_probes
 sysctl net.ipv4.tcp_keepalive_time
 ```
 
+* [net.ipv4.tcp_tw_recycle は廃止されました ― その危険性を理解する - Qiita https://qiita.com/tmshn/items/b49f1b51bfc472968b30]
+
+    * Linux のカーネルバージョン v4.12 から廃止
+
 ## kipmi() 対策
 
 ```
