@@ -69,6 +69,27 @@ mysql -u root -N < user.sql
 ```
 
 
+## ローカル設定ファイル
+
+```
+[client]
+# user dev
+# password=
+
+# user prod
+# password=
+
+[mysql]
+# rehash( auto completion )
+auto-rehash
+
+# User,Host,Database
+prompt=\\u@\\h:\\d>\\_
+
+# if you want disable this option: SET SQL_SAFE_UPDATES=0;
+safe-updates
+```
+
 ## メモ
 
 ```
