@@ -13,6 +13,12 @@
     * [AWS: aws_vpc_peering_connection - Terraform by HashiCorp](https://www.terraform.io/docs/providers/aws/r/vpc_peering.html)
     * 自アカウント内でのピアリングは peer_vpc_id, vpc_id, auto_accept で済む
 
+* NATゲートウェイを使用することで、NATインスタンスを管理しなくてよくなった
+
+    * [NAT インスタンスと NAT ゲートウェイの比較 - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/ja_jp/AmazonVPC/latest/UserGuide/vpc-nat-comparison.html)
+    * [Amazon VPC の制限 - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/ja_jp/AmazonVPC/latest/UserGuide/VPC_Appendix_Limits.html)
+    * NAT ゲートウェイはAZ当たり５つまでの制限がある
+
 * ピアリングやダイレクトコネクトでオンプレや他環境とバッティングしないようにネットワーク設計すること
 * アカウント全体のネットワークを /16 で確定し、/18 ないし /19 で VPC を分離して、 /24 のサブネットにするのが今のところ使い勝手がよい
 * アカウント作成時に各リージョンに作成されるデフォルトVPCにはなるべく手をつけないほうが楽
