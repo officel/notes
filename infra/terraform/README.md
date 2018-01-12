@@ -21,3 +21,14 @@
 
 * [Terraforming by dtan4](http://terraforming.dtan4.net/) 既存のAWSリソースをterraform形式でexportするツール
 
+## memo
+
+### remote_state を編集して戻す手順
+
+```
+terraform state pull > terraform.tfstate
+vi terraform.tfstate
+terraform state push terraform.tfstate
+terraform plan
+rm terraform.tfstate
+```
