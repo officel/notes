@@ -96,5 +96,10 @@ safe-updates
 # テーブルデータの件数一覧(InnoDBでは即時性も正確性も怪しいので注意)
 select table_name, table_rows from information_schema.TABLES where table_schema = 'DB名';
 
+# slave 停止（Slave_SQL_Running: No）
+SET GLOBAL SQL_SLAVE_SKIP_COUNTER = 1;
+START SLAVE;
+
+
 
 ```
