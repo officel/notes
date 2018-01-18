@@ -33,6 +33,30 @@ date -d "2018-1-11 0:00:00" +%s
 date --date "@1429151640"
 ```
 
+```date.sh
+#!/bin/bash
+
+# 処理時間計測用開始時刻
+ST=`date +%s`
+
+# テスト用に巻き戻し
+ST=`expr ${ST} - 3666`
+
+# ここに処理
+
+# 処理時間計測用終了時刻
+ET=`date +%s`
+SS=`expr ${ET} - ${ST}`
+HH=`expr ${SS} / 3600`
+SS=`expr ${SS} % 3600`
+MM=`expr ${SS} / 60`
+SS=`expr ${SS} % 60`
+# 処理時間
+echo   "Start date:" `date "+%Y/%m/%d %H:%M:%S" --date "@${ST}"`
+echo   " End  date:" `date "+%Y/%m/%d %H:%M:%S" --date "@${ET}"`
+printf "Total time:            %02d:%02d:%02d\n" ${HH} ${MM} ${SS}
+```
+
 # ユーザ
 
 ```
