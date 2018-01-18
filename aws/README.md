@@ -42,5 +42,12 @@ No | key | value(ex)
 * Name はなるべくリソース固有の値になるようにつけたい
 * Project は１アカウント１プロジェクトの場合にはなくてもいいが、自動化するならあったほうがよい
 * Environment は長いので短くしてもよい。環境はプロジェクトに必要なだけつける
+
+    * [State: Environments - Terraform by HashiCorp](https://www.terraform.io/docs/state/environments.html)
+    * terraform の以前のバージョンでは environment がステートの状態を表す変数として定義されており、IDEなどのコードヘルパーが反応してしまうことがある
+    * stateのプロパティとして参照すると、存在していない場合に"default" になってしまう（本来は空が望ましい）
+    * 存在していれば（output environment とすれば）その値を取得できる
+    * terraform側の仕様だけど若干使いにくいので、短い Env または Staging などを使用するといいかもしれない（とはいえ結局どれもよくないのでは。。。）
+
 * Service はweb,dbのような大枠や、rds,ecsのようなSaaSサービス名、ではなく、プロジェクト内の固有のサービスで分割するとよい。認証、チャット、機能といったサービスドメイン名が望ましい
 * Tier は主にsubnetのグルーピング用
