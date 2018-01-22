@@ -5,6 +5,12 @@
 * [Terraform Recommended Practices - Terraform by HashiCorp](https://www.terraform.io/docs/enterprise/guides/recommended-practices/index.html)
 * 管理対象のリソースが多くなると実行時間が長くなったり、ちょっとした変更が困難になることがあるので、適度に分割する
 * init と plan を定期的に実行し、状態を維持する
+
+    * init -upgrade でモジュールのアップデートできる
+    * .terraform ディレクトリを消して init しても同じ？
+    * provider や module の version でコントロールできる
+    * できるかぎり最新になるように管理したほうがいい気もする（運用次第か）
+
 * バックエンドはリモートにする
 * output は必要最低限で大丈夫
 * なるべく data リソースで連携する
