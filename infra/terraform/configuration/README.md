@@ -43,6 +43,7 @@
     * モジュール化する時は必要になるけど、通常はなくても大丈夫
     * output を期待してコードを書くと後で困るかも
     * 別モジュールの output を期待するよりも data source で検索したほうが便利
+    * 書き方の[サンプル](./output_syntax/)
 
 * [Configuring Local Values - Terraform by HashiCorp](https://www.terraform.io/docs/configuration/locals.html)
 
