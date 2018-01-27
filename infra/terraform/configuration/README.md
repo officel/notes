@@ -13,6 +13,7 @@
 * [Interpolation Syntax - Terraform by HashiCorp](https://www.terraform.io/docs/configuration/interpolation.html)
 
     * 各構文について個別にチェックする
+    * Built-in functions の [サンプル](./functions/) を書き始めた
 
 * [Overrides - Terraform by HashiCorp](https://www.terraform.io/docs/configuration/override.html)
 
