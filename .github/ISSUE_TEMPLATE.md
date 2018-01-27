@@ -1,37 +1,12 @@
-<!--
-ISSUE_TEMPLATE.md
-バグ用テンプレートと要望用テンプレートがあります。
--->
+# default issue_template.md
 
-<!--
-バグ用テンプレート
-（丸括弧）で括られている部分を書き換えてください
--->
-## :warning: 問題
+Please use other templates.
 
-:clock1: YYYY年MM月DD日HH時mm分 （発生日時を書いてください）
+* Bugs: https://github.com/officel/ghrb-jp/issues/new?template=bugs.md
+* Feature Requests: https://github.com/officel/ghrb-jp/issues/new?template=feature.md
+* Questions: https://github.com/officel/ghrb-jp/issues/new?template=question.md
 
-:envelope: （発生した問題を具体的に教えてください）
+Thank you.
 
-## :memo:  再現方法
+P.S. use preview tab, click to links.
 
-:point_right: （問題が再現する方法を書いてください）
-
-* 手順１
-* 手順２
-* 手順３
-
-## :+1: 解決に向けて
-
-:o: 解決時のゴールを書いてください
-
-
-<!--
-要望用テンプレート
--->
-
-## :love_letter: 要望
-
-## :smile: 目的
-
-## :clipboard: 提案内容
