@@ -5,6 +5,8 @@ variable "chomp_straing_1" {
 output "chomp_string_1" {
   description = "no removes"
   value       = "\"${chomp(var.chomp_straing_1)}\""
+
+  // space を除去するなら trimspace()
 }
 
 variable "chomp_straing_2" {
