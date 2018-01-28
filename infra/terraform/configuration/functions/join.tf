@@ -35,3 +35,7 @@ locals {
 output "join_2" {
   value = "${join("-", local.join_2)}"
 }
+
+output "join_2_2" {
+  value = "${join("-", list(var.join_2_1,var.join_2_2,var.join_2_3))}"
+}
