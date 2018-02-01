@@ -24,7 +24,7 @@ variable "coalescelist_2" {
 
   default = [
     "ok",
-    "ok1"
+    "ok1",
   ]
 }
 

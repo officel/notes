@@ -46,3 +46,4 @@ output "abs_signum_10_plus" {
 
 // signum() の例
 // https://github.com/hashicorp/terraform/issues/4853
+
