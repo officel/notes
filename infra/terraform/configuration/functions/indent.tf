@@ -8,5 +8,5 @@ locals {
 
 output "indent" {
   description = "先頭行は処理されない。末尾改行は処理される"
-  value = "\"${indent(4, local.indent_file)}\""
+  value       = "\"${indent(4, local.indent_file)}\""
 }
