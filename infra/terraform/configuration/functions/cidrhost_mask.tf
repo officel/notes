@@ -13,3 +13,7 @@ output "cidrhost_can_use_max_address" {
   description = "IP Address before Network broadcast address"
   value       = "${cidrhost(var.cidrhost_cidr, -2)}"
 }
+
+output "cidrhost_cidrmask" {
+  value = "${cidrnetmask(var.cidrhost_cidr)}"
+}
