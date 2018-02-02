@@ -8,7 +8,7 @@ output "basename_2" {
   value       = "${basename("/var/log/nginx/")}"
 }
 
-// goでの実装は path.Base() の戻り値なので
+// goでの実装は path/filepath.Base() の戻り値なので
 
 output "basename_current" {
   description = "空の場合は . が返る"
