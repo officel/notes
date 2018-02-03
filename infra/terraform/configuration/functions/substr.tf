@@ -1,6 +1,6 @@
 variable "substr_strings" {
   description = ""
-  default = "1234567789abcdef"
+  default     = "1234567789abcdef"
 }
 
 output "substr(str,0,1)" {
