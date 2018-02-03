@@ -19,3 +19,4 @@ output "sha" {
 //output "sha.sha256" {
 //  value = "${local.sha["sha256"]}"
 //}
+
