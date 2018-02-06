@@ -27,4 +27,8 @@ alias tflint='docker run --rm -v $(pwd):/data -t wata727/tflint'
 
 # GitBook
 alias gitbook='docker run --rm -v "$PWD":/gitbook -v /usr/share/fonts:/usr/share/fonts -p 4000:4000 --name gitbook officel/docker-gitbook-calibre gitbook'
+
+# terraforming
+alias terraforming='docker run --rm --name terraforming -e AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID -e AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY -e AWS_REGION=$AWS_DEFAULT_REGION quay.io/dtan4/terraforming:latest terraforming'
+
 ```
