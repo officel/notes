@@ -27,5 +27,15 @@ aws s3 ls
 
 ```
 
+## install
 
+* [AWS Command Line Interface のインストール - AWS Command Line Interface](https://docs.aws.amazon.com/ja_jp/cli/latest/userguide/installing.html)
+* [コマンド補完 - AWS Command Line Interface](https://docs.aws.amazon.com/ja_jp/cli/latest/userguide/cli-command-completion.html)
+
+```
+aws --version
+sudo pip install --upgrade awscli
+# amazon linux の場合は
+sudo pip install --upgrade --user awscli
+```
 
