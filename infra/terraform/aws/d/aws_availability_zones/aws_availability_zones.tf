@@ -5,7 +5,6 @@ data "aws_availability_zones" "available" {
 }
 
 output "aws_availability_zones" {
-  value = "${data.aws_availability_zones.available.names}"
+  description = "ap-northeast-1 の場合に 1b が使えるアカウントがある（古いアカウントだ）"
+  value       = "${data.aws_availability_zones.available.names}"
 }
-
-# ap-northeast-1 の場合に 1b が使えるアカウントがある（古いアカウントだ）

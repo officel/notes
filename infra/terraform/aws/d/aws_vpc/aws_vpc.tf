@@ -1,12 +1,7 @@
 # [AWS: aws_vpc - Terraform by HashiCorp](https://www.terraform.io/docs/providers/aws/d/vpc.html)
 
 data "aws_vpc" "selected" {
-  filter {
-    name = "tag:Name"
-    values = [
-      ""
-    ]
-  }
+  default = true
 }
 
 output "aws_vpc_id" {
@@ -20,3 +15,4 @@ output "aws_vpc_id" {
 # これも誤りだった。../../examples/01_vpc_select 参照
 # 外部ステートを取り込むよりも所定の条件で絞ってdataリソースを使うほうが再利用性が高いと思う
 # VPCに適切なNameを付けて扱えば便利
+
