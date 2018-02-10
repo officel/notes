@@ -1,0 +1,10 @@
+# ssh config
+Host *
+    # User
+    # IdentityFile ~/.ssh/id_rsa
+    StrictHostKeyChecking no
+    GSSAPIAuthentication no
+    UserKnownHostsFile /dev/null
+
+Host 10.0.*
+    ProxyCommand ssh -F ssh_config -W %h:%p bastion.example.com

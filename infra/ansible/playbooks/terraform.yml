@@ -1,0 +1,36 @@
+- hosts: all
+  become: true
+  gather_facts: true
+  vars:
+    terraform_alias_dir: "/usr/local/bin"
+    terraform_install_dir: "/usr/local/share/terraform"
+    terraform_install_version: 0.11.3
+    terraform_install_version_dir: "{{ terraform_install_dir }}/{{ terraform_install_version }}"
+    terraform_download_url: "https://releases.hashicorp.com/terraform/{{ terraform_install_version }}/terraform_{{ terraform_install_version }}_linux_amd64.zip"
+  tasks:
+
+    - name: create install directory
+      file:
+        path:  "{{ terraform_install_version_dir }}"
+        owner: root
+        group: root
+        mode:  0755
+        state: directory
+
+    - name: download
+      unarchive:
+        copy:    no
+        src:     "{{ terraform_download_url }}"
+        dest:    "{{ terraform_install_version_dir }}"
+        creates: "{{ terraform_install_version_dir }}/terraform"
+        mode:    0755
+        owner:   root
+        group:   root
+
+    - name: create symlink
+      file:
+        state: link
+        src:   "{{ terraform_install_version_dir }}/terraform"
+        dest:  "{{ terraform_alias_dir }}/terraform"
+        owner: root
+        group: root
