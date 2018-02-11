@@ -6,8 +6,7 @@ data "aws_vpc" "default" {
 
 // greoup_name が default なのが VPC のデフォルトセキュリティグループでいいはず。。。
 data "aws_security_group" "default" {
-  description = "default security group"
-  vpc_id      = "${data.aws_vpc.default.id}"
+  vpc_id = "${data.aws_vpc.default.id}"
 
   filter {
     name = "group-name"
@@ -19,5 +18,18 @@ data "aws_security_group" "default" {
 }
 
 output "aws_security_group.default" {
-  value = "${data.aws_security_group.default.id}"
+  description = "default security group by group_name default"
+  value       = "${data.aws_security_group.default.id}"
+}
+
+// name = default もVPCのデフォルトセキュリティグループを指す
+// ちなみに新しいセキュリティグループを作成する時のnameにdefaultは使えないみたい
+data "aws_security_group" "default_name" {
+  vpc_id = "${data.aws_vpc.default.id}"
+  name   = "default"
+}
+
+output "aws_security_group.default_name" {
+  description = "default security group by name default"
+  value       = "${data.aws_security_group.default_name.id}"
 }
