@@ -83,3 +83,8 @@ dd if=/dev/random  of=/dev/null bs=1 count=1000000
 # 速い
 dd if=/dev/urandom of=/dev/null bs=1 count=1000000
 ```
+
+# watch curl
+```
+watch -n 1 curl http://example.com/ -s
+```
