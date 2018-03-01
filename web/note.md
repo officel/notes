@@ -45,3 +45,16 @@ htdigest [新規の場合に -c ] .htdigest "レルム文字列"
 # 新規の場合は -c をつける
 htpasswd -b /var/www/vhosts/.htpasswd id pass
 ```
+
+## CORS
+
+* 一旦簡単に通過できればいいなら最低限これで
+* サイト全体のアクセス制御、セキュリティコントロールは別途行うこと
+
+```
+  add_header Access-Control-Allow-Origin *;
+  add_header Access-Control-Allow-Methods "POST, GET, OPTIONS";
+  add_header Access-Control-Allow-Headers "Origin, Authorization, Accept, Content-Type";
+  add_header Access-Control-Allow-Credentials true;
+  add_header Access-Control-Expose-Headers "xxx-sessid";
+```
