@@ -12,6 +12,11 @@ build:
 
 deploy:
   steps:
-    - lukevivier/gh-pages:
-        token: $GH_TOKEN
-        basedir: site
+    #- lukevivier/gh-pages:
+    #    token: $GH_TOKEN
+    #    basedir: site
+    - git-push:
+         gh_oauth: $GH_TOKEN
+         gh_pages: true
+         basedir: site
+
