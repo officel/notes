@@ -2,7 +2,7 @@ box:
   id: squidfunk/mkdocs-material
   ports:
     - "8000"
-  entrypoint: /bin/bash -c
+  entrypoint: 
 
 build:
   steps:
