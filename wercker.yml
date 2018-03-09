@@ -1,14 +1,17 @@
-box: alpine
+box:
+  id: squidfunk/mkdocs-material
+  ports:
+    - "8000"
+  endpoint:
+    - ""
 
 build:
   steps:
-    - squidfunk/mkdocs-material
     - script:
       code: |
         mkdocs build
 deploy:
   steps:
-    - squidfunk/mkdocs-material
     - lukevivier/gh-pages:
         token: $GH_TOKEN
         basedir: site
