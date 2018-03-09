@@ -15,7 +15,7 @@ deploy:
     #- lukevivier/gh-pages:
     #    token: $GH_TOKEN
     #    basedir: site
-    - git-push:
+    - leipert/git-push:
          gh_oauth: $GH_TOKEN
          gh_pages: true
          basedir: site
