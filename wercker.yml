@@ -2,7 +2,7 @@ box:
   id: squidfunk/mkdocs-material
   ports:
     - "8000"
-  entrypoint: "/bin/bash -c"
+  entrypoint: /bin/bash -c
 
 build:
   steps:
@@ -15,6 +15,3 @@ deploy:
     - lukevivier/gh-pages:
         token: $GH_TOKEN
         basedir: site
-        branch: gh-pages
-        domain: officel.github.io/notes
-
