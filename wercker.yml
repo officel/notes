@@ -9,13 +9,12 @@ build:
     - script:
       code: |
         mkdocs build
+
 deploy:
   steps:
-    - install-packages:
-        packages: git ssh-client
     - lukevivier/gh-pages:
         token: $GH_TOKEN
         basedir: site
-        branch: "gh-pages"
-        domain: "officel.github.io/notes"
+        branch: gh-pages
+        domain: officel.github.io/notes
 
