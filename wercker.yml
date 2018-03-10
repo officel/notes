@@ -20,5 +20,5 @@ deploy:
   after-steps:
     - script:
       code: |
-        git config -l
+        git log
 
