@@ -12,12 +12,22 @@ build:
 
 deploy:
   steps:
+    - script:
+      code: |
+        rm -fr .git
+    - script:
+      code: |
+        ls -la
+    
     - lukevivier/gh-pages@0.2.1:
         token: $GH_TOKEN
         basedir: site
         branch: gh-pages
 
   after-steps:
+    - script:
+      code: |
+        ls -la
     - script:
       code: |
         git log
