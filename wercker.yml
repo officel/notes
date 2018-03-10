@@ -15,4 +15,5 @@ deploy:
     - lukevivier/gh-pages:
         token: $GH_TOKEN
         basedir: site
+        branch: gh-pages
 
