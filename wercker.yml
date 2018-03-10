@@ -12,7 +12,7 @@ build:
 
 deploy:
   steps:
-    - lukevivier/gh-pages:
+    - lukevivier/gh-pages@0.2.1:
         token: $GH_TOKEN
         basedir: site
         branch: gh-pages
