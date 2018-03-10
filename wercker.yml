@@ -14,7 +14,7 @@ deploy:
   steps:
     - script:
       code: |
-        cat /pipeline/gh-pages-*/run.sh
+        which git
     - lukevivier/gh-pages@0.2.1:
         token: $GH_TOKEN
         basedir: site
