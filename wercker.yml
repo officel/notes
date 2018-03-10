@@ -12,6 +12,9 @@ build:
 
 deploy:
   steps:
+    - script:
+      code: |
+        ls -l
     - lukevivier/gh-pages@0.2.1:
         token: $GH_TOKEN
         basedir: site
