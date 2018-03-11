@@ -41,4 +41,13 @@ git reset HEAD <FILE>    # add をなかったことにする
 git rm --cached <FILE>   # まだ管理下になかったファイルをaddしてないことにする
 git reset --soft HEAD^   # 直前のコミットをなかったことにする（ワーキングディレクトリはそのまま）
 git reset --hard HEAD^   # 同上（ワーキングディレクトリもきれいに）
+
+git commit --allow-empty -m "resolve #xx" # ブランチ作業で空コミットを打って ISSUE に紐づける
+
+```
+
+## Tips
+
+```
+git log --first-parent | tail -10 # 最初の（頃の）コミットを表示
 ```
