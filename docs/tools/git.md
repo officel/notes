@@ -49,5 +49,5 @@ git commit --allow-empty -m "resolve #xx" # ブランチ作業で空コミット
 ## Tips
 
 ```
-git log --first-parent | tail -10 # 最初の（頃の）コミットを表示
+git log --first-parent --reverse # コミットを最初から表示
 ```
