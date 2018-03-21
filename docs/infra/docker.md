@@ -22,6 +22,9 @@ docker images -f "dangling=true" -q | xargs docker rmi
 # alpine+nginx
 alias alpinx='docker run -it --rm --name alpinx -v `pwd`:/usr/share/nginx/html:ro -v /etc/localtime:/etc/localtime:ro -d -p 8080:80 nginx:alpine'
 
+# php:apache
+alias phpache='docker run -it --rm -v `pwd`:/var/www/html/ -p 8082:80 --name phpache php:apache'
+
 # tflint
 alias tflint='docker run --rm -v $(pwd):/data -t wata727/tflint'
 
