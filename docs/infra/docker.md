@@ -66,3 +66,25 @@ al2-base ansible_user=root
 
 ansible-playbook -i inventory/docker playbooks_packer/base.yml -c docker -l al2-base
 ```
+
+## composer
+
+* https://hub.docker.com/_/composer/
+
+```
+composer () {
+    tty=
+    tty -s && tty=--tty
+    docker run \
+        $tty \
+        --interactive \
+        --rm \
+        --user $(id -u):$(id -g) \
+        --volume /etc/passwd:/etc/passwd:ro \
+        --volume /etc/group:/etc/group:ro \
+        --volume $(pwd):/app \
+        composer "$@"
+}
+```
+
+んー、、、alias にしてもいい気がする。。。？
