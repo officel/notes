@@ -50,3 +50,16 @@ aws ec2 describe-vpcs | jq -r '.Vpcs[] | .VpcId, (.Tags | from_entries | .Name)'
 
 ※ from_entries https://stedolan.github.io/jq/manual/#Builtinoperatorsandfunctions
 
+### AWS VPC Subnet
+
+```
+# 特定のVPCのsubnetをリスト
+aws ec2 describe-subnets | jq -r '.Subnets[] | select(.VpcId == "$VpcId") | (.Tags | from_entries | .Name), .CidrBlock'
+```
+
+### AWS NatGateway
+
+```
+# 特定のVPCのNatGatewayをリスト
+aws ec2 describe-nat-gateways | jq -r '.NatGateways[] | select(.VpcId == "$VpcId") | .NatGatewayAddresses, (.Tags|from_entries|.Name)'
+```

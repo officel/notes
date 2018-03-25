@@ -16,6 +16,7 @@ copyright: 'Copyright &copy; 2017 - Office L'
 # Configuration
 theme:
   name: 'material'
+  custom_dir: 'custom'
   language: 'en'
   palette:
     primary: 'Grey'
