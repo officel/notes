@@ -25,3 +25,15 @@ echo $ec2 | jq -r '.Reservations[].Instances[].Tags[] | select(.Key == "Project"
 
 ```
 
+### AWS Route53
+
+```
+# zone をリスト
+aws route53 list-hosted-zones | jq -r '.HostedZones[].Name | rtrimstr(".")' | more
+
+# Private zone をリスト
+aws route53 list-hosted-zones | jq -r '.HostedZones[] | select(.Config.PrivateZone == true) | .Name | rtrimstr(".")'
+
+# PrivateDNS と VPC の関連を取得したいけど、リストから取得する方法がわからない
+aws route53 get-hosted-zone --id $HostedZoneId | jq -r '.VPCs[].VPCId'
+```
