@@ -37,3 +37,16 @@ aws route53 list-hosted-zones | jq -r '.HostedZones[] | select(.Config.PrivateZo
 # PrivateDNS と VPC の関連を取得したいけど、リストから取得する方法がわからない
 aws route53 get-hosted-zone --id $HostedZoneId | jq -r '.VPCs[].VPCId'
 ```
+
+### AWS VPC
+
+```
+# VPC の一覧（Nameも）
+aws ec2 describe-vpcs | jq -r '.Vpcs[] | .VpcId, (.Tags[] | select(.Key == "Name") | .Value)'
+
+# Tags については from_entries を使うとタイプ数が減る
+aws ec2 describe-vpcs | jq -r '.Vpcs[] | .VpcId, (.Tags | from_entries | .Name)'
+```
+
+※ from_entries https://stedolan.github.io/jq/manual/#Builtinoperatorsandfunctions
+
