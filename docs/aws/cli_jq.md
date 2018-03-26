@@ -11,19 +11,25 @@
 ### Amazon EC2
 ```
 # インスタンスID
-export instance_id=`curl -s http://169.254.169.254/latest/meta-data/instance-id`
+INSTANCE_ID=`curl -s http://169.254.169.254/latest/meta-data/instance-id`
 
 # インスタンス情報
-export ec2=`aws ec2 describe-instances --instance-id $instance_id`
+INSTANCE_DATA=`aws ec2 describe-instances --instance-id $INSTANCE_ID`
 
 # プライベートIP
-echo $ec2 | jq -r '.Reservations[].Instances[].PrivateIpAddress'
+PRIVATE_IPV4=`echo $INSTANCE_DATA | jq -r '.Reservations[].Instances[].PrivateIpAddress'`
 
-# タグ
-echo $ec2 | jq -r '.Reservations[].Instances[].Tags[]'
+# タグ（全て）
+echo $INSTANCE_DATA | jq -r '.Reservations[].Instances[].Tags[]'
+# タグ（指定のキーの値）
+echo $INSTANCE_DATA | jq -r '.Reservations[].Instances[].Tags[] | select(.Key == "Project") | .Value'
+# タグ（指定のキーの値（改））
+echo $INSTANCE_DATA | jq -r '.Reservations[].Instances[] | (.Tags | from_entries | .Project)'
 
-# 指定のキーの値
-echo $ec2 | jq -r '.Reservations[].Instances[].Tags[] | select(.Key == "Project") | .Value'
+# Project タグ
+TAG_PROJECT=`echo $INSTANCE_DATA | jq -r '.Reservations[].Instances[] | (.Tags | from_entries | .Project)'`
+# Environment タグ
+TAG_ENVIRONMENT=`echo $INSTANCE_DATA | jq -r '.Reservations[].Instances[] | (.Tags | from_entries | .Environment)'`
 
 ```
 
