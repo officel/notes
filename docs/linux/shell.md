@@ -31,3 +31,13 @@ cat > file  のあと CTRL+C
 ```
 SCRIPT_DIR=$(cd $(dirname ${BASH_SOURCE:-$0}); pwd)
 ```
+
+* シェルで substr っぽいの
+
+```
+str="0123456789"
+echo ${str:0:3}  # 012
+echo ${str:1:3}  # 123
+echo ${str:0:-2}  # 01234567 末尾から2文字消す
+```
+
