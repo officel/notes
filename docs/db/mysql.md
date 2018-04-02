@@ -1,29 +1,40 @@
 # MySQL
 
-## トラブル
+## トラブルシューティング
 
-```
-show status like '%connect%';
-show global variables like 'max_connections';
+### 現在の接続数
 
-# ステータスリセット
-flush status
-```
+    show status like '%connect%';
 
+### 最大接続数を確認
 
-## 接続
+    show global variables like 'max_connections';
 
-```
-mysql -u root -p -h HOSTNAME DBNAME -e'show tables;'
-```
+### 起動後からの最大接続数
 
-## 設定等
+    show global status like 'Max_used_connections';
 
-```
-select version();
-select database();
-select current_user();
-```
+### ステータスリセット
+
+    flush status
+
+## 運用
+
+### 接続
+
+    mysql -u root -p -h HOSTNAME DBNAME -e'show tables;'
+
+### バージョン確認
+
+    select version();
+
+### 現在接続しているDB
+
+    select database();
+
+### 現在使用しているユーザ
+
+    select current_user();
 
 ## 一覧
 
@@ -36,7 +47,7 @@ show global status;
 show variables;
 show global variables;
 show table status;
-show index from TABLENAME
+show index from TABLENAME;
 ```
 
 ## 権限等
@@ -71,7 +82,7 @@ mysql -u root -N < user.sql
 
 ## ローカル設定ファイル
 
-```
+```.my.cnf
 [client]
 # user dev
 # password=
