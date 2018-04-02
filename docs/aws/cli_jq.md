@@ -31,6 +31,11 @@ TAG_PROJECT=`echo $INSTANCE_DATA | jq -r '.Reservations[].Instances[] | (.Tags |
 # Environment タグ
 TAG_ENVIRONMENT=`echo $INSTANCE_DATA | jq -r '.Reservations[].Instances[] | (.Tags | from_entries | .Environment)'`
 
+# Region の一覧
+aws ec2 describe-regions | jq -r '.Regions | sort_by(.RegionName)[].RegionName'
+# リージョン内のEC2のリスト -c で改行しないコンパクト表示、-r でダブルクォーテーションをつけない、@tsv で TSV出力
+aws ec2 describe-instances --region ap-northeast-1 | jq -c -r '.Reservations[].Instances[] | [.Placement.AvailabilityZone, .State.Name, .InstanceId] | @tsv'
+
 ```
 
 ### Amazon VPC
