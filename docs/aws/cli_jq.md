@@ -9,6 +9,16 @@
 ## Compute
 
 ### Amazon EC2
+
+#### インスタンスID
+
+    INSTANCE_ID=`curl -s http://169.254.169.254/latest/meta-data/instance-id`
+
+#### インスタンス情報
+
+    INSTANCE_DATA=`aws ec2 describe-instances --instance-id $INSTANCE_ID`
+
+
 ```
 # インスタンスID
 INSTANCE_ID=`curl -s http://169.254.169.254/latest/meta-data/instance-id`
