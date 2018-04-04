@@ -118,6 +118,24 @@
 
 ## Customer Engagement
 
+### Amazon SES
+
+#### リージョンを指定（対応リージョン注意）
+
+
+    export AWS_DEFAULT_REGION=us-east-1
+
+    domain=DOMAIN
+
+    aws ses verify-domain-identity --domain $domain
+
+    aws ses list-identities
+
+    aws ses get-identity-verification-attributes --identities $domain
+    
+    aws ses get-identity-mail-from-domain-attributes --identities $domain
+
+
 ## Business Productivity
 
 ## Desktop & App Streaming
