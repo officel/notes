@@ -50,7 +50,7 @@
 
 -c で改行しないコンパクト表示、-r でダブルクォーテーションをつけない、@tsv で TSV出力
 
-    aws ec2 describe-instances --region ap-northeast-1 | jq -c -r '.Reservations[].Instances[] | [.Placement.AvailabilityZone, .State.Name, .InstanceId] | @tsv'
+    aws ec2 describe-instances --region ap-northeast-1 | jq -c -r '.Reservations[].Instances[] | [.Placement.AvailabilityZone, .State.Name, .InstanceId, (.Tags[] | select(.Key=="Name").Value)] | @tsv'
 
 
 ### Amazon VPC
