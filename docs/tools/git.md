@@ -44,6 +44,11 @@ git reset --hard HEAD^   # 同上（ワーキングディレクトリもきれ�
 
 git commit --allow-empty -m "resolve #xx" # ブランチ作業で空コミットを打って ISSUE に紐づける
 
+# wip 
+git checkout -b feature/999_xxx
+git commit --allow-empty -m "[wip] #999"
+git push --set-upstream origin feature/999_xxx
+
 ```
 
 ## Tips
