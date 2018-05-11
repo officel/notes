@@ -83,6 +83,16 @@
 
 ## Networking & Content Delivery
 
+### Amazon CloudFront
+
+#### ディストリビューションをリスト
+
+    aws cloudfront list-distributions | jq -r '.DistributionList.Items[] | .Id'
+
+#### 特定のエイリアスのディストリビューションを取得（[0]をやめたい。。。）
+
+    aws cloudfront list-distributions | jq -r '.DistributionList.Items[] | select(.Aliases.Items[0] == "example.com")   | .Id'
+
 ### AWS Route53
 
 #### zone をリスト
