@@ -34,6 +34,10 @@ alias gitbook='docker run --rm -v "$PWD":/gitbook -v /usr/share/fonts:/usr/share
 # terraforming
 alias terraforming='docker run --rm --name terraforming -e AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID -e AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY -e AWS_REGION=$AWS_DEFAULT_REGION quay.io/dtan4/terraforming:latest terraforming'
 
+# node:alpine（お遊びでnodeを使うために公式の軽いやつを使う）
+# workdir が設定されていないので -w で適当なディレクトリと -v のディレクトリをあわせないと書き出しができない
+alias node='docker run -it --rm -v `pwd`:/app -w /app node:alpine'
+
 ```
 
 ## Amazon Linux 2
