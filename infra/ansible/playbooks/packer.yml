@@ -1,0 +1,36 @@
+- hosts: all
+  become: true
+  gather_facts: true
+  vars:
+    packer_alias_dir: "/usr/local/bin"
+    packer_install_dir: "/usr/local/share/packer"
+    packer_install_version: 1.2.0
+    packer_install_version_dir: "{{ packer_install_dir }}/{{ packer_install_version }}"
+    packer_download_url: "https://releases.hashicorp.com/packer/{{ packer_install_version }}/packer_{{ packer_install_version }}_linux_amd64.zip"
+  tasks:
+
+    - name: create install directory
+      file:
+        path:  "{{ packer_install_version_dir }}"
+        owner: root
+        group: root
+        mode:  0755
+        state: directory
+
+    - name: download
+      unarchive:
+        copy:    no
+        src:     "{{ packer_download_url }}"
+        dest:    "{{ packer_install_version_dir }}"
+        creates: "{{ packer_install_version_dir }}/packer"
+        mode:    0755
+        owner:   root
+        group:   root
+
+    - name: create symlink
+      file:
+        state: link
+        src:   "{{ packer_install_version_dir }}/packer"
+        dest:  "{{ packer_alias_dir }}/packer"
+        owner: root
+        group: root

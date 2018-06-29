@@ -1,0 +1,1099 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Home\nLink\n\n\nTIL \u306e\u4ee3\u308f\u308a\u306e\u30e1\u30e2\u7528\u30da\u30fc\u30b8", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#home", 
+            "text": "TIL \u306e\u4ee3\u308f\u308a\u306e\u30e1\u30e2\u7528\u30da\u30fc\u30b8", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/aws/account-billing/", 
+            "text": "\u8acb\u6c42\u3068\u30b3\u30b9\u30c8\u7ba1\u7406\nLink\n\n\nAWS \u8acb\u6c42\u60c5\u5831\u3068\u30b3\u30b9\u30c8\u7ba1\u7406\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8| AWS\n\n\n\n\n\u4e00\u62ec\u8acb\u6c42\uff08\u30b3\u30f3\u30bd\u30ea\u30c7\u30fc\u30c6\u30a3\u30c3\u30c9\u30d3\u30ea\u30f3\u30b0\uff09\u4f7f\u3063\u3066\u308b\u3068\u7d30\u304b\u3044\u3068\u3053\u308d\u7121\u8996\u3057\u3061\u3083\u3046\u306e\u3067\u30b3\u30b9\u30c8\u30c1\u30a7\u30c3\u30af\u7518\u304f\u306a\u308b\n\n\nLambda \u3092\u4f7f\u3063\u3066\u73fe\u5728\u306e\u8acb\u6c42\u984d\u3092\u6bce\u65e5\u30c1\u30e3\u30c3\u30c8\u3067\u9001\u308b\u3068\u304b\u3067\u304d\u308b\u3051\u3069\u3001\u6b63\u76f4\u30b4\u30df\u30ed\u30b0\u306b\u306a\u308b\u3060\u3051\u306a\u306e\u3067\u6ce8\u610f", 
+            "title": "\u8acb\u6c42\u3068\u30b3\u30b9\u30c8\u7ba1\u7406"
+        }, 
+        {
+            "location": "/aws/account-billing/#_1", 
+            "text": "AWS \u8acb\u6c42\u60c5\u5831\u3068\u30b3\u30b9\u30c8\u7ba1\u7406\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8| AWS   \u4e00\u62ec\u8acb\u6c42\uff08\u30b3\u30f3\u30bd\u30ea\u30c7\u30fc\u30c6\u30a3\u30c3\u30c9\u30d3\u30ea\u30f3\u30b0\uff09\u4f7f\u3063\u3066\u308b\u3068\u7d30\u304b\u3044\u3068\u3053\u308d\u7121\u8996\u3057\u3061\u3083\u3046\u306e\u3067\u30b3\u30b9\u30c8\u30c1\u30a7\u30c3\u30af\u7518\u304f\u306a\u308b  Lambda \u3092\u4f7f\u3063\u3066\u73fe\u5728\u306e\u8acb\u6c42\u984d\u3092\u6bce\u65e5\u30c1\u30e3\u30c3\u30c8\u3067\u9001\u308b\u3068\u304b\u3067\u304d\u308b\u3051\u3069\u3001\u6b63\u76f4\u30b4\u30df\u30ed\u30b0\u306b\u306a\u308b\u3060\u3051\u306a\u306e\u3067\u6ce8\u610f", 
+            "title": "\u8acb\u6c42\u3068\u30b3\u30b9\u30c8\u7ba1\u7406"
+        }, 
+        {
+            "location": "/aws/cli/", 
+            "text": "cli\nLink\n\n\nCommand Line Interface.\n\n\n\n\nAWS \u30b3\u30de\u30f3\u30c9\u30e9\u30a4\u30f3\u30a4\u30f3\u30bf\u30fc\u30d5\u30a7\u30a4\u30b9\uff08CLI\uff09\u306e\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\uff5cAWS\n\n\njq\n \u3092\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3057\u3066\u304a\u304f\u3068\u4fbf\u5229\n\n\n\n\nSetting\nLink\n\n\n\n\n\u8a2d\u5b9a\u30d5\u30a1\u30a4\u30eb\u3068\u8a8d\u8a3c\u60c5\u5831\u30d5\u30a1\u30a4\u30eb\n\n\n\u3053\u306e\u4ed8\u8fd1\u306e\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u3092\u3088\u304f\u8aad\u3080\n\n\nAssumeRole \u3092\u4f7f\u3046\u6642\u306f\nIAM \u30ed\u30fc\u30eb\u306e\u5207\u308a\u66ff\u3048\n\u3092\u53c2\u8003\u306b\u3059\u308b\n\n\n\n\n\u3053\u308c\u3089\u306f\u3053\u308c\u3089\u3068\u3057\u3066\u3001\u30a4\u30f3\u30d5\u30e9\u4f5c\u696d\u7528\u306e\u30a2\u30ab\u30a6\u30f3\u30c8\u306e\u30c6\u30b9\u30c8\u3092\u3059\u308b\u306b\u306f\nEnvironment Variables\n\u3092\u53c2\u8003\u306b\u3001\u74b0\u5883\u5909\u6570\u3067\u5bfe\u5fdc\u3059\u308b\u3068\u5f8c\u3005\u697d\n\n\n\n\njenkins \u306b\u306f\u30af\u30ec\u30c7\u30f3\u30b7\u30e3\u30eb\u3092\u6271\u3046\u6a5f\u80fd\u304c\u3042\u308b\n\n\nterraform \u3084 ansible \u306f\u3053\u308c\u3089\u306e\u74b0\u5883\u5909\u6570\u3092\u8aad\u307f\u8fbc\u3080\u3053\u3068\u304c\u3067\u304d\u308b\uff08\u6b63\u78ba\u306b\u306fboto\u304c\uff09\n\n\n\n\n\n\n\n\n\u30b3\u30de\u30f3\u30c9\u88dc\u5b8c\n\u3082\u4fbf\u5229\u306a\u306e\u3067\u8a2d\u5b9a\u3057\u3066\u304a\u304f\n\n\n\n\n\n\nMemo\nLink\n\n\n# \u30a2\u30ab\u30a6\u30f3\u30c8\u3084\u30ed\u30fc\u30eb\u3092\u5207\u308a\u66ff\u3048\u305f\u5f8c\u306e\u30c6\u30b9\u30c8\u306b\naws s3 ls\n\n#\n\n\n\n\ninstall\nLink\n\n\n\n\nAWS Command Line Interface \u306e\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb - AWS Command Line Interface\n\n\n\u30b3\u30de\u30f3\u30c9\u88dc\u5b8c - AWS Command Line Interface\n\n\n\n\naws --version\nsudo pip install --upgrade awscli\n# amazon linux \u306e\u5834\u5408\u306f\nsudo pip install --upgrade --user awscli", 
+            "title": "cli"
+        }, 
+        {
+            "location": "/aws/cli/#cli", 
+            "text": "Command Line Interface.   AWS \u30b3\u30de\u30f3\u30c9\u30e9\u30a4\u30f3\u30a4\u30f3\u30bf\u30fc\u30d5\u30a7\u30a4\u30b9\uff08CLI\uff09\u306e\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\uff5cAWS  jq  \u3092\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3057\u3066\u304a\u304f\u3068\u4fbf\u5229", 
+            "title": "cli"
+        }, 
+        {
+            "location": "/aws/cli/#setting", 
+            "text": "\u8a2d\u5b9a\u30d5\u30a1\u30a4\u30eb\u3068\u8a8d\u8a3c\u60c5\u5831\u30d5\u30a1\u30a4\u30eb  \u3053\u306e\u4ed8\u8fd1\u306e\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u3092\u3088\u304f\u8aad\u3080  AssumeRole \u3092\u4f7f\u3046\u6642\u306f IAM \u30ed\u30fc\u30eb\u306e\u5207\u308a\u66ff\u3048 \u3092\u53c2\u8003\u306b\u3059\u308b   \u3053\u308c\u3089\u306f\u3053\u308c\u3089\u3068\u3057\u3066\u3001\u30a4\u30f3\u30d5\u30e9\u4f5c\u696d\u7528\u306e\u30a2\u30ab\u30a6\u30f3\u30c8\u306e\u30c6\u30b9\u30c8\u3092\u3059\u308b\u306b\u306f Environment Variables \u3092\u53c2\u8003\u306b\u3001\u74b0\u5883\u5909\u6570\u3067\u5bfe\u5fdc\u3059\u308b\u3068\u5f8c\u3005\u697d   jenkins \u306b\u306f\u30af\u30ec\u30c7\u30f3\u30b7\u30e3\u30eb\u3092\u6271\u3046\u6a5f\u80fd\u304c\u3042\u308b  terraform \u3084 ansible \u306f\u3053\u308c\u3089\u306e\u74b0\u5883\u5909\u6570\u3092\u8aad\u307f\u8fbc\u3080\u3053\u3068\u304c\u3067\u304d\u308b\uff08\u6b63\u78ba\u306b\u306fboto\u304c\uff09     \u30b3\u30de\u30f3\u30c9\u88dc\u5b8c \u3082\u4fbf\u5229\u306a\u306e\u3067\u8a2d\u5b9a\u3057\u3066\u304a\u304f", 
+            "title": "Setting"
+        }, 
+        {
+            "location": "/aws/cli/#memo", 
+            "text": "# \u30a2\u30ab\u30a6\u30f3\u30c8\u3084\u30ed\u30fc\u30eb\u3092\u5207\u308a\u66ff\u3048\u305f\u5f8c\u306e\u30c6\u30b9\u30c8\u306b\naws s3 ls\n\n#", 
+            "title": "Memo"
+        }, 
+        {
+            "location": "/aws/cli/#install", 
+            "text": "AWS Command Line Interface \u306e\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb - AWS Command Line Interface  \u30b3\u30de\u30f3\u30c9\u88dc\u5b8c - AWS Command Line Interface   aws --version\nsudo pip install --upgrade awscli\n# amazon linux \u306e\u5834\u5408\u306f\nsudo pip install --upgrade --user awscli", 
+            "title": "install"
+        }, 
+        {
+            "location": "/aws/cli_jq/", 
+            "text": "cli with jq\nLink\n\n\n\n\n\u30ab\u30c6\u30b4\u30ea\u306f\nAWS Documentation\n\u306b\u3042\u308f\u305b\u308b\n\n\nVPC\u306e\u3088\u3046\u306b\u8907\u6570\u306e\u30ab\u30c6\u30b4\u30ea\u306b\u51fa\u73fe\u3059\u308b\u3082\u306e\u306f\u5148\u306e\u30ab\u30c6\u30b4\u30ea\u306b\u3044\u308c\u308b\n\n\nNatGateway \u306e\u3088\u3046\u306b\u30ab\u30c6\u30b4\u30ea\u306b\u3082\u30b5\u30fc\u30d3\u30b9\u3068\u3057\u3066\u3082\u72ec\u7acb\u3057\u3066\u3044\u306a\u3044\u3082\u306e\u306f\u306a\u308b\u3079\u304f\u308f\u304b\u308a\u3084\u3059\u3044\u4f4d\u7f6e\u306b\u3044\u308c\u308b\u3002EC2 \u306e\u30b5\u30d6\u30b3\u30de\u30f3\u30c9\u306b\u306a\u3063\u3066\u3044\u308b\u304c\u3001VPC\u3068\u95a2\u9023\u304c\u9ad8\u3044\u306e\u3067VPC\u306e\u4e0b\u306b\u304a\u304f\u306a\u3069\n\n\n\u983b\u7e41\u306b\u66f4\u65b0\u3055\u308c\u308b\u306e\u3067\u3001\u3086\u308b\u3086\u308b\u3068\u8ffd\u5f93\u4e88\u5b9a\n\n\njq\u306e\u30da\u30fc\u30b8\u3082\u53c2\u7167\n\n\n\n\nCompute\nLink\n\n\nAmazon EC2\nLink\n\n\n\u30a4\u30f3\u30b9\u30bf\u30f3\u30b9ID\nLink\n\n\nINSTANCE_ID=`curl -s http://169.254.169.254/latest/meta-data/instance-id`\n\n\n\n\n\n\u30a4\u30f3\u30b9\u30bf\u30f3\u30b9\u60c5\u5831\nLink\n\n\nINSTANCE_DATA=`aws ec2 describe-instances --instance-id $INSTANCE_ID`\n\n\n\n\n\n\u30d7\u30e9\u30a4\u30d9\u30fc\u30c8IP\nLink\n\n\nPRIVATE_IPV4=`echo $INSTANCE_DATA | jq -r \n.Reservations[].Instances[].PrivateIpAddress\n`\n\n\n\n\n\n\u30bf\u30b0\uff08\u5168\u3066\uff09\nLink\n\n\necho $INSTANCE_DATA | jq -r \n.Reservations[].Instances[].Tags[]\n\n\n\n\n\n\n\u30bf\u30b0\uff08\u6307\u5b9a\u306e\u30ad\u30fc\u306e\u5024\uff09\nLink\n\n\necho $INSTANCE_DATA | jq -r \n.Reservations[].Instances[].Tags[] | select(.Key == \nProject\n) | .Value\n\n\n\n\n\n\n\u30bf\u30b0\uff08\u6307\u5b9a\u306e\u30ad\u30fc\u306e\u5024\uff08\u6539\uff09\uff09\nLink\n\n\necho $INSTANCE_DATA | jq -r \n.Reservations[].Instances[] | (.Tags | from_entries | .Project)\n\n\n\n\n\n\nProject \u30bf\u30b0\nLink\n\n\nTAG_PROJECT=`echo $INSTANCE_DATA | jq -r \n.Reservations[].Instances[] | (.Tags | from_entries | .Project)\n`\n\n\n\n\n\nEnvironment \u30bf\u30b0\nLink\n\n\nTAG_ENVIRONMENT=`echo $INSTANCE_DATA | jq -r \n.Reservations[].Instances[] | (.Tags | from_entries | .Environment)\n`\n\n\n\n\n\nRegion \u306e\u4e00\u89a7\nLink\n\n\naws ec2 describe-regions | jq -r \n.Regions | sort_by(.RegionName)[].RegionName\n\n\n\n\n\n\n\u30ea\u30fc\u30b8\u30e7\u30f3\u5185\u306eEC2\u306e\u30ea\u30b9\u30c8\nLink\n\n\n-c \u3067\u6539\u884c\u3057\u306a\u3044\u30b3\u30f3\u30d1\u30af\u30c8\u8868\u793a\u3001-r \u3067\u30c0\u30d6\u30eb\u30af\u30a9\u30fc\u30c6\u30fc\u30b7\u30e7\u30f3\u3092\u3064\u3051\u306a\u3044\u3001@tsv \u3067 TSV\u51fa\u529b\n\n\naws ec2 describe-instances --region ap-northeast-1 | jq -c -r \n.Reservations[].Instances[] | [.Placement.AvailabilityZone, .State.Name, .InstanceId, (.Tags[] | select(.Key==\nName\n).Value)] | @tsv\n\n\n\n\n\n\nAmazon VPC\nLink\n\n\nVPC \u306e\u4e00\u89a7\uff08Name\u3082\uff09\nLink\n\n\naws ec2 describe-vpcs | jq -r \n.Vpcs[] | .VpcId, (.Tags[] | select(.Key == \nName\n) | .Value)\n\n\n\n\n\n\nTags \u306b\u3064\u3044\u3066\u306f from_entries \u3092\u4f7f\u3046\u3068\u30bf\u30a4\u30d7\u6570\u304c\u6e1b\u308b\nLink\n\n\naws ec2 describe-vpcs | jq -r \n.Vpcs[] | .VpcId, (.Tags | from_entries | .Name)\n\n\n\n\n\n\n\u7279\u5b9a\u306eVPC\u306esubnet\u3092\u30ea\u30b9\u30c8\nLink\n\n\naws ec2 describe-subnets | jq -r \n.Subnets[] | select(.VpcId == \n$VpcId\n) | (.Tags | from_entries | .Name), .CidrBlock\n\n\n\n\n\n\nAWS NatGateway\nLink\n\n\n\u7279\u5b9a\u306eVPC\u306eNatGateway\u3092\u30ea\u30b9\u30c8\nLink\n\n\naws ec2 describe-nat-gateways | jq -r \n.NatGateways[] | select(.VpcId == \n$VpcId\n) | .NatGatewayAddresses, (.Tags|from_entries|.Name)\n\n\n\n\n\n\nStorage\nLink\n\n\nDatabase\nLink\n\n\nMigration\nLink\n\n\nNetworking \n Content Delivery\nLink\n\n\nAmazon CloudFront\nLink\n\n\n\u30c7\u30a3\u30b9\u30c8\u30ea\u30d3\u30e5\u30fc\u30b7\u30e7\u30f3\u3092\u30ea\u30b9\u30c8\nLink\n\n\naws cloudfront list-distributions | jq -r \n.DistributionList.Items[] | .Id\n\n\n\n\n\n\n\u7279\u5b9a\u306e\u30a8\u30a4\u30ea\u30a2\u30b9\u306e\u30c7\u30a3\u30b9\u30c8\u30ea\u30d3\u30e5\u30fc\u30b7\u30e7\u30f3\u3092\u53d6\u5f97\uff08[0]\u3092\u3084\u3081\u305f\u3044\u3002\u3002\u3002\uff09\nLink\n\n\naws cloudfront list-distributions | jq -r \n.DistributionList.Items[] | select(.Aliases.Items[0] == \nexample.com\n)   | .Id\n\n\n\n\n\n\nAWS Route53\nLink\n\n\nzone \u3092\u30ea\u30b9\u30c8\nLink\n\n\naws route53 list-hosted-zones | jq -r \n.HostedZones[].Name | rtrimstr(\n.\n)\n | more\n\n\n\n\n\nPrivate zone \u3092\u30ea\u30b9\u30c8\nLink\n\n\naws route53 list-hosted-zones | jq -r \n.HostedZones[] | select(.Config.PrivateZone == true) | .Name | rtrimstr(\n.\n)\n\n\n\n\n\n\nPrivateDNS \u3068 VPC \u306e\u95a2\u9023\u3092\u53d6\u5f97\u3057\u305f\u3044\u3051\u3069\u3001\u30ea\u30b9\u30c8\u304b\u3089\u53d6\u5f97\u3059\u308b\u65b9\u6cd5\u304c\u308f\u304b\u3089\u306a\u3044\nLink\n\n\naws route53 get-hosted-zone --id $HostedZoneId | jq -r \n.VPCs[].VPCId\n\n\n\n\n\n\nDeveloper Tools\nLink\n\n\nManagement Tools\nLink\n\n\nMedia Services\nLink\n\n\nMachine Learning\nLink\n\n\nAnalytics\nLink\n\n\nSecurity, Identity, \n Compliance\nLink\n\n\nMobile Services\nLink\n\n\nAR \n VR\nLink\n\n\nApplication Integration\nLink\n\n\nCustomer Engagement\nLink\n\n\nAmazon SES\nLink\n\n\n\u30ea\u30fc\u30b8\u30e7\u30f3\u3092\u6307\u5b9a\uff08\u5bfe\u5fdc\u30ea\u30fc\u30b8\u30e7\u30f3\u6ce8\u610f\uff09\nLink\n\n\nexport AWS_DEFAULT_REGION=us-east-1\n\ndomain=DOMAIN\n\naws ses verify-domain-identity --domain $domain\n\naws ses list-identities\n\n\n\n\n\naws ses get-identity-verification-attributes --identities $domain\n\n\naws ses get-identity-mail-from-domain-attributes --identities $domain\n\n\nBusiness Productivity\nLink\n\n\nDesktop \n App Streaming\nLink\n\n\nInternet of Things\nLink\n\n\nGame Development\nLink\n\n\nSDKs \n Toolkits\nLink\n\n\nAdditional Software \n Services\nLink\n\n\nGeneral Reference\nLink\n\n\nAWS Management Console\nLink\n\n\nResources\nLink", 
+            "title": "cli with jq"
+        }, 
+        {
+            "location": "/aws/cli_jq/#cli-with-jq", 
+            "text": "\u30ab\u30c6\u30b4\u30ea\u306f AWS Documentation \u306b\u3042\u308f\u305b\u308b  VPC\u306e\u3088\u3046\u306b\u8907\u6570\u306e\u30ab\u30c6\u30b4\u30ea\u306b\u51fa\u73fe\u3059\u308b\u3082\u306e\u306f\u5148\u306e\u30ab\u30c6\u30b4\u30ea\u306b\u3044\u308c\u308b  NatGateway \u306e\u3088\u3046\u306b\u30ab\u30c6\u30b4\u30ea\u306b\u3082\u30b5\u30fc\u30d3\u30b9\u3068\u3057\u3066\u3082\u72ec\u7acb\u3057\u3066\u3044\u306a\u3044\u3082\u306e\u306f\u306a\u308b\u3079\u304f\u308f\u304b\u308a\u3084\u3059\u3044\u4f4d\u7f6e\u306b\u3044\u308c\u308b\u3002EC2 \u306e\u30b5\u30d6\u30b3\u30de\u30f3\u30c9\u306b\u306a\u3063\u3066\u3044\u308b\u304c\u3001VPC\u3068\u95a2\u9023\u304c\u9ad8\u3044\u306e\u3067VPC\u306e\u4e0b\u306b\u304a\u304f\u306a\u3069  \u983b\u7e41\u306b\u66f4\u65b0\u3055\u308c\u308b\u306e\u3067\u3001\u3086\u308b\u3086\u308b\u3068\u8ffd\u5f93\u4e88\u5b9a  jq\u306e\u30da\u30fc\u30b8\u3082\u53c2\u7167", 
+            "title": "cli with jq"
+        }, 
+        {
+            "location": "/aws/cli_jq/#compute", 
+            "text": "", 
+            "title": "Compute"
+        }, 
+        {
+            "location": "/aws/cli_jq/#amazon-ec2", 
+            "text": "", 
+            "title": "Amazon EC2"
+        }, 
+        {
+            "location": "/aws/cli_jq/#id", 
+            "text": "INSTANCE_ID=`curl -s http://169.254.169.254/latest/meta-data/instance-id`", 
+            "title": "\u30a4\u30f3\u30b9\u30bf\u30f3\u30b9ID"
+        }, 
+        {
+            "location": "/aws/cli_jq/#_1", 
+            "text": "INSTANCE_DATA=`aws ec2 describe-instances --instance-id $INSTANCE_ID`", 
+            "title": "\u30a4\u30f3\u30b9\u30bf\u30f3\u30b9\u60c5\u5831"
+        }, 
+        {
+            "location": "/aws/cli_jq/#ip", 
+            "text": "PRIVATE_IPV4=`echo $INSTANCE_DATA | jq -r  .Reservations[].Instances[].PrivateIpAddress `", 
+            "title": "\u30d7\u30e9\u30a4\u30d9\u30fc\u30c8IP"
+        }, 
+        {
+            "location": "/aws/cli_jq/#_2", 
+            "text": "echo $INSTANCE_DATA | jq -r  .Reservations[].Instances[].Tags[]", 
+            "title": "\u30bf\u30b0\uff08\u5168\u3066\uff09"
+        }, 
+        {
+            "location": "/aws/cli_jq/#_3", 
+            "text": "echo $INSTANCE_DATA | jq -r  .Reservations[].Instances[].Tags[] | select(.Key ==  Project ) | .Value", 
+            "title": "\u30bf\u30b0\uff08\u6307\u5b9a\u306e\u30ad\u30fc\u306e\u5024\uff09"
+        }, 
+        {
+            "location": "/aws/cli_jq/#_4", 
+            "text": "echo $INSTANCE_DATA | jq -r  .Reservations[].Instances[] | (.Tags | from_entries | .Project)", 
+            "title": "\u30bf\u30b0\uff08\u6307\u5b9a\u306e\u30ad\u30fc\u306e\u5024\uff08\u6539\uff09\uff09"
+        }, 
+        {
+            "location": "/aws/cli_jq/#project", 
+            "text": "TAG_PROJECT=`echo $INSTANCE_DATA | jq -r  .Reservations[].Instances[] | (.Tags | from_entries | .Project) `", 
+            "title": "Project \u30bf\u30b0"
+        }, 
+        {
+            "location": "/aws/cli_jq/#environment", 
+            "text": "TAG_ENVIRONMENT=`echo $INSTANCE_DATA | jq -r  .Reservations[].Instances[] | (.Tags | from_entries | .Environment) `", 
+            "title": "Environment \u30bf\u30b0"
+        }, 
+        {
+            "location": "/aws/cli_jq/#region", 
+            "text": "aws ec2 describe-regions | jq -r  .Regions | sort_by(.RegionName)[].RegionName", 
+            "title": "Region \u306e\u4e00\u89a7"
+        }, 
+        {
+            "location": "/aws/cli_jq/#ec2", 
+            "text": "-c \u3067\u6539\u884c\u3057\u306a\u3044\u30b3\u30f3\u30d1\u30af\u30c8\u8868\u793a\u3001-r \u3067\u30c0\u30d6\u30eb\u30af\u30a9\u30fc\u30c6\u30fc\u30b7\u30e7\u30f3\u3092\u3064\u3051\u306a\u3044\u3001@tsv \u3067 TSV\u51fa\u529b  aws ec2 describe-instances --region ap-northeast-1 | jq -c -r  .Reservations[].Instances[] | [.Placement.AvailabilityZone, .State.Name, .InstanceId, (.Tags[] | select(.Key== Name ).Value)] | @tsv", 
+            "title": "\u30ea\u30fc\u30b8\u30e7\u30f3\u5185\u306eEC2\u306e\u30ea\u30b9\u30c8"
+        }, 
+        {
+            "location": "/aws/cli_jq/#amazon-vpc", 
+            "text": "", 
+            "title": "Amazon VPC"
+        }, 
+        {
+            "location": "/aws/cli_jq/#vpc-name", 
+            "text": "aws ec2 describe-vpcs | jq -r  .Vpcs[] | .VpcId, (.Tags[] | select(.Key ==  Name ) | .Value)", 
+            "title": "VPC \u306e\u4e00\u89a7\uff08Name\u3082\uff09"
+        }, 
+        {
+            "location": "/aws/cli_jq/#tags-from_entries", 
+            "text": "aws ec2 describe-vpcs | jq -r  .Vpcs[] | .VpcId, (.Tags | from_entries | .Name)", 
+            "title": "Tags \u306b\u3064\u3044\u3066\u306f from_entries \u3092\u4f7f\u3046\u3068\u30bf\u30a4\u30d7\u6570\u304c\u6e1b\u308b"
+        }, 
+        {
+            "location": "/aws/cli_jq/#vpcsubnet", 
+            "text": "aws ec2 describe-subnets | jq -r  .Subnets[] | select(.VpcId ==  $VpcId ) | (.Tags | from_entries | .Name), .CidrBlock", 
+            "title": "\u7279\u5b9a\u306eVPC\u306esubnet\u3092\u30ea\u30b9\u30c8"
+        }, 
+        {
+            "location": "/aws/cli_jq/#aws-natgateway", 
+            "text": "", 
+            "title": "AWS NatGateway"
+        }, 
+        {
+            "location": "/aws/cli_jq/#vpcnatgateway", 
+            "text": "aws ec2 describe-nat-gateways | jq -r  .NatGateways[] | select(.VpcId ==  $VpcId ) | .NatGatewayAddresses, (.Tags|from_entries|.Name)", 
+            "title": "\u7279\u5b9a\u306eVPC\u306eNatGateway\u3092\u30ea\u30b9\u30c8"
+        }, 
+        {
+            "location": "/aws/cli_jq/#storage", 
+            "text": "", 
+            "title": "Storage"
+        }, 
+        {
+            "location": "/aws/cli_jq/#database", 
+            "text": "", 
+            "title": "Database"
+        }, 
+        {
+            "location": "/aws/cli_jq/#migration", 
+            "text": "", 
+            "title": "Migration"
+        }, 
+        {
+            "location": "/aws/cli_jq/#networking-content-delivery", 
+            "text": "", 
+            "title": "Networking &amp; Content Delivery"
+        }, 
+        {
+            "location": "/aws/cli_jq/#amazon-cloudfront", 
+            "text": "", 
+            "title": "Amazon CloudFront"
+        }, 
+        {
+            "location": "/aws/cli_jq/#_5", 
+            "text": "aws cloudfront list-distributions | jq -r  .DistributionList.Items[] | .Id", 
+            "title": "\u30c7\u30a3\u30b9\u30c8\u30ea\u30d3\u30e5\u30fc\u30b7\u30e7\u30f3\u3092\u30ea\u30b9\u30c8"
+        }, 
+        {
+            "location": "/aws/cli_jq/#0", 
+            "text": "aws cloudfront list-distributions | jq -r  .DistributionList.Items[] | select(.Aliases.Items[0] ==  example.com )   | .Id", 
+            "title": "\u7279\u5b9a\u306e\u30a8\u30a4\u30ea\u30a2\u30b9\u306e\u30c7\u30a3\u30b9\u30c8\u30ea\u30d3\u30e5\u30fc\u30b7\u30e7\u30f3\u3092\u53d6\u5f97\uff08[0]\u3092\u3084\u3081\u305f\u3044\u3002\u3002\u3002\uff09"
+        }, 
+        {
+            "location": "/aws/cli_jq/#aws-route53", 
+            "text": "", 
+            "title": "AWS Route53"
+        }, 
+        {
+            "location": "/aws/cli_jq/#zone", 
+            "text": "aws route53 list-hosted-zones | jq -r  .HostedZones[].Name | rtrimstr( . )  | more", 
+            "title": "zone \u3092\u30ea\u30b9\u30c8"
+        }, 
+        {
+            "location": "/aws/cli_jq/#private-zone", 
+            "text": "aws route53 list-hosted-zones | jq -r  .HostedZones[] | select(.Config.PrivateZone == true) | .Name | rtrimstr( . )", 
+            "title": "Private zone \u3092\u30ea\u30b9\u30c8"
+        }, 
+        {
+            "location": "/aws/cli_jq/#privatedns-vpc", 
+            "text": "aws route53 get-hosted-zone --id $HostedZoneId | jq -r  .VPCs[].VPCId", 
+            "title": "PrivateDNS \u3068 VPC \u306e\u95a2\u9023\u3092\u53d6\u5f97\u3057\u305f\u3044\u3051\u3069\u3001\u30ea\u30b9\u30c8\u304b\u3089\u53d6\u5f97\u3059\u308b\u65b9\u6cd5\u304c\u308f\u304b\u3089\u306a\u3044"
+        }, 
+        {
+            "location": "/aws/cli_jq/#developer-tools", 
+            "text": "", 
+            "title": "Developer Tools"
+        }, 
+        {
+            "location": "/aws/cli_jq/#management-tools", 
+            "text": "", 
+            "title": "Management Tools"
+        }, 
+        {
+            "location": "/aws/cli_jq/#media-services", 
+            "text": "", 
+            "title": "Media Services"
+        }, 
+        {
+            "location": "/aws/cli_jq/#machine-learning", 
+            "text": "", 
+            "title": "Machine Learning"
+        }, 
+        {
+            "location": "/aws/cli_jq/#analytics", 
+            "text": "", 
+            "title": "Analytics"
+        }, 
+        {
+            "location": "/aws/cli_jq/#security-identity-compliance", 
+            "text": "", 
+            "title": "Security, Identity, &amp; Compliance"
+        }, 
+        {
+            "location": "/aws/cli_jq/#mobile-services", 
+            "text": "", 
+            "title": "Mobile Services"
+        }, 
+        {
+            "location": "/aws/cli_jq/#ar-vr", 
+            "text": "", 
+            "title": "AR &amp; VR"
+        }, 
+        {
+            "location": "/aws/cli_jq/#application-integration", 
+            "text": "", 
+            "title": "Application Integration"
+        }, 
+        {
+            "location": "/aws/cli_jq/#customer-engagement", 
+            "text": "", 
+            "title": "Customer Engagement"
+        }, 
+        {
+            "location": "/aws/cli_jq/#amazon-ses", 
+            "text": "", 
+            "title": "Amazon SES"
+        }, 
+        {
+            "location": "/aws/cli_jq/#_6", 
+            "text": "export AWS_DEFAULT_REGION=us-east-1\n\ndomain=DOMAIN\n\naws ses verify-domain-identity --domain $domain\n\naws ses list-identities  aws ses get-identity-verification-attributes --identities $domain  aws ses get-identity-mail-from-domain-attributes --identities $domain", 
+            "title": "\u30ea\u30fc\u30b8\u30e7\u30f3\u3092\u6307\u5b9a\uff08\u5bfe\u5fdc\u30ea\u30fc\u30b8\u30e7\u30f3\u6ce8\u610f\uff09"
+        }, 
+        {
+            "location": "/aws/cli_jq/#business-productivity", 
+            "text": "", 
+            "title": "Business Productivity"
+        }, 
+        {
+            "location": "/aws/cli_jq/#desktop-app-streaming", 
+            "text": "", 
+            "title": "Desktop &amp; App Streaming"
+        }, 
+        {
+            "location": "/aws/cli_jq/#internet-of-things", 
+            "text": "", 
+            "title": "Internet of Things"
+        }, 
+        {
+            "location": "/aws/cli_jq/#game-development", 
+            "text": "", 
+            "title": "Game Development"
+        }, 
+        {
+            "location": "/aws/cli_jq/#sdks-toolkits", 
+            "text": "", 
+            "title": "SDKs &amp; Toolkits"
+        }, 
+        {
+            "location": "/aws/cli_jq/#additional-software-services", 
+            "text": "", 
+            "title": "Additional Software &amp; Services"
+        }, 
+        {
+            "location": "/aws/cli_jq/#general-reference", 
+            "text": "", 
+            "title": "General Reference"
+        }, 
+        {
+            "location": "/aws/cli_jq/#aws-management-console", 
+            "text": "", 
+            "title": "AWS Management Console"
+        }, 
+        {
+            "location": "/aws/cli_jq/#resources", 
+            "text": "", 
+            "title": "Resources"
+        }, 
+        {
+            "location": "/aws/cloudtrail/", 
+            "text": "CloudTrail\nLink\n\n\nAWS CloudTrail \u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\n\n\n\n\n\u5927\u96d1\u628a\u306b\u306fAWS\u3067\u306e\u4f5c\u696d\uff08API\u547c\u3073\u51fa\u3057\uff09\u304c\u8a18\u9332\u3055\u308c\u308b\n\n\n\u30a2\u30ab\u30a6\u30f3\u30c8\u4f5c\u6210\u6642\u306b\u81ea\u52d5\u3067\u6709\u52b9\n\n\n\u5f93\u6765\u306e\u30e6\u30fc\u30b6\u306b\u3088\u308b\u4f5c\u6210\u3082\u6709\u52b9\n\n\nAWS CloudTrail\u306f\u30c7\u30d5\u30a9\u30eb\u30c8\u3068\u30e6\u30fc\u30b6\u30fc\u4f5c\u6210\u3067\u4f55\u304c\u9055\u3046? \uff5c Developers.IO\n\n\n\u30c7\u30d5\u30a9\u30eb\u30c8\u8a2d\u5b9a\u3067\u306f\u7ba1\u7406\u30a4\u30d9\u30f3\u30c8\u30a2\u30af\u30c6\u30a3\u30d3\u30c6\u30a3\u306e\u307f\u30017\u65e5\u306e\u307f\uff08\u4eca\u306f90\u65e5\uff1f\uff09\u3001\u30b3\u30f3\u30bd\u30fc\u30eb\u3067\u78ba\u8a8d\u53ef\u80fd\u3001\u3053\u3053\u307e\u3067\u306f\u7121\u6599\n\n\n\u30e6\u30fc\u30b6\u4f5c\u6210\u306b\u3088\u308b\u8a3c\u8de1\u306fS3\u30d0\u30b1\u30c3\u30c8\u3084\u30c7\u30fc\u30bf\u91cf\u3001\u30a4\u30d9\u30f3\u30c8\u306e\u91cf\u306b\u5fdc\u3058\u3066\u6709\u6599\u3002\u3088\u307b\u3069\u3067\u306a\u3044\u9650\u308a\u6570\u30c9\u30eb\u7a0b\u5ea6\u306a\u306e\u3067\u8a2d\u5b9a\u3057\u3066\u304a\u304f\u3079\u304d\n\n\n\u53ef\u8996\u5316\u306b\u306f TrailDash \u306a\u3069\u304c\u3042\u3063\u305f\u304c\u3001\nCloudWatch Logs Subscription Consumer + Elasticsearch + Kibana Dashboards | AWS News Blog\n\u306e\u8aac\u660e\u306b\u3088\u308a\u958b\u767a\u304c\u7d42\u4e86\u3057\u3066\u3044\u308b\n\n\n\u5358\u7d14\u306b ElasticSearch Service \u4f7f\u3063\u305f\u307b\u3046\u304c\u65e9\u3044\u6c17\u304c\u3057\u3066\u3044\u308b\u304c\u672a\u691c\u8a3c", 
+            "title": "CloudTrail"
+        }, 
+        {
+            "location": "/aws/cloudtrail/#cloudtrail", 
+            "text": "AWS CloudTrail \u30c9\u30ad\u30e5\u30e1\u30f3\u30c8   \u5927\u96d1\u628a\u306b\u306fAWS\u3067\u306e\u4f5c\u696d\uff08API\u547c\u3073\u51fa\u3057\uff09\u304c\u8a18\u9332\u3055\u308c\u308b  \u30a2\u30ab\u30a6\u30f3\u30c8\u4f5c\u6210\u6642\u306b\u81ea\u52d5\u3067\u6709\u52b9  \u5f93\u6765\u306e\u30e6\u30fc\u30b6\u306b\u3088\u308b\u4f5c\u6210\u3082\u6709\u52b9  AWS CloudTrail\u306f\u30c7\u30d5\u30a9\u30eb\u30c8\u3068\u30e6\u30fc\u30b6\u30fc\u4f5c\u6210\u3067\u4f55\u304c\u9055\u3046? \uff5c Developers.IO  \u30c7\u30d5\u30a9\u30eb\u30c8\u8a2d\u5b9a\u3067\u306f\u7ba1\u7406\u30a4\u30d9\u30f3\u30c8\u30a2\u30af\u30c6\u30a3\u30d3\u30c6\u30a3\u306e\u307f\u30017\u65e5\u306e\u307f\uff08\u4eca\u306f90\u65e5\uff1f\uff09\u3001\u30b3\u30f3\u30bd\u30fc\u30eb\u3067\u78ba\u8a8d\u53ef\u80fd\u3001\u3053\u3053\u307e\u3067\u306f\u7121\u6599  \u30e6\u30fc\u30b6\u4f5c\u6210\u306b\u3088\u308b\u8a3c\u8de1\u306fS3\u30d0\u30b1\u30c3\u30c8\u3084\u30c7\u30fc\u30bf\u91cf\u3001\u30a4\u30d9\u30f3\u30c8\u306e\u91cf\u306b\u5fdc\u3058\u3066\u6709\u6599\u3002\u3088\u307b\u3069\u3067\u306a\u3044\u9650\u308a\u6570\u30c9\u30eb\u7a0b\u5ea6\u306a\u306e\u3067\u8a2d\u5b9a\u3057\u3066\u304a\u304f\u3079\u304d  \u53ef\u8996\u5316\u306b\u306f TrailDash \u306a\u3069\u304c\u3042\u3063\u305f\u304c\u3001 CloudWatch Logs Subscription Consumer + Elasticsearch + Kibana Dashboards | AWS News Blog \u306e\u8aac\u660e\u306b\u3088\u308a\u958b\u767a\u304c\u7d42\u4e86\u3057\u3066\u3044\u308b  \u5358\u7d14\u306b ElasticSearch Service \u4f7f\u3063\u305f\u307b\u3046\u304c\u65e9\u3044\u6c17\u304c\u3057\u3066\u3044\u308b\u304c\u672a\u691c\u8a3c", 
+            "title": "CloudTrail"
+        }, 
+        {
+            "location": "/aws/config/", 
+            "text": "config\nLink\n\n\nAWS Config Documentation\n\n\n\u8a2d\u5b9a\u3092\u6709\u52b9\u306b\u3057\u3066\u3001\u30ea\u30bd\u30fc\u30b9\u306e\u8a2d\u5b9a\u304c\u6700\u9069\u304b\u3069\u3046\u304b\u8a55\u4fa1\u3059\u308b\n\n\n\u8981\u8abf\u67fb\u3060\u3051\u3069\u3001encrypted-volumes\u30eb\u30fc\u30eb\u306a\u3069\u306e\u3088\u3046\u306b\u3001EBS\u306e\u6697\u53f7\u5316\u306a\u3069\u3001\u8981\u4ef6\u6b21\u7b2c\u3067\u8a2d\u5b9a\u3057\u306a\u3044\u3082\u306e\u3082\u975e\u6e96\u62e0\u3068\u3057\u3066\u8868\u793a\u3055\u308c\u305f\u308a\u3059\u308b\u306e\u3067\u3001\u8a2d\u5b9a\u306f\u5fc5\u8981\u3060\u3068\u601d\u3046\n\n\n\u3068\u308a\u3042\u3048\u305a\u6709\u52b9\u306b\u3057\u3066\u304a\u3044\u3066\u56f0\u3089\u306a\u3044\u3002\u30eb\u30fc\u30eb\uff11\u3064\u306b\u3064\u304d\uff12\u30c9\u30eb\uff0b\u8a55\u4fa1\u91cf\u3067\u8ab2\u91d1\u3055\u308c\u308b\u304c\u6982\u306d\u6570\u767e\u5186\u306b\u53ce\u307e\u308a\u305d\u3046\u3002", 
+            "title": "config"
+        }, 
+        {
+            "location": "/aws/config/#config", 
+            "text": "AWS Config Documentation  \u8a2d\u5b9a\u3092\u6709\u52b9\u306b\u3057\u3066\u3001\u30ea\u30bd\u30fc\u30b9\u306e\u8a2d\u5b9a\u304c\u6700\u9069\u304b\u3069\u3046\u304b\u8a55\u4fa1\u3059\u308b  \u8981\u8abf\u67fb\u3060\u3051\u3069\u3001encrypted-volumes\u30eb\u30fc\u30eb\u306a\u3069\u306e\u3088\u3046\u306b\u3001EBS\u306e\u6697\u53f7\u5316\u306a\u3069\u3001\u8981\u4ef6\u6b21\u7b2c\u3067\u8a2d\u5b9a\u3057\u306a\u3044\u3082\u306e\u3082\u975e\u6e96\u62e0\u3068\u3057\u3066\u8868\u793a\u3055\u308c\u305f\u308a\u3059\u308b\u306e\u3067\u3001\u8a2d\u5b9a\u306f\u5fc5\u8981\u3060\u3068\u601d\u3046  \u3068\u308a\u3042\u3048\u305a\u6709\u52b9\u306b\u3057\u3066\u304a\u3044\u3066\u56f0\u3089\u306a\u3044\u3002\u30eb\u30fc\u30eb\uff11\u3064\u306b\u3064\u304d\uff12\u30c9\u30eb\uff0b\u8a55\u4fa1\u91cf\u3067\u8ab2\u91d1\u3055\u308c\u308b\u304c\u6982\u306d\u6570\u767e\u5186\u306b\u53ce\u307e\u308a\u305d\u3046\u3002", 
+            "title": "config"
+        }, 
+        {
+            "location": "/aws/guardduty/", 
+            "text": "guard duty\nLink\n\n\nAmazon GuardDuty Documentation\n\n\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u30c8\u30c3\u30d7\u306f\u82f1\u8a9e\u3060\u3051\u3069\u3001\u30e6\u30fc\u30b6\u30ac\u30a4\u30c9\u4ee5\u4e0b\u306f\u65e5\u672c\u8a9e\u5316\u3055\u308c\u3066\u3044\u308b\n\n\n\n\n\u6bd4\u8f03\u7684\u65b0\u3057\u3044\u30b5\u30fc\u30d3\u30b9\u306a\u306e\u3067\u6ce8\u610f\n\n\n\u81ea\u52d5\u3067\u306f\u6709\u52b9\u306b\u306a\u3089\u306a\u3044\u306e\u3067\u65e9\u3081\u306b\u6709\u52b9\u5316\u3059\u308b\n\n\n\u4e0d\u6b63\u30a2\u30af\u30bb\u30b9\u3063\u307d\u3044\u306e\u304c\u691c\u51fa\u3055\u308c\u308b\u3088\u3046\u3060\u3051\u3069\u3001\u305d\u306e\u5f8c\u3069\u3046\u3059\u308c\u3070\u3044\u3044\u306e\u304b\u306a\u3069\u306e\u8abf\u67fb\u304c\u5fc5\u8981\n\n\n\u3057\u3070\u3089\u304f\u7d50\u679c\u60c5\u5831\u3092\u8ffd\u3046", 
+            "title": "guard duty"
+        }, 
+        {
+            "location": "/aws/guardduty/#guard-duty", 
+            "text": "Amazon GuardDuty Documentation \n\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u30c8\u30c3\u30d7\u306f\u82f1\u8a9e\u3060\u3051\u3069\u3001\u30e6\u30fc\u30b6\u30ac\u30a4\u30c9\u4ee5\u4e0b\u306f\u65e5\u672c\u8a9e\u5316\u3055\u308c\u3066\u3044\u308b   \u6bd4\u8f03\u7684\u65b0\u3057\u3044\u30b5\u30fc\u30d3\u30b9\u306a\u306e\u3067\u6ce8\u610f  \u81ea\u52d5\u3067\u306f\u6709\u52b9\u306b\u306a\u3089\u306a\u3044\u306e\u3067\u65e9\u3081\u306b\u6709\u52b9\u5316\u3059\u308b  \u4e0d\u6b63\u30a2\u30af\u30bb\u30b9\u3063\u307d\u3044\u306e\u304c\u691c\u51fa\u3055\u308c\u308b\u3088\u3046\u3060\u3051\u3069\u3001\u305d\u306e\u5f8c\u3069\u3046\u3059\u308c\u3070\u3044\u3044\u306e\u304b\u306a\u3069\u306e\u8abf\u67fb\u304c\u5fc5\u8981  \u3057\u3070\u3089\u304f\u7d50\u679c\u60c5\u5831\u3092\u8ffd\u3046", 
+            "title": "guard duty"
+        }, 
+        {
+            "location": "/aws/iam/", 
+            "text": "iam\nLink\n\n\nAWS Identity and Access Management\n\n\n\n\n\n\nAWS Identity and Access Management\uff08IAM\uff09\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8 | AWS\n\n\n\n\n\n\n\u30eb\u30fc\u30c8\u30a2\u30ab\u30a6\u30f3\u30c8\u3067\u306e\u4f5c\u696d\u7d42\u4e86\u5f8c\u3001\u901a\u5e38\u306f\u4f5c\u6210\u3057\u305fIAM\u30a2\u30ab\u30a6\u30f3\u30c8\u3067\u64cd\u4f5c\u3059\u308b\n\n\n\n\n\u30d9\u30b9\u30c8\u30d7\u30e9\u30af\u30c6\u30a3\u30b9\u3092\u8aad\u307f\u8fbc\u307f\u3064\u3064\u3001\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u3092\u4e2d\u5fc3\u306b\u3061\u3083\u3093\u3068\u8003\u3048\u308b\u3053\u3068\n\n\nAWS\u306e\u4f7f\u7528\u72b6\u6cc1\u306b\u5fdc\u3058\u3066\u5fc5\u8981\u306a\u6a5f\u80fd\u3084\u7ba1\u7406\u65b9\u6cd5\u7b49\u304c\u7570\u306a\u308b\u306e\u3067\u3001\u4f7f\u3044\u65b9\u3092\u691c\u8a0e\u3059\u308b\n\n\n\u30eb\u30fc\u30c8\u30a2\u30ab\u30a6\u30f3\u30c8\u306e\u30ed\u30c3\u30af\u3001\u7ba1\u7406\u7528IAM\u30e6\u30fc\u30b6\u306e\u4f5c\u6210\u3001\u5f79\u5272\u306b\u5fdc\u3058\u305f\u30b0\u30eb\u30fc\u30d7\u5316\u3001\u30d5\u30a7\u30c7\u30ec\u30fc\u30b7\u30e7\u30f3\n\n\nAWS \u30a2\u30ab\u30a6\u30f3\u30c8\u306e\u30eb\u30fc\u30c8\u30e6\u30fc\u30b6\u30fc\u304c\u5fc5\u8981\u306a AWS \u306e\u30bf\u30b9\u30af - \u30a2\u30de\u30be\u30f3 \u30a6\u30a7\u30d6 \u30b5\u30fc\u30d3\u30b9", 
+            "title": "iam"
+        }, 
+        {
+            "location": "/aws/iam/#iam", 
+            "text": "AWS Identity and Access Management    AWS Identity and Access Management\uff08IAM\uff09\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8 | AWS    \u30eb\u30fc\u30c8\u30a2\u30ab\u30a6\u30f3\u30c8\u3067\u306e\u4f5c\u696d\u7d42\u4e86\u5f8c\u3001\u901a\u5e38\u306f\u4f5c\u6210\u3057\u305fIAM\u30a2\u30ab\u30a6\u30f3\u30c8\u3067\u64cd\u4f5c\u3059\u308b   \u30d9\u30b9\u30c8\u30d7\u30e9\u30af\u30c6\u30a3\u30b9\u3092\u8aad\u307f\u8fbc\u307f\u3064\u3064\u3001\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u3092\u4e2d\u5fc3\u306b\u3061\u3083\u3093\u3068\u8003\u3048\u308b\u3053\u3068  AWS\u306e\u4f7f\u7528\u72b6\u6cc1\u306b\u5fdc\u3058\u3066\u5fc5\u8981\u306a\u6a5f\u80fd\u3084\u7ba1\u7406\u65b9\u6cd5\u7b49\u304c\u7570\u306a\u308b\u306e\u3067\u3001\u4f7f\u3044\u65b9\u3092\u691c\u8a0e\u3059\u308b  \u30eb\u30fc\u30c8\u30a2\u30ab\u30a6\u30f3\u30c8\u306e\u30ed\u30c3\u30af\u3001\u7ba1\u7406\u7528IAM\u30e6\u30fc\u30b6\u306e\u4f5c\u6210\u3001\u5f79\u5272\u306b\u5fdc\u3058\u305f\u30b0\u30eb\u30fc\u30d7\u5316\u3001\u30d5\u30a7\u30c7\u30ec\u30fc\u30b7\u30e7\u30f3  AWS \u30a2\u30ab\u30a6\u30f3\u30c8\u306e\u30eb\u30fc\u30c8\u30e6\u30fc\u30b6\u30fc\u304c\u5fc5\u8981\u306a AWS \u306e\u30bf\u30b9\u30af - \u30a2\u30de\u30be\u30f3 \u30a6\u30a7\u30d6 \u30b5\u30fc\u30d3\u30b9", 
+            "title": "iam"
+        }, 
+        {
+            "location": "/aws/", 
+            "text": "aws\nLink\n\n\n\u7bc4\u56f2\u304c\u5e83\u3044\u306e\u3067\u72ec\u7acb\n\n\n\u4e00\u5ea6\u306b\u5168\u90e8\u306f\u3067\u304d\u306a\u3044\u3051\u3069\u5c11\u3057\u305a\u3064\u77e5\u898b\u3092\u96c6\u3081\u3066\u304a\u304f\n\n\nTag \u306b\u3064\u3044\u3066\nLink\n\n\n\n\n\n\n\u30bf\u30b0\u4ed8\u3051\u3067\u304d\u308b\u30ea\u30bd\u30fc\u30b9\u306f\u9069\u5207\u306aName\u3001\u305d\u306e\u4ed6\u30b0\u30eb\u30fc\u30d4\u30f3\u30b0\u3067\u4f7f\u7528\u3067\u304d\u308b\u30bf\u30b0\u3092\u6307\u5b9a\u3059\u308b\n\n\n\n\n\u30de\u30cd\u30b8\u30e1\u30f3\u30c8\u30b3\u30f3\u30bd\u30fc\u30eb\u306e\u30ea\u30bd\u30fc\u30b9\u30bf\u30b0\u3067\u4f7f\u7528\u3067\u304d\u308b\n\n\nterraform \u3067 data source \u3092\u4f7f\u7528\u3059\u308b\u969b\u306e\u30d5\u30a3\u30eb\u30bf\u306b\u4f7f\u7528\u3067\u304d\u308b\n\n\n\n\n\n\n\n\n\u30bf\u30b0\u4ed8\u3051\u30eb\u30fc\u30eb\u3092\u3064\u304f\u308b\u3068\u3044\u3044\u304b\u3082\u3057\u308c\u306a\u3044\n\n\n\n\n\n\nkey\n\n\n\n\n\u3067\u304d\u308b\u9650\u308a\u4e00\u5358\u8a9e\u3001\u5148\u982d\u306e\u307f\u5927\u6587\u5b57\uff08\u30a2\u30c3\u30d1\u30fc\u30ad\u30e3\u30e1\u30eb\u30b1\u30fc\u30b9\uff09\n\n\nName\u306f\u30bf\u30b0\u4ed8\u3051\u53ef\u80fd\u306a\u30ea\u30bd\u30fc\u30b9\u3059\u3079\u3066\u306b\u3064\u3051\u308b\u3053\u3068\n\n\n\u305d\u306e\u4ed6\u306e\u30bf\u30b0\u306f\uff12\u3064\u4ee5\u4e0a\u306e\u30ea\u30bd\u30fc\u30b9\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u306b\u3001\uff12\u3064\u4ee5\u4e0a\u306e\u30b0\u30eb\u30fc\u30d7\u5316\u306e\u305f\u3081\u306b\u3064\u3051\u308b\u3053\u3068\n\n\n\n\n\n\n\n\nvalue\n\n\n\n\n\u3067\u304d\u308b\u9650\u308a\u4e00\u5358\u8a9e\u3001\u5168\u3066\u5c0f\u6587\u5b57\uff08\u30ed\u30fc\u30ef\u30fc\u30b1\u30fc\u30b9\u3001\u5358\u8a9e\u306e\u9593\u306f\u534a\u89d2\u30b9\u30da\u30fc\u30b9\uff11\u3064\uff09\n\n\n\u6163\u308c\u308c\u3070\u30ea\u30bd\u30fc\u30b9ID\u3067\u30b5\u30fc\u30d3\u30b9\u306f\u5224\u65ad\u3067\u304d\u308b\u306e\u3067\u30b5\u30fc\u30d3\u30b9\u540d\u3092Name\u306b\u542b\u3081\u308b\u306e\u306f\u3084\u3081\u308b\uff1f\n\n\n\n\n\n\n\n\n\n\n\n\n\u30bf\u30b0\u4ed8\u3051\u3057\u306a\u3044\u30eb\u30fc\u30eb\u3082\u7528\u610f\u3057\u3066\u304a\u304f\u3068\u3044\u3044\u304b\u3082\n\n\n\n\nAuthor \u306f\u7ba1\u7406\u306b\u306f\u5411\u3044\u3066\u3044\u308b\u304b\u3082\u3057\u308c\u306a\u3044\u304c\u3001\u81ea\u52d5\u5316\u30c4\u30fc\u30eb\u3067\u518d\u4f5c\u6210\u90fd\u5ea6\u5024\u304c\u5909\u308f\u308b\u3068\u9762\u5012\u304b\u3082\n\n\nDate \u3082\u540c\u69d8\n\n\n\n\n\n\n\n\n\u30bf\u30b0\u7ba1\u7406\u8868\nLink\n\n\n\n\n\n\n\n\nNo\n\n\nkey\n\n\nvalue(ex)\n\n\n\n\n\n\n\n\n\n\n1\n\n\nName\n\n\nresource name\n\n\n\n\n\n\n2\n\n\nProject\n\n\nproject name\n\n\n\n\n\n\n3\n\n\nEnv(ironment)\n\n\nprod, stg, dev, test\n\n\n\n\n\n\n4\n\n\nService\n\n\nmy service domain\n\n\n\n\n\n\n5\n\n\nTier\n\n\npublic, private, db, cache\n\n\n\n\n\n\n\n\n\n\nName \u306f\u306a\u308b\u3079\u304f\u30ea\u30bd\u30fc\u30b9\u56fa\u6709\u306e\u5024\u306b\u306a\u308b\u3088\u3046\u306b\u3064\u3051\u305f\u3044\n\n\nProject \u306f\uff11\u30a2\u30ab\u30a6\u30f3\u30c8\uff11\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u306e\u5834\u5408\u306b\u306f\u306a\u304f\u3066\u3082\u3044\u3044\u304c\u3001\u81ea\u52d5\u5316\u3059\u308b\u306a\u3089\u3042\u3063\u305f\u307b\u3046\u304c\u3088\u3044\n\n\n\n\nEnvironment \u306f\u9577\u3044\u306e\u3067\u77ed\u304f\u3057\u3066\u3082\u3088\u3044\u3002\u74b0\u5883\u306f\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u306b\u5fc5\u8981\u306a\u3060\u3051\u3064\u3051\u308b\n\n\n\n\nState: Environments - Terraform by HashiCorp\n\n\nterraform \u306e\u4ee5\u524d\u306e\u30d0\u30fc\u30b8\u30e7\u30f3\u3067\u306f environment \u304c\u30b9\u30c6\u30fc\u30c8\u306e\u72b6\u614b\u3092\u8868\u3059\u5909\u6570\u3068\u3057\u3066\u5b9a\u7fa9\u3055\u308c\u3066\u304a\u308a\u3001IDE\u306a\u3069\u306e\u30b3\u30fc\u30c9\u30d8\u30eb\u30d1\u30fc\u304c\u53cd\u5fdc\u3057\u3066\u3057\u307e\u3046\u3053\u3068\u304c\u3042\u308b\n\n\nstate\u306e\u30d7\u30ed\u30d1\u30c6\u30a3\u3068\u3057\u3066\u53c2\u7167\u3059\u308b\u3068\u3001\u5b58\u5728\u3057\u3066\u3044\u306a\u3044\u5834\u5408\u306b\"default\" \u306b\u306a\u3063\u3066\u3057\u307e\u3046\uff08\u672c\u6765\u306f\u7a7a\u304c\u671b\u307e\u3057\u3044\uff09\n\n\n\u5b58\u5728\u3057\u3066\u3044\u308c\u3070\uff08output environment \u3068\u3059\u308c\u3070\uff09\u305d\u306e\u5024\u3092\u53d6\u5f97\u3067\u304d\u308b\n\n\nterraform\u5074\u306e\u4ed5\u69d8\u3060\u3051\u3069\u82e5\u5e72\u4f7f\u3044\u306b\u304f\u3044\u306e\u3067\u3001\u77ed\u3044 Env \u307e\u305f\u306f Staging \u306a\u3069\u3092\u4f7f\u7528\u3059\u308b\u3068\u3044\u3044\u304b\u3082\u3057\u308c\u306a\u3044\uff08\u3068\u306f\u3044\u3048\u7d50\u5c40\u3069\u308c\u3082\u3088\u304f\u306a\u3044\u306e\u3067\u306f\u3002\u3002\u3002\uff09\n\n\n\n\n\n\n\n\nService \u306fweb,db\u306e\u3088\u3046\u306a\u5927\u67a0\u3084\u3001rds,ecs\u306e\u3088\u3046\u306aSaaS\u30b5\u30fc\u30d3\u30b9\u540d\u3001\u3067\u306f\u306a\u304f\u3001\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u5185\u306e\u56fa\u6709\u306e\u30b5\u30fc\u30d3\u30b9\u3067\u5206\u5272\u3059\u308b\u3068\u3088\u3044\u3002\u8a8d\u8a3c\u3001\u30c1\u30e3\u30c3\u30c8\u3001\u6a5f\u80fd\u3068\u3044\u3063\u305f\u30b5\u30fc\u30d3\u30b9\u30c9\u30e1\u30a4\u30f3\u540d\u304c\u671b\u307e\u3057\u3044\n\n\n\n\nTier \u306f\u4e3b\u306bsubnet\u306e\u30b0\u30eb\u30fc\u30d4\u30f3\u30b0\u7528", 
+            "title": "aws"
+        }, 
+        {
+            "location": "/aws/#aws", 
+            "text": "\u7bc4\u56f2\u304c\u5e83\u3044\u306e\u3067\u72ec\u7acb  \u4e00\u5ea6\u306b\u5168\u90e8\u306f\u3067\u304d\u306a\u3044\u3051\u3069\u5c11\u3057\u305a\u3064\u77e5\u898b\u3092\u96c6\u3081\u3066\u304a\u304f", 
+            "title": "aws"
+        }, 
+        {
+            "location": "/aws/#tag", 
+            "text": "\u30bf\u30b0\u4ed8\u3051\u3067\u304d\u308b\u30ea\u30bd\u30fc\u30b9\u306f\u9069\u5207\u306aName\u3001\u305d\u306e\u4ed6\u30b0\u30eb\u30fc\u30d4\u30f3\u30b0\u3067\u4f7f\u7528\u3067\u304d\u308b\u30bf\u30b0\u3092\u6307\u5b9a\u3059\u308b   \u30de\u30cd\u30b8\u30e1\u30f3\u30c8\u30b3\u30f3\u30bd\u30fc\u30eb\u306e\u30ea\u30bd\u30fc\u30b9\u30bf\u30b0\u3067\u4f7f\u7528\u3067\u304d\u308b  terraform \u3067 data source \u3092\u4f7f\u7528\u3059\u308b\u969b\u306e\u30d5\u30a3\u30eb\u30bf\u306b\u4f7f\u7528\u3067\u304d\u308b     \u30bf\u30b0\u4ed8\u3051\u30eb\u30fc\u30eb\u3092\u3064\u304f\u308b\u3068\u3044\u3044\u304b\u3082\u3057\u308c\u306a\u3044    key   \u3067\u304d\u308b\u9650\u308a\u4e00\u5358\u8a9e\u3001\u5148\u982d\u306e\u307f\u5927\u6587\u5b57\uff08\u30a2\u30c3\u30d1\u30fc\u30ad\u30e3\u30e1\u30eb\u30b1\u30fc\u30b9\uff09  Name\u306f\u30bf\u30b0\u4ed8\u3051\u53ef\u80fd\u306a\u30ea\u30bd\u30fc\u30b9\u3059\u3079\u3066\u306b\u3064\u3051\u308b\u3053\u3068  \u305d\u306e\u4ed6\u306e\u30bf\u30b0\u306f\uff12\u3064\u4ee5\u4e0a\u306e\u30ea\u30bd\u30fc\u30b9\u304c\u5b58\u5728\u3059\u308b\u5834\u5408\u306b\u3001\uff12\u3064\u4ee5\u4e0a\u306e\u30b0\u30eb\u30fc\u30d7\u5316\u306e\u305f\u3081\u306b\u3064\u3051\u308b\u3053\u3068     value   \u3067\u304d\u308b\u9650\u308a\u4e00\u5358\u8a9e\u3001\u5168\u3066\u5c0f\u6587\u5b57\uff08\u30ed\u30fc\u30ef\u30fc\u30b1\u30fc\u30b9\u3001\u5358\u8a9e\u306e\u9593\u306f\u534a\u89d2\u30b9\u30da\u30fc\u30b9\uff11\u3064\uff09  \u6163\u308c\u308c\u3070\u30ea\u30bd\u30fc\u30b9ID\u3067\u30b5\u30fc\u30d3\u30b9\u306f\u5224\u65ad\u3067\u304d\u308b\u306e\u3067\u30b5\u30fc\u30d3\u30b9\u540d\u3092Name\u306b\u542b\u3081\u308b\u306e\u306f\u3084\u3081\u308b\uff1f       \u30bf\u30b0\u4ed8\u3051\u3057\u306a\u3044\u30eb\u30fc\u30eb\u3082\u7528\u610f\u3057\u3066\u304a\u304f\u3068\u3044\u3044\u304b\u3082   Author \u306f\u7ba1\u7406\u306b\u306f\u5411\u3044\u3066\u3044\u308b\u304b\u3082\u3057\u308c\u306a\u3044\u304c\u3001\u81ea\u52d5\u5316\u30c4\u30fc\u30eb\u3067\u518d\u4f5c\u6210\u90fd\u5ea6\u5024\u304c\u5909\u308f\u308b\u3068\u9762\u5012\u304b\u3082  Date \u3082\u540c\u69d8", 
+            "title": "Tag \u306b\u3064\u3044\u3066"
+        }, 
+        {
+            "location": "/aws/#_1", 
+            "text": "No  key  value(ex)      1  Name  resource name    2  Project  project name    3  Env(ironment)  prod, stg, dev, test    4  Service  my service domain    5  Tier  public, private, db, cache      Name \u306f\u306a\u308b\u3079\u304f\u30ea\u30bd\u30fc\u30b9\u56fa\u6709\u306e\u5024\u306b\u306a\u308b\u3088\u3046\u306b\u3064\u3051\u305f\u3044  Project \u306f\uff11\u30a2\u30ab\u30a6\u30f3\u30c8\uff11\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u306e\u5834\u5408\u306b\u306f\u306a\u304f\u3066\u3082\u3044\u3044\u304c\u3001\u81ea\u52d5\u5316\u3059\u308b\u306a\u3089\u3042\u3063\u305f\u307b\u3046\u304c\u3088\u3044   Environment \u306f\u9577\u3044\u306e\u3067\u77ed\u304f\u3057\u3066\u3082\u3088\u3044\u3002\u74b0\u5883\u306f\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u306b\u5fc5\u8981\u306a\u3060\u3051\u3064\u3051\u308b   State: Environments - Terraform by HashiCorp  terraform \u306e\u4ee5\u524d\u306e\u30d0\u30fc\u30b8\u30e7\u30f3\u3067\u306f environment \u304c\u30b9\u30c6\u30fc\u30c8\u306e\u72b6\u614b\u3092\u8868\u3059\u5909\u6570\u3068\u3057\u3066\u5b9a\u7fa9\u3055\u308c\u3066\u304a\u308a\u3001IDE\u306a\u3069\u306e\u30b3\u30fc\u30c9\u30d8\u30eb\u30d1\u30fc\u304c\u53cd\u5fdc\u3057\u3066\u3057\u307e\u3046\u3053\u3068\u304c\u3042\u308b  state\u306e\u30d7\u30ed\u30d1\u30c6\u30a3\u3068\u3057\u3066\u53c2\u7167\u3059\u308b\u3068\u3001\u5b58\u5728\u3057\u3066\u3044\u306a\u3044\u5834\u5408\u306b\"default\" \u306b\u306a\u3063\u3066\u3057\u307e\u3046\uff08\u672c\u6765\u306f\u7a7a\u304c\u671b\u307e\u3057\u3044\uff09  \u5b58\u5728\u3057\u3066\u3044\u308c\u3070\uff08output environment \u3068\u3059\u308c\u3070\uff09\u305d\u306e\u5024\u3092\u53d6\u5f97\u3067\u304d\u308b  terraform\u5074\u306e\u4ed5\u69d8\u3060\u3051\u3069\u82e5\u5e72\u4f7f\u3044\u306b\u304f\u3044\u306e\u3067\u3001\u77ed\u3044 Env \u307e\u305f\u306f Staging \u306a\u3069\u3092\u4f7f\u7528\u3059\u308b\u3068\u3044\u3044\u304b\u3082\u3057\u308c\u306a\u3044\uff08\u3068\u306f\u3044\u3048\u7d50\u5c40\u3069\u308c\u3082\u3088\u304f\u306a\u3044\u306e\u3067\u306f\u3002\u3002\u3002\uff09     Service \u306fweb,db\u306e\u3088\u3046\u306a\u5927\u67a0\u3084\u3001rds,ecs\u306e\u3088\u3046\u306aSaaS\u30b5\u30fc\u30d3\u30b9\u540d\u3001\u3067\u306f\u306a\u304f\u3001\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u5185\u306e\u56fa\u6709\u306e\u30b5\u30fc\u30d3\u30b9\u3067\u5206\u5272\u3059\u308b\u3068\u3088\u3044\u3002\u8a8d\u8a3c\u3001\u30c1\u30e3\u30c3\u30c8\u3001\u6a5f\u80fd\u3068\u3044\u3063\u305f\u30b5\u30fc\u30d3\u30b9\u30c9\u30e1\u30a4\u30f3\u540d\u304c\u671b\u307e\u3057\u3044   Tier \u306f\u4e3b\u306bsubnet\u306e\u30b0\u30eb\u30fc\u30d4\u30f3\u30b0\u7528", 
+            "title": "\u30bf\u30b0\u7ba1\u7406\u8868"
+        }, 
+        {
+            "location": "/aws/limit/", 
+            "text": "limit\nLink\n\n\n\n\nAWS \u30b5\u30fc\u30d3\u30b9\u5236\u9650 - \u30a2\u30de\u30be\u30f3 \u30a6\u30a7\u30d6 \u30b5\u30fc\u30d3\u30b9\n\n\n\n\n\u5236\u9650\u62e1\u5927\u7533\u8acb\u306e\u8a18\u9332\nLink\n\n\n\n\n\n\n\u5b9f\u969b\u306b\u7533\u8acb\u3057\u305f\u5236\u9650\u62e1\u5927\u306e\u5185\u5bb9\u3092\u30e1\u30e2\u3057\u3066\u304a\u304f\n\n\n\n\n\n\nVPC\n\n\n\n\n\u30ea\u30fc\u30b8\u30e7\u30f3\u5f53\u305f\u308a\u306e\u6570 10\n\n\n\n\n\n\n\n\nNAT Gateway\n\n\n\n\nAZ\u5f53\u305f\u308a\u306e\u6570 20\n\n\n\n\n\n\n\n\nElastic IP", 
+            "title": "limit"
+        }, 
+        {
+            "location": "/aws/limit/#limit", 
+            "text": "AWS \u30b5\u30fc\u30d3\u30b9\u5236\u9650 - \u30a2\u30de\u30be\u30f3 \u30a6\u30a7\u30d6 \u30b5\u30fc\u30d3\u30b9", 
+            "title": "limit"
+        }, 
+        {
+            "location": "/aws/limit/#_1", 
+            "text": "\u5b9f\u969b\u306b\u7533\u8acb\u3057\u305f\u5236\u9650\u62e1\u5927\u306e\u5185\u5bb9\u3092\u30e1\u30e2\u3057\u3066\u304a\u304f    VPC   \u30ea\u30fc\u30b8\u30e7\u30f3\u5f53\u305f\u308a\u306e\u6570 10     NAT Gateway   AZ\u5f53\u305f\u308a\u306e\u6570 20     Elastic IP", 
+            "title": "\u5236\u9650\u62e1\u5927\u7533\u8acb\u306e\u8a18\u9332"
+        }, 
+        {
+            "location": "/aws/s3/", 
+            "text": "s3\nLink\n\n\n\n\n\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8 - Amazon S3\uff08\u30af\u30e9\u30a6\u30c9\u30b9\u30c8\u30ec\u30fc\u30b8\uff09\uff5cAWS\n\n\naws s3 ls \u306f\u30a2\u30ab\u30a6\u30f3\u30c8\u3084\u30ed\u30fc\u30eb\u306e\u5207\u308a\u66ff\u3048\u3001\u30a4\u30f3\u30b9\u30bf\u30f3\u30b9\u30ed\u30fc\u30eb\u3067\u306e\u30c6\u30b9\u30c8\u306b\u7c21\u5358\u306b\u4f7f\u3048\u308b\uff08\u4e00\u756a\u30bf\u30a4\u30d7\u6570\u304c\u5c11\u306a\u3044\uff09\n\n\n\u30d0\u30b1\u30c3\u30c8\u540d\u306f\u4e00\u610f\u3067\u3042\u308b\u5fc5\u8981\u304c\u3042\u308b\n\n\nDNS\u547d\u540d\u898f\u5247\u304c\u63a8\u5968\u3055\u308c\u3066\u3044\u308b\n\n\n\u30ea\u30af\u30a8\u30b9\u30c8\u7387\u304a\u3088\u3073\u30ea\u30af\u30a8\u30b9\u30c8\u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u306b\u95a2\u3059\u308b\u7559\u610f\u4e8b\u9805 - Amazon Simple Storage Service\n\n\n\n\n\u30ed\u30b0\u4fdd\u5b58\u7528\u306b\u30d0\u30b1\u30c3\u30c8\u3092\uff11\u3064\u306b\u3057\u3066\u30d7\u30ec\u30d5\u30a3\u30c3\u30af\u30b9\u3067\u5206\u3051\u308b\u304b\u3001\u305d\u3082\u305d\u3082\u30d0\u30b1\u30c3\u30c8\u3092\u5206\u3051\u305f\u307b\u3046\u304c\u3044\u3044\u304b\n\n\n\n\n\n\n\u4f5c\u6210\u4e88\u5b9a\u306e\u30d0\u30b1\u30c3\u30c8\u540d\n\n\n\n\n\u30c9\u30e1\u30a4\u30f3\uff08www\u3078\u30ea\u30c0\u30a4\u30ec\u30af\u30c8\u8a2d\u5b9a\uff09\n\n\nwww. \uff08\u30a6\u30a7\u30d6\u30db\u30b9\u30c6\u30a3\u30f3\u30b0\u672c\u4f53\uff09\n\n\nlog. \uff08\u30ed\u30b0\u4fdd\u5b58\u7528\u3001\u30e9\u30a4\u30d5\u30b5\u30a4\u30af\u30eb\u3067\u4f4e\u5197\u9577\u5316\u30b9\u30c8\u30ec\u30fc\u30b8\u3078\uff09\n\n\nbackup. \uff08\u30c7\u30fc\u30bf\u30d0\u30c3\u30af\u30a2\u30c3\u30d7\uff09\n\n\nfiles. \uff08terraform\u306e\u30ea\u30e2\u30fc\u30c8\u30b9\u30c6\u30fc\u30c8\u3001\u9375\u60c5\u5831\u306a\u3069\u5185\u90e8\u5411\u3051\u30d5\u30a1\u30a4\u30eb\u914d\u7f6e\uff09", 
+            "title": "s3"
+        }, 
+        {
+            "location": "/aws/s3/#s3", 
+            "text": "\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8 - Amazon S3\uff08\u30af\u30e9\u30a6\u30c9\u30b9\u30c8\u30ec\u30fc\u30b8\uff09\uff5cAWS  aws s3 ls \u306f\u30a2\u30ab\u30a6\u30f3\u30c8\u3084\u30ed\u30fc\u30eb\u306e\u5207\u308a\u66ff\u3048\u3001\u30a4\u30f3\u30b9\u30bf\u30f3\u30b9\u30ed\u30fc\u30eb\u3067\u306e\u30c6\u30b9\u30c8\u306b\u7c21\u5358\u306b\u4f7f\u3048\u308b\uff08\u4e00\u756a\u30bf\u30a4\u30d7\u6570\u304c\u5c11\u306a\u3044\uff09  \u30d0\u30b1\u30c3\u30c8\u540d\u306f\u4e00\u610f\u3067\u3042\u308b\u5fc5\u8981\u304c\u3042\u308b  DNS\u547d\u540d\u898f\u5247\u304c\u63a8\u5968\u3055\u308c\u3066\u3044\u308b  \u30ea\u30af\u30a8\u30b9\u30c8\u7387\u304a\u3088\u3073\u30ea\u30af\u30a8\u30b9\u30c8\u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u306b\u95a2\u3059\u308b\u7559\u610f\u4e8b\u9805 - Amazon Simple Storage Service   \u30ed\u30b0\u4fdd\u5b58\u7528\u306b\u30d0\u30b1\u30c3\u30c8\u3092\uff11\u3064\u306b\u3057\u3066\u30d7\u30ec\u30d5\u30a3\u30c3\u30af\u30b9\u3067\u5206\u3051\u308b\u304b\u3001\u305d\u3082\u305d\u3082\u30d0\u30b1\u30c3\u30c8\u3092\u5206\u3051\u305f\u307b\u3046\u304c\u3044\u3044\u304b    \u4f5c\u6210\u4e88\u5b9a\u306e\u30d0\u30b1\u30c3\u30c8\u540d   \u30c9\u30e1\u30a4\u30f3\uff08www\u3078\u30ea\u30c0\u30a4\u30ec\u30af\u30c8\u8a2d\u5b9a\uff09  www. \uff08\u30a6\u30a7\u30d6\u30db\u30b9\u30c6\u30a3\u30f3\u30b0\u672c\u4f53\uff09  log. \uff08\u30ed\u30b0\u4fdd\u5b58\u7528\u3001\u30e9\u30a4\u30d5\u30b5\u30a4\u30af\u30eb\u3067\u4f4e\u5197\u9577\u5316\u30b9\u30c8\u30ec\u30fc\u30b8\u3078\uff09  backup. \uff08\u30c7\u30fc\u30bf\u30d0\u30c3\u30af\u30a2\u30c3\u30d7\uff09  files. \uff08terraform\u306e\u30ea\u30e2\u30fc\u30c8\u30b9\u30c6\u30fc\u30c8\u3001\u9375\u60c5\u5831\u306a\u3069\u5185\u90e8\u5411\u3051\u30d5\u30a1\u30a4\u30eb\u914d\u7f6e\uff09", 
+            "title": "s3"
+        }, 
+        {
+            "location": "/aws/securitygroup/", 
+            "text": "security group\nLink\n\n\n\n\nVPC \u306e\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30b0\u30eb\u30fc\u30d7 - Amazon Virtual Private Cloud\n\n\nLinux \u30a4\u30f3\u30b9\u30bf\u30f3\u30b9\u306e Amazon EC2 \u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30b0\u30eb\u30fc\u30d7 - Amazon Elastic Compute Cloud\n\n\n\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30b0\u30eb\u30fc\u30d7\u306f\u8a31\u53ef\u5236\n\n\n\u7de9\u304f\u8a31\u53ef\u3059\u308b\u3068\u9589\u3081\u3089\u308c\u306a\u3044\u306e\u3067\u3001\u5fc5\u8981\u306a\u5206\u3060\u3051\u958b\u304f\n\n\n\u30a4\u30f3\u30b9\u30bf\u30f3\u30b9\u8d77\u52d5\u6642\u306bVPC\u306e\u30c7\u30d5\u30a9\u30eb\u30c8\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30b0\u30eb\u30fc\u30d7\u3092\u4ed8\u3051\u3066\u304a\u3051\u3070\u305d\u306e\u7bc4\u56f2\u5185\u3067\u901a\u4fe1\u3067\u304d\u308b\uff08\u30c7\u30d5\u30a9\u30eb\u30c8\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30b0\u30eb\u30fc\u30d7\u306b\u81ea\u8eab\u306e\u30b0\u30eb\u30fc\u30d7\u9593\u901a\u4fe1\u304c\u8a2d\u5b9a\u3057\u3066\u3042\u308b\uff09\n\n\n\n\n\u5916\u90e8\u304b\u3089\u306e\u63a5\u7d9a\u3092\u8a31\u53ef\u3059\u308b\u30b0\u30eb\u30fc\u30d7\u306f\u7528\u9014\u306b\u5408\u308f\u305b\u3066\u4f5c\u6210\u3057\u3001\u5fc5\u8981\u306b\u5fdc\u3058\u3066\u8a2d\u5b9a\u3059\u308b\u3002\u30c7\u30d5\u30a9\u30eb\u30c8\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30b0\u30eb\u30fc\u30d7\u306b\u5927\u7a74\u3092\u958b\u3051\u308b\u3068\u5927\u5909\n\n\n\n\nweb(80,8080,443) \u3092 0.0.0.0/0\n\n\nssh(22)\u3092\u30ec\u30f3\u30b8\u3092\u7d5e\u308b\u304b\u56fa\u5b9aIP\u3067\n\n\n\n\n\n\n\n\nterraform \u3067\u5909\u66f4\u3092\u304b\u3051\u308b\u3068\u518d\u4f5c\u6210\u3055\u308c\u3066\u3044\u308b\u3088\u3046\u306b\u898b\u3048\u308b\uff08destroy\u304c\u4ed8\u304f\uff09\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u7684\u306b\u77ac\u65ad\u304c\u767a\u751f\u3059\u308b\u306e\u304b\u306f\u672a\u691c\u8a3c\n\n\n\n\n\n\nansible \u3060\u3068 YAML \u3067\u66f8\u3051\u3066\u4fbf\u5229\u304b\u3082\u3057\u308c\u306a\u3044\u304c\u3001\u624b\u4f5c\u696d\u306b\u3088\u308b\u4fee\u6b63\u5dee\u5206\u304c\u7ba1\u7406\u3067\u304d\u306a\u304f\u306a\u308b\u306e\u3067\u6ce8\u610f\u3057\u305f\u307b\u3046\u304c\u3044\u3044\n\n\n\n\nansible \u3067\u6700\u521d\u306b\u4f5c\u6210[1]\n\n\nCLI\u3084\u30de\u30cd\u30b8\u30e1\u30f3\u30c8\u30b3\u30f3\u30bd\u30fc\u30eb\u3067\u624b\u4fee\u6b63[2]\n\n\nansible \u3067\u4ed6\u306e\u4fee\u6b63[3]\n\n\n[1,2,3]\u304c\u5168\u90e8\u30a4\u30ad\u306e\u72b6\u614b\u306b\u306a\u308b\n\n\n\u8a18\u8ff0\u65b9\u6cd5\u306b\u3082\u3088\u308b\u304b\u3082\u3057\u308c\u306a\u3044\u304c\u3001\u3053\u308c\u306f\u69cb\u6210\u7ba1\u7406\u3068\u306f\u8a00\u3048\u306a\u3044(2\u306f\u7ba1\u7406\u3067\u304d\u3066\u3044\u306a\u3044)\n\n\nterraform \u306e\u5834\u5408\u3001\u624b\u3067\u4fee\u6b63\u3092\u52a0\u3048\u308b\u3068\u5dee\u5206\u3068\u3057\u3066\u8868\u793a\u3055\u308c\u308b\u306e\u3067\u3001\u53d7\u3051\u5165\u308c\u308b\u304b\u3069\u3046\u304b\u3092\u5224\u65ad\u3067\u304d\u308b\u306e\u3067\u30012\u3092\u6b8b\u3059\u304b\u6368\u3066\u308b\u304b\u6c7a\u3081\u3089\u308c\u308b\n\n\n\n\n\n\n\n\nVPC \u306e\u30c7\u30d5\u30a9\u30eb\u30c8\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30b0\u30eb\u30fc\u30d7\u306f terraform \u3067\u7ba1\u7406\u3059\u308b\u5834\u5408\u306b\n\u6ce8\u610f\u304c\u5fc5\u8981\n\n\n\n\n\n\n\u4eca\u306e\u3068\u3053\u308d\u89e6\u3089\u306a\u3044\u65b9\u91dd\u306b\u3059\u308b\u4e88\u5b9a\n \u00a0 * \u5f37\u56fa\u306a\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u304c\u5fc5\u8981\u306a\u5834\u5408\uff08\u540c\u3058\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u306b\u63a5\u7d9a\u3057\u305f\u30de\u30b7\u30f3\u9593\u3067\u306e\u901a\u4fe1\u306b\u5236\u9650\u304c\u5fc5\u8981\u306b\u306a\u308b\u306a\u3089\u305d\u308c\u306f\u8a2d\u8a08\u304c\u304a\u304b\u3057\u3044\u306e\u3067\u306f\uff1f\uff09\u306b\u30c7\u30d5\u30a9\u30eb\u30c8\u901a\u4fe1\u3092\u5236\u9650\u3059\u308b\u306a\u3089\u6709\u52b9\u304b\u3082\u3057\u308c\u306a\u3044\u3002\u304c\u3001\u305d\u306e\u5834\u5408\u3082\u30a4\u30f3\u30b9\u30bf\u30f3\u30b9\u306b\u30c7\u30d5\u30a9\u30eb\u30c8\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30b0\u30eb\u30fc\u30d7\u3092\u5272\u308a\u5f53\u3066\u306a\u3051\u308c\u3070\u3044\u3044\u6c17\u304c\u3059\u308b\n \u00a0 * \u4f7f\u7528\u7528\u9014\u3084\u4f8b\u306e\u60c5\u5831\u3092\u53ce\u96c6\u3057\u3066\u307f\u308b\u5fc5\u8981\u304c\u3042\u308b", 
+            "title": "security group"
+        }, 
+        {
+            "location": "/aws/securitygroup/#security-group", 
+            "text": "VPC \u306e\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30b0\u30eb\u30fc\u30d7 - Amazon Virtual Private Cloud  Linux \u30a4\u30f3\u30b9\u30bf\u30f3\u30b9\u306e Amazon EC2 \u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30b0\u30eb\u30fc\u30d7 - Amazon Elastic Compute Cloud  \u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30b0\u30eb\u30fc\u30d7\u306f\u8a31\u53ef\u5236  \u7de9\u304f\u8a31\u53ef\u3059\u308b\u3068\u9589\u3081\u3089\u308c\u306a\u3044\u306e\u3067\u3001\u5fc5\u8981\u306a\u5206\u3060\u3051\u958b\u304f  \u30a4\u30f3\u30b9\u30bf\u30f3\u30b9\u8d77\u52d5\u6642\u306bVPC\u306e\u30c7\u30d5\u30a9\u30eb\u30c8\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30b0\u30eb\u30fc\u30d7\u3092\u4ed8\u3051\u3066\u304a\u3051\u3070\u305d\u306e\u7bc4\u56f2\u5185\u3067\u901a\u4fe1\u3067\u304d\u308b\uff08\u30c7\u30d5\u30a9\u30eb\u30c8\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30b0\u30eb\u30fc\u30d7\u306b\u81ea\u8eab\u306e\u30b0\u30eb\u30fc\u30d7\u9593\u901a\u4fe1\u304c\u8a2d\u5b9a\u3057\u3066\u3042\u308b\uff09   \u5916\u90e8\u304b\u3089\u306e\u63a5\u7d9a\u3092\u8a31\u53ef\u3059\u308b\u30b0\u30eb\u30fc\u30d7\u306f\u7528\u9014\u306b\u5408\u308f\u305b\u3066\u4f5c\u6210\u3057\u3001\u5fc5\u8981\u306b\u5fdc\u3058\u3066\u8a2d\u5b9a\u3059\u308b\u3002\u30c7\u30d5\u30a9\u30eb\u30c8\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30b0\u30eb\u30fc\u30d7\u306b\u5927\u7a74\u3092\u958b\u3051\u308b\u3068\u5927\u5909   web(80,8080,443) \u3092 0.0.0.0/0  ssh(22)\u3092\u30ec\u30f3\u30b8\u3092\u7d5e\u308b\u304b\u56fa\u5b9aIP\u3067     terraform \u3067\u5909\u66f4\u3092\u304b\u3051\u308b\u3068\u518d\u4f5c\u6210\u3055\u308c\u3066\u3044\u308b\u3088\u3046\u306b\u898b\u3048\u308b\uff08destroy\u304c\u4ed8\u304f\uff09\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u7684\u306b\u77ac\u65ad\u304c\u767a\u751f\u3059\u308b\u306e\u304b\u306f\u672a\u691c\u8a3c    ansible \u3060\u3068 YAML \u3067\u66f8\u3051\u3066\u4fbf\u5229\u304b\u3082\u3057\u308c\u306a\u3044\u304c\u3001\u624b\u4f5c\u696d\u306b\u3088\u308b\u4fee\u6b63\u5dee\u5206\u304c\u7ba1\u7406\u3067\u304d\u306a\u304f\u306a\u308b\u306e\u3067\u6ce8\u610f\u3057\u305f\u307b\u3046\u304c\u3044\u3044   ansible \u3067\u6700\u521d\u306b\u4f5c\u6210[1]  CLI\u3084\u30de\u30cd\u30b8\u30e1\u30f3\u30c8\u30b3\u30f3\u30bd\u30fc\u30eb\u3067\u624b\u4fee\u6b63[2]  ansible \u3067\u4ed6\u306e\u4fee\u6b63[3]  [1,2,3]\u304c\u5168\u90e8\u30a4\u30ad\u306e\u72b6\u614b\u306b\u306a\u308b  \u8a18\u8ff0\u65b9\u6cd5\u306b\u3082\u3088\u308b\u304b\u3082\u3057\u308c\u306a\u3044\u304c\u3001\u3053\u308c\u306f\u69cb\u6210\u7ba1\u7406\u3068\u306f\u8a00\u3048\u306a\u3044(2\u306f\u7ba1\u7406\u3067\u304d\u3066\u3044\u306a\u3044)  terraform \u306e\u5834\u5408\u3001\u624b\u3067\u4fee\u6b63\u3092\u52a0\u3048\u308b\u3068\u5dee\u5206\u3068\u3057\u3066\u8868\u793a\u3055\u308c\u308b\u306e\u3067\u3001\u53d7\u3051\u5165\u308c\u308b\u304b\u3069\u3046\u304b\u3092\u5224\u65ad\u3067\u304d\u308b\u306e\u3067\u30012\u3092\u6b8b\u3059\u304b\u6368\u3066\u308b\u304b\u6c7a\u3081\u3089\u308c\u308b     VPC \u306e\u30c7\u30d5\u30a9\u30eb\u30c8\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30b0\u30eb\u30fc\u30d7\u306f terraform \u3067\u7ba1\u7406\u3059\u308b\u5834\u5408\u306b \u6ce8\u610f\u304c\u5fc5\u8981    \u4eca\u306e\u3068\u3053\u308d\u89e6\u3089\u306a\u3044\u65b9\u91dd\u306b\u3059\u308b\u4e88\u5b9a\n \u00a0 * \u5f37\u56fa\u306a\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u304c\u5fc5\u8981\u306a\u5834\u5408\uff08\u540c\u3058\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u306b\u63a5\u7d9a\u3057\u305f\u30de\u30b7\u30f3\u9593\u3067\u306e\u901a\u4fe1\u306b\u5236\u9650\u304c\u5fc5\u8981\u306b\u306a\u308b\u306a\u3089\u305d\u308c\u306f\u8a2d\u8a08\u304c\u304a\u304b\u3057\u3044\u306e\u3067\u306f\uff1f\uff09\u306b\u30c7\u30d5\u30a9\u30eb\u30c8\u901a\u4fe1\u3092\u5236\u9650\u3059\u308b\u306a\u3089\u6709\u52b9\u304b\u3082\u3057\u308c\u306a\u3044\u3002\u304c\u3001\u305d\u306e\u5834\u5408\u3082\u30a4\u30f3\u30b9\u30bf\u30f3\u30b9\u306b\u30c7\u30d5\u30a9\u30eb\u30c8\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30b0\u30eb\u30fc\u30d7\u3092\u5272\u308a\u5f53\u3066\u306a\u3051\u308c\u3070\u3044\u3044\u6c17\u304c\u3059\u308b\n \u00a0 * \u4f7f\u7528\u7528\u9014\u3084\u4f8b\u306e\u60c5\u5831\u3092\u53ce\u96c6\u3057\u3066\u307f\u308b\u5fc5\u8981\u304c\u3042\u308b", 
+            "title": "security group"
+        }, 
+        {
+            "location": "/aws/support/", 
+            "text": "support\nLink\n\n\nAWS Support Documentation\n \u306f\u65e5\u672c\u8a9e\u3058\u3083\u306a\u3044\u3051\u3069\u3001\u30e6\u30fc\u30b6\u30ac\u30a4\u30c9\u306f\n\nAWS \u30b5\u30dd\u30fc\u30c8\u306e\u6982\u8981 - AWS \u30b5\u30dd\u30fc\u30c8\n\n\u3068\u3057\u3066\u65e5\u672c\u8a9e\u306b\u306a\u3063\u3066\u3044\u308b\u3002\n\n\nTrusted Advisor - AWS \u30b5\u30dd\u30fc\u30c8 | AWS\n \u306f\u30c9\u30ad\u30e5\u30e1\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3\u30c8\u30c3\u30d7\u304b\u3089\u76f4\u63a5\u30ea\u30f3\u30af\u3055\u308c\u3066\u3044\u306a\u3044\u3051\u3069\u3001\u30b5\u30dd\u30fc\u30c8\u914d\u4e0b\u306b\u30ea\u30f3\u30af\u304c\u3042\u308b\uff08\u9ad8\u5ea6\u306a\u8a2d\u5b9a\u306f\u30d7\u30ec\u30df\u30a2\u30e0\u30b5\u30dd\u30fc\u30c8\u306e\u914d\u4e0b\u6271\u3044\u3060\u304b\u3089\uff1f\uff09\u3002", 
+            "title": "support"
+        }, 
+        {
+            "location": "/aws/support/#support", 
+            "text": "AWS Support Documentation  \u306f\u65e5\u672c\u8a9e\u3058\u3083\u306a\u3044\u3051\u3069\u3001\u30e6\u30fc\u30b6\u30ac\u30a4\u30c9\u306f AWS \u30b5\u30dd\u30fc\u30c8\u306e\u6982\u8981 - AWS \u30b5\u30dd\u30fc\u30c8 \n\u3068\u3057\u3066\u65e5\u672c\u8a9e\u306b\u306a\u3063\u3066\u3044\u308b\u3002  Trusted Advisor - AWS \u30b5\u30dd\u30fc\u30c8 | AWS  \u306f\u30c9\u30ad\u30e5\u30e1\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3\u30c8\u30c3\u30d7\u304b\u3089\u76f4\u63a5\u30ea\u30f3\u30af\u3055\u308c\u3066\u3044\u306a\u3044\u3051\u3069\u3001\u30b5\u30dd\u30fc\u30c8\u914d\u4e0b\u306b\u30ea\u30f3\u30af\u304c\u3042\u308b\uff08\u9ad8\u5ea6\u306a\u8a2d\u5b9a\u306f\u30d7\u30ec\u30df\u30a2\u30e0\u30b5\u30dd\u30fc\u30c8\u306e\u914d\u4e0b\u6271\u3044\u3060\u304b\u3089\uff1f\uff09\u3002", 
+            "title": "support"
+        }, 
+        {
+            "location": "/aws/trustedadvisor/", 
+            "text": "Trusted Advisor\nLink\n\n\nTrusted Advisor - AWS \u30b5\u30dd\u30fc\u30c8 | AWS\n\n\n\n\n\u516c\u5f0f\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u306f\u8ffd\u3044\u4ed8\u3066\u304d\u3066\u3044\u306a\u3044\u3051\u3069\u3001\u30de\u30cd\u30b8\u30e1\u30f3\u30c8\u30b3\u30f3\u30bd\u30fc\u30eb\u3067\u306f\u5341\u5206\u306b\u65e5\u672c\u8a9e\u5316\u3055\u308c\u3066\u304d\u3066\u3044\u308b\n\n\n\u65b0\u3057\u3044\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u4f5c\u6210\u3059\u308b\u3068\u30c7\u30d5\u30a9\u30eb\u30c8\u3067\u6709\u52b9\u5316\u3055\u308c\u308b\u3088\u3046\u306b\u306a\u3063\u305f\u3089\u3057\u3044\u3051\u3069\u672a\u78ba\u8a8d\n\n\n\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u307e\u308f\u308a\u306e\u30a2\u30c9\u30d0\u30a4\u30b9\u306f\u6ce8\u610f\u3057\u3066\u78ba\u8a8d\n\n\n\u30b5\u30fc\u30d3\u30b9\u5236\u9650\u3082\u78ba\u8a8d\u3067\u304d\u308b\u3088\u3046\u306b\u306a\u3063\u305f\u306e\u3067\u78ba\u8a8d", 
+            "title": "Trusted Advisor"
+        }, 
+        {
+            "location": "/aws/trustedadvisor/#trusted-advisor", 
+            "text": "Trusted Advisor - AWS \u30b5\u30dd\u30fc\u30c8 | AWS   \u516c\u5f0f\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u306f\u8ffd\u3044\u4ed8\u3066\u304d\u3066\u3044\u306a\u3044\u3051\u3069\u3001\u30de\u30cd\u30b8\u30e1\u30f3\u30c8\u30b3\u30f3\u30bd\u30fc\u30eb\u3067\u306f\u5341\u5206\u306b\u65e5\u672c\u8a9e\u5316\u3055\u308c\u3066\u304d\u3066\u3044\u308b  \u65b0\u3057\u3044\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u4f5c\u6210\u3059\u308b\u3068\u30c7\u30d5\u30a9\u30eb\u30c8\u3067\u6709\u52b9\u5316\u3055\u308c\u308b\u3088\u3046\u306b\u306a\u3063\u305f\u3089\u3057\u3044\u3051\u3069\u672a\u78ba\u8a8d  \u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u307e\u308f\u308a\u306e\u30a2\u30c9\u30d0\u30a4\u30b9\u306f\u6ce8\u610f\u3057\u3066\u78ba\u8a8d  \u30b5\u30fc\u30d3\u30b9\u5236\u9650\u3082\u78ba\u8a8d\u3067\u304d\u308b\u3088\u3046\u306b\u306a\u3063\u305f\u306e\u3067\u78ba\u8a8d", 
+            "title": "Trusted Advisor"
+        }, 
+        {
+            "location": "/aws/vpc/", 
+            "text": "vpc\nLink\n\n\n\n\nAmazon Virtual Private Cloud\uff08VPC\uff09\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8 | AWS\n\n\n\n\nterraform-aws-modules/terraform-aws-vpc: Terraform module which creates VPC resources on AWS\n\n\n\n\ngithub \u306b terraform \u30e2\u30b8\u30e5\u30fc\u30eb\u304c\u3042\u308b\u306e\u3067\u6d3b\u7528\u3059\u308b\n\n\n\u4eca\u306e\u3068\u3053\u308d\u3053\u306e\u30e2\u30b8\u30e5\u30fc\u30eb\u3067\u56f0\u3063\u3066\u3044\u306a\u3044\n\n\nAWS: aws_availability_zones - Terraform by HashiCorp\n\n\n\u30a2\u30d9\u30a4\u30e9\u30d3\u30ea\u30c6\u30a3\u30be\u30fc\u30f3\u3092\u6307\u5b9a\u3059\u308b\u30c7\u30fc\u30bf\u30bd\u30fc\u30b9\u304c\u3042\u308b\u306e\u3067\u30ea\u30c6\u30e9\u30eb\u3067\u6307\u5b9a\u3057\u306a\u304f\u3066\u3044\u3044\uff08\u3066\u3086\u3046\u304b\u3001\u30e2\u30b8\u30e5\u30fc\u30eb\u306e\u4f8b\u3092\u6319\u3052\u308b\u6642\u306b\u6700\u521d\u304b\u3089\u66f8\u3044\u3066\u3042\u308c\u3070\u3044\u3044\u306e\u306b\uff09\n\n\n\n\n\n\n\n\n2017\u306e\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u3067\u30ea\u30fc\u30b8\u30e7\u30f3\u9593\u306eVPC\u30d4\u30a2\u30ea\u30f3\u30b0\u304b\u683c\u6bb5\u306b\u4f5c\u308a\u3084\u3059\u304f\u306a\u3063\u305f\uff08\u30a4\u30f3\u30bf\u30fc\u30ea\u30fc\u30b8\u30e7\u30f3VPC\u30d4\u30a2\u30ea\u30f3\u30b0\uff09\n\n\n\n\nAWS: aws_vpc_peering_connection - Terraform by HashiCorp\n\n\n\u81ea\u30a2\u30ab\u30a6\u30f3\u30c8\u5185\u3067\u306e\u30d4\u30a2\u30ea\u30f3\u30b0\u306f peer_vpc_id, vpc_id, auto_accept \u3067\u6e08\u3080\n\n\n\n\n\n\n\n\nNAT\u30b2\u30fc\u30c8\u30a6\u30a7\u30a4\u3092\u4f7f\u7528\u3059\u308b\u3053\u3068\u3067\u3001NAT\u30a4\u30f3\u30b9\u30bf\u30f3\u30b9\u3092\u7ba1\u7406\u3057\u306a\u304f\u3066\u3088\u304f\u306a\u3063\u305f\n\n\n\n\nNAT \u30a4\u30f3\u30b9\u30bf\u30f3\u30b9\u3068 NAT \u30b2\u30fc\u30c8\u30a6\u30a7\u30a4\u306e\u6bd4\u8f03 - Amazon Virtual Private Cloud\n\n\nAmazon VPC \u306e\u5236\u9650 - Amazon Virtual Private Cloud\n\n\nNAT \u30b2\u30fc\u30c8\u30a6\u30a7\u30a4\u306fAZ\u5f53\u305f\u308a\uff15\u3064\u307e\u3067\u306e\u5236\u9650\u304c\u3042\u308b\n\n\n\n\n\n\n\n\n\u30d4\u30a2\u30ea\u30f3\u30b0\u3084\u30c0\u30a4\u30ec\u30af\u30c8\u30b3\u30cd\u30af\u30c8\u3067\u30aa\u30f3\u30d7\u30ec\u3084\u4ed6\u74b0\u5883\u3068\u30d0\u30c3\u30c6\u30a3\u30f3\u30b0\u3057\u306a\u3044\u3088\u3046\u306b\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u8a2d\u8a08\u3059\u308b\u3053\u3068\n\n\n\n\n\u30a2\u30ab\u30a6\u30f3\u30c8\u5168\u4f53\u306e\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u3092 /16 \u3067\u78ba\u5b9a\u3057\u3001/18 \u306a\u3044\u3057 /19 \u3067 VPC \u3092\u5206\u96e2\u3057\u3066\u3001 /24 \u306e\u30b5\u30d6\u30cd\u30c3\u30c8\u306b\u3059\u308b\u306e\u304c\u4eca\u306e\u3068\u3053\u308d\u4f7f\u3044\u52dd\u624b\u304c\u3088\u3044\n\n\n\u30a2\u30ab\u30a6\u30f3\u30c8\u4f5c\u6210\u6642\u306b\u5404\u30ea\u30fc\u30b8\u30e7\u30f3\u306b\u4f5c\u6210\u3055\u308c\u308b\u30c7\u30d5\u30a9\u30eb\u30c8VPC\u306b\u306f\u306a\u308b\u3079\u304f\u624b\u3092\u3064\u3051\u306a\u3044\u307b\u3046\u304c\u697d\n\n\nVPC \u306e\u30cd\u30c3\u30c8\u30ef\u30fc\u30ad\u30f3\u30b0\u30b3\u30f3\u30dd\u30fc\u30cd\u30f3\u30c8\n\u306f\u6570\u304c\u591a\u304f\u3001\u4e00\u5ea6\u306b\u899a\u3048\u308b\u306e\u306f\u96e3\u3057\u3044\u306e\u3067\u5c11\u3057\u305a\u3064\u899a\u3048\u308b\n\n\nVPC \u306f\u5236\u9650\u304c\u65e9\u3044\uff08\uff11\u30ea\u30fc\u30b8\u30e7\u30f3\uff15\u3064\u307e\u3067\uff09\u306e\u3067\u3001\u74b0\u5883\u6bce\u306bVPC\u3092\u5206\u3051\u308b\u8a2d\u8a08\u306b\u3059\u308b\u306a\u3089\u5236\u9650\u89e3\u9664\u4f9d\u983c", 
+            "title": "vpc"
+        }, 
+        {
+            "location": "/aws/vpc/#vpc", 
+            "text": "Amazon Virtual Private Cloud\uff08VPC\uff09\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8 | AWS   terraform-aws-modules/terraform-aws-vpc: Terraform module which creates VPC resources on AWS   github \u306b terraform \u30e2\u30b8\u30e5\u30fc\u30eb\u304c\u3042\u308b\u306e\u3067\u6d3b\u7528\u3059\u308b  \u4eca\u306e\u3068\u3053\u308d\u3053\u306e\u30e2\u30b8\u30e5\u30fc\u30eb\u3067\u56f0\u3063\u3066\u3044\u306a\u3044  AWS: aws_availability_zones - Terraform by HashiCorp  \u30a2\u30d9\u30a4\u30e9\u30d3\u30ea\u30c6\u30a3\u30be\u30fc\u30f3\u3092\u6307\u5b9a\u3059\u308b\u30c7\u30fc\u30bf\u30bd\u30fc\u30b9\u304c\u3042\u308b\u306e\u3067\u30ea\u30c6\u30e9\u30eb\u3067\u6307\u5b9a\u3057\u306a\u304f\u3066\u3044\u3044\uff08\u3066\u3086\u3046\u304b\u3001\u30e2\u30b8\u30e5\u30fc\u30eb\u306e\u4f8b\u3092\u6319\u3052\u308b\u6642\u306b\u6700\u521d\u304b\u3089\u66f8\u3044\u3066\u3042\u308c\u3070\u3044\u3044\u306e\u306b\uff09     2017\u306e\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u3067\u30ea\u30fc\u30b8\u30e7\u30f3\u9593\u306eVPC\u30d4\u30a2\u30ea\u30f3\u30b0\u304b\u683c\u6bb5\u306b\u4f5c\u308a\u3084\u3059\u304f\u306a\u3063\u305f\uff08\u30a4\u30f3\u30bf\u30fc\u30ea\u30fc\u30b8\u30e7\u30f3VPC\u30d4\u30a2\u30ea\u30f3\u30b0\uff09   AWS: aws_vpc_peering_connection - Terraform by HashiCorp  \u81ea\u30a2\u30ab\u30a6\u30f3\u30c8\u5185\u3067\u306e\u30d4\u30a2\u30ea\u30f3\u30b0\u306f peer_vpc_id, vpc_id, auto_accept \u3067\u6e08\u3080     NAT\u30b2\u30fc\u30c8\u30a6\u30a7\u30a4\u3092\u4f7f\u7528\u3059\u308b\u3053\u3068\u3067\u3001NAT\u30a4\u30f3\u30b9\u30bf\u30f3\u30b9\u3092\u7ba1\u7406\u3057\u306a\u304f\u3066\u3088\u304f\u306a\u3063\u305f   NAT \u30a4\u30f3\u30b9\u30bf\u30f3\u30b9\u3068 NAT \u30b2\u30fc\u30c8\u30a6\u30a7\u30a4\u306e\u6bd4\u8f03 - Amazon Virtual Private Cloud  Amazon VPC \u306e\u5236\u9650 - Amazon Virtual Private Cloud  NAT \u30b2\u30fc\u30c8\u30a6\u30a7\u30a4\u306fAZ\u5f53\u305f\u308a\uff15\u3064\u307e\u3067\u306e\u5236\u9650\u304c\u3042\u308b     \u30d4\u30a2\u30ea\u30f3\u30b0\u3084\u30c0\u30a4\u30ec\u30af\u30c8\u30b3\u30cd\u30af\u30c8\u3067\u30aa\u30f3\u30d7\u30ec\u3084\u4ed6\u74b0\u5883\u3068\u30d0\u30c3\u30c6\u30a3\u30f3\u30b0\u3057\u306a\u3044\u3088\u3046\u306b\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u8a2d\u8a08\u3059\u308b\u3053\u3068   \u30a2\u30ab\u30a6\u30f3\u30c8\u5168\u4f53\u306e\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u3092 /16 \u3067\u78ba\u5b9a\u3057\u3001/18 \u306a\u3044\u3057 /19 \u3067 VPC \u3092\u5206\u96e2\u3057\u3066\u3001 /24 \u306e\u30b5\u30d6\u30cd\u30c3\u30c8\u306b\u3059\u308b\u306e\u304c\u4eca\u306e\u3068\u3053\u308d\u4f7f\u3044\u52dd\u624b\u304c\u3088\u3044  \u30a2\u30ab\u30a6\u30f3\u30c8\u4f5c\u6210\u6642\u306b\u5404\u30ea\u30fc\u30b8\u30e7\u30f3\u306b\u4f5c\u6210\u3055\u308c\u308b\u30c7\u30d5\u30a9\u30eb\u30c8VPC\u306b\u306f\u306a\u308b\u3079\u304f\u624b\u3092\u3064\u3051\u306a\u3044\u307b\u3046\u304c\u697d  VPC \u306e\u30cd\u30c3\u30c8\u30ef\u30fc\u30ad\u30f3\u30b0\u30b3\u30f3\u30dd\u30fc\u30cd\u30f3\u30c8 \u306f\u6570\u304c\u591a\u304f\u3001\u4e00\u5ea6\u306b\u899a\u3048\u308b\u306e\u306f\u96e3\u3057\u3044\u306e\u3067\u5c11\u3057\u305a\u3064\u899a\u3048\u308b  VPC \u306f\u5236\u9650\u304c\u65e9\u3044\uff08\uff11\u30ea\u30fc\u30b8\u30e7\u30f3\uff15\u3064\u307e\u3067\uff09\u306e\u3067\u3001\u74b0\u5883\u6bce\u306bVPC\u3092\u5206\u3051\u308b\u8a2d\u8a08\u306b\u3059\u308b\u306a\u3089\u5236\u9650\u89e3\u9664\u4f9d\u983c", 
+            "title": "vpc"
+        }, 
+        {
+            "location": "/db/mysql/", 
+            "text": "MySQL\nLink\n\n\n\u30c8\u30e9\u30d6\u30eb\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0\nLink\n\n\n\u73fe\u5728\u306e\u63a5\u7d9a\u6570\nLink\n\n\nshow status like \n%connect%\n;\n\n\n\n\n\n\u6700\u5927\u63a5\u7d9a\u6570\u3092\u78ba\u8a8d\nLink\n\n\nshow global variables like \nmax_connections\n;\n\n\n\n\n\n\u8d77\u52d5\u5f8c\u304b\u3089\u306e\u6700\u5927\u63a5\u7d9a\u6570\nLink\n\n\nshow global status like \nMax_used_connections\n;\n\n\n\n\n\n\u30b9\u30c6\u30fc\u30bf\u30b9\u30ea\u30bb\u30c3\u30c8\nLink\n\n\nflush status\n\n\n\n\n\n\u904b\u7528\nLink\n\n\n\u63a5\u7d9a\nLink\n\n\nmysql -u root -p -h HOSTNAME DBNAME -e\nshow tables;\n\n\n\n\n\n\n\u30d0\u30fc\u30b8\u30e7\u30f3\u78ba\u8a8d\nLink\n\n\nselect version();\n\n\n\n\n\n\u73fe\u5728\u63a5\u7d9a\u3057\u3066\u3044\u308bDB\nLink\n\n\nselect database();\n\n\n\n\n\n\u73fe\u5728\u4f7f\u7528\u3057\u3066\u3044\u308b\u30e6\u30fc\u30b6\nLink\n\n\nselect current_user();\n\n\n\n\n\n\u4e00\u89a7\nLink\n\n\nshow databases;\nshow tables;\nshow processlist;\nshow status;\nshow global status;\nshow variables;\nshow global variables;\nshow table status;\nshow index from TABLENAME;\n\n\n\n\n\u6a29\u9650\u7b49\nLink\n\n\nselect user,host from mysql.user;\nshow grants for \nUSER\n@\nHOST\n\nrename user \nOLDUSER\n@\nHOST\n to \nNEWUSER\n@\nLOCLAHOST\n;\nrevoke all privileges, grant option from USER\nflush privileges;\n\n\n\n\n\u30af\u30a8\u30ea\u30ad\u30e3\u30c3\u30b7\u30e5\u3092\u7121\u52b9\u306b\u3059\u308b\nLink\n\n\nSET GLOBAL query_cache_size=0;\nSET GLOBAL query_cache_type=0;\nSHOW GLOBAL VARIABLES LIKE \n%query_cache%\n;\n\n# see https://qiita.com/mamy1326/items/d1548d8cf4528277172a\n\n\n\n\n\u30e6\u30fc\u30b6\u4e00\u89a7\u304b\u3089\u30e6\u30fc\u30b6\u6a29\u9650\u3092\u78ba\u8a8d\nLink\n\n\nmysql -u root -N -e \nselect concat(\nSHOW GRANTS FOR `\n,user, \n`@`\n,host, \n`;\n) from mysql.user order by user,host;\n \n user.sql\nmysql -u root -N \n user.sql\n\n# see https://qiita.com/raki/items/cfd015ac50806bbac40a\n\n\n\n\n\u30ed\u30fc\u30ab\u30eb\u8a2d\u5b9a\u30d5\u30a1\u30a4\u30eb\nLink\n\n\n[client]\n# user dev\n# password=\n\n# user prod\n# password=\n\n[mysql]\n# rehash( auto completion )\nauto-rehash\n\n# User,Host,Database\nprompt=\\\\u@\\\\h:\\\\d\n\\\\_\n\n# if you want disable this option: SET SQL_SAFE_UPDATES=0;\nsafe-updates\n\n\n\n\n\u30e1\u30e2\nLink\n\n\n# \u30c6\u30fc\u30d6\u30eb\u30c7\u30fc\u30bf\u306e\u4ef6\u6570\u4e00\u89a7(InnoDB\u3067\u306f\u5373\u6642\u6027\u3082\u6b63\u78ba\u6027\u3082\u602a\u3057\u3044\u306e\u3067\u6ce8\u610f)\nselect table_name, table_rows from information_schema.TABLES where table_schema = \nDB\u540d\n;\n\n# slave \u505c\u6b62\uff08Slave_SQL_Running: No\uff09\nSET GLOBAL SQL_SLAVE_SKIP_COUNTER = 1;\nSTART SLAVE;", 
+            "title": "MySQL"
+        }, 
+        {
+            "location": "/db/mysql/#mysql", 
+            "text": "", 
+            "title": "MySQL"
+        }, 
+        {
+            "location": "/db/mysql/#_1", 
+            "text": "", 
+            "title": "\u30c8\u30e9\u30d6\u30eb\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0"
+        }, 
+        {
+            "location": "/db/mysql/#_2", 
+            "text": "show status like  %connect% ;", 
+            "title": "\u73fe\u5728\u306e\u63a5\u7d9a\u6570"
+        }, 
+        {
+            "location": "/db/mysql/#_3", 
+            "text": "show global variables like  max_connections ;", 
+            "title": "\u6700\u5927\u63a5\u7d9a\u6570\u3092\u78ba\u8a8d"
+        }, 
+        {
+            "location": "/db/mysql/#_4", 
+            "text": "show global status like  Max_used_connections ;", 
+            "title": "\u8d77\u52d5\u5f8c\u304b\u3089\u306e\u6700\u5927\u63a5\u7d9a\u6570"
+        }, 
+        {
+            "location": "/db/mysql/#_5", 
+            "text": "flush status", 
+            "title": "\u30b9\u30c6\u30fc\u30bf\u30b9\u30ea\u30bb\u30c3\u30c8"
+        }, 
+        {
+            "location": "/db/mysql/#_6", 
+            "text": "", 
+            "title": "\u904b\u7528"
+        }, 
+        {
+            "location": "/db/mysql/#_7", 
+            "text": "mysql -u root -p -h HOSTNAME DBNAME -e show tables;", 
+            "title": "\u63a5\u7d9a"
+        }, 
+        {
+            "location": "/db/mysql/#_8", 
+            "text": "select version();", 
+            "title": "\u30d0\u30fc\u30b8\u30e7\u30f3\u78ba\u8a8d"
+        }, 
+        {
+            "location": "/db/mysql/#db", 
+            "text": "select database();", 
+            "title": "\u73fe\u5728\u63a5\u7d9a\u3057\u3066\u3044\u308bDB"
+        }, 
+        {
+            "location": "/db/mysql/#_9", 
+            "text": "select current_user();", 
+            "title": "\u73fe\u5728\u4f7f\u7528\u3057\u3066\u3044\u308b\u30e6\u30fc\u30b6"
+        }, 
+        {
+            "location": "/db/mysql/#_10", 
+            "text": "show databases;\nshow tables;\nshow processlist;\nshow status;\nshow global status;\nshow variables;\nshow global variables;\nshow table status;\nshow index from TABLENAME;", 
+            "title": "\u4e00\u89a7"
+        }, 
+        {
+            "location": "/db/mysql/#_11", 
+            "text": "select user,host from mysql.user;\nshow grants for  USER @ HOST \nrename user  OLDUSER @ HOST  to  NEWUSER @ LOCLAHOST ;\nrevoke all privileges, grant option from USER\nflush privileges;", 
+            "title": "\u6a29\u9650\u7b49"
+        }, 
+        {
+            "location": "/db/mysql/#_12", 
+            "text": "SET GLOBAL query_cache_size=0;\nSET GLOBAL query_cache_type=0;\nSHOW GLOBAL VARIABLES LIKE  %query_cache% ;\n\n# see https://qiita.com/mamy1326/items/d1548d8cf4528277172a", 
+            "title": "\u30af\u30a8\u30ea\u30ad\u30e3\u30c3\u30b7\u30e5\u3092\u7121\u52b9\u306b\u3059\u308b"
+        }, 
+        {
+            "location": "/db/mysql/#_13", 
+            "text": "mysql -u root -N -e  select concat( SHOW GRANTS FOR ` ,user,  `@` ,host,  `; ) from mysql.user order by user,host;    user.sql\nmysql -u root -N   user.sql\n\n# see https://qiita.com/raki/items/cfd015ac50806bbac40a", 
+            "title": "\u30e6\u30fc\u30b6\u4e00\u89a7\u304b\u3089\u30e6\u30fc\u30b6\u6a29\u9650\u3092\u78ba\u8a8d"
+        }, 
+        {
+            "location": "/db/mysql/#_14", 
+            "text": "[client]\n# user dev\n# password=\n\n# user prod\n# password=\n\n[mysql]\n# rehash( auto completion )\nauto-rehash\n\n# User,Host,Database\nprompt=\\\\u@\\\\h:\\\\d \\\\_\n\n# if you want disable this option: SET SQL_SAFE_UPDATES=0;\nsafe-updates", 
+            "title": "\u30ed\u30fc\u30ab\u30eb\u8a2d\u5b9a\u30d5\u30a1\u30a4\u30eb"
+        }, 
+        {
+            "location": "/db/mysql/#_15", 
+            "text": "# \u30c6\u30fc\u30d6\u30eb\u30c7\u30fc\u30bf\u306e\u4ef6\u6570\u4e00\u89a7(InnoDB\u3067\u306f\u5373\u6642\u6027\u3082\u6b63\u78ba\u6027\u3082\u602a\u3057\u3044\u306e\u3067\u6ce8\u610f)\nselect table_name, table_rows from information_schema.TABLES where table_schema =  DB\u540d ;\n\n# slave \u505c\u6b62\uff08Slave_SQL_Running: No\uff09\nSET GLOBAL SQL_SLAVE_SKIP_COUNTER = 1;\nSTART SLAVE;", 
+            "title": "\u30e1\u30e2"
+        }, 
+        {
+            "location": "/infra/docker/", 
+            "text": "docker\nLink\n\n\n\n\nDocker Hub\n\n\nDocker \u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u65e5\u672c\u8a9e\u5316\u30d7\u30ed\u30b8\u30a7\u30af\u30c8 ? Docker-docs-ja 1.13.RC \u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\n\n\n\n\nexamples\nLink\n\n\n# \u52d5\u3044\u3066\u3044\u306a\u3044\u30b3\u30f3\u30c6\u30ca\u3092\u524a\u9664\ndocker ps -aq -f status=exited -f status=dead | xargs docker rm\n\n# \u53e4\u3044\u30b3\u30f3\u30c6\u30ca\u3092\u524a\u9664\ndocker ps -a | grep \nweeks ago\n | awk \n{print $1}\n | xargs docker rm\n\n# \u30bf\u30b0\u306e\u3064\u3044\u3066\u3044\u306a\u3044\u30a4\u30e1\u30fc\u30b8\u3092\u524a\u9664\ndocker images -f \ndangling=true\n -q | xargs docker rmi\n\n\n\n\nalias\nLink\n\n\n# alpine+nginx\nalias alpinx=\ndocker run -it --rm --name alpinx -v `pwd`:/usr/share/nginx/html:ro -v /etc/localtime:/etc/localtime:ro -d -p 8080:80 nginx:alpine\n\n\n# php:apache\nalias phpache=\ndocker run -it --rm -v `pwd`:/var/www/html/ -p 8082:80 --name phpache php:apache\n\n\n# tflint\nalias tflint=\ndocker run --rm -v $(pwd):/data -t wata727/tflint\n\n\n# GitBook\nalias gitbook=\ndocker run --rm -v \n$PWD\n:/gitbook -v /usr/share/fonts:/usr/share/fonts -p 4000:4000 --name gitbook officel/docker-gitbook-calibre gitbook\n\n\n# terraforming\nalias terraforming=\ndocker run --rm --name terraforming -e AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID -e AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY -e AWS_REGION=$AWS_DEFAULT_REGION quay.io/dtan4/terraforming:latest terraforming\n\n\n# node:alpine\uff08\u304a\u904a\u3073\u3067node\u3092\u4f7f\u3046\u305f\u3081\u306b\u516c\u5f0f\u306e\u8efd\u3044\u3084\u3064\u3092\u4f7f\u3046\uff09\n# workdir \u304c\u8a2d\u5b9a\u3055\u308c\u3066\u3044\u306a\u3044\u306e\u3067 -w \u3067\u9069\u5f53\u306a\u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u3068 -v \u306e\u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u3092\u3042\u308f\u305b\u306a\u3044\u3068\u66f8\u304d\u51fa\u3057\u304c\u3067\u304d\u306a\u3044\nalias node=\ndocker run -it --rm -v `pwd`:/app -w /app node:alpine\n\n\n\n\n\nAmazon Linux 2\nLink\n\n\n\n\nlibrary/amazonlinux - Docker Hub\n\n\n\n\ndocker pull amazonlinux:2\n\n\n# \u304a\u8a66\u3057(command \u304c /bin/bash \u306a\u306e\u3067\u4f55\u3082\u3064\u3051\u306a\u3044\u3068\u666e\u901a\u306b\u5165\u308c\u308b)\n\n\ndocker run --rm -it  amazonlinux:2\namazon-linux-extras\n\nexit\n\n\n\n# \u30b3\u30f3\u30c6\u30ca\u3092\u5b9f\u884c\u3057\u3063\u3071\u306a\u3057\u306b\u3059\u308b\n\n\ndocker run --rm -it -d --name al2-base  amazonlinux:2\n\n\n# Inventory \u3092\u7528\u610f\u3059\u308b\n\n\n$ cat inventory/docker\n\n[\ndocker_host\n]\n\nlocalhost\n\n\n[\ncontainer\n]\n\nal2-base \nansible_user\n=\nroot\n\n\n# ansible \u3067\u30d7\u30ed\u30d3\u30b8\u30e7\u30cb\u30f3\u30b0\u3059\u308b\n\n\nansible-playbook -i inventory/docker playbooks_packer/base.yml -c docker -l al2-base\n\n\n\n\ncomposer\nLink\n\n\n\n\nhttps://hub.docker.com/_/composer/\n\n\n\n\ncomposer () {\n    tty=\n    tty -s \n tty=--tty\n    docker run \\\n        $tty \\\n        --interactive \\\n        --rm \\\n        --user $(id -u):$(id -g) \\\n        --volume /etc/passwd:/etc/passwd:ro \\\n        --volume /etc/group:/etc/group:ro \\\n        --volume $(pwd):/app \\\n        composer \n$@\n\n}\n\n\n\n\n\u3093\u30fc\u3001\u3001\u3001alias \u306b\u3057\u3066\u3082\u3044\u3044\u6c17\u304c\u3059\u308b\u3002\u3002\u3002\uff1f", 
+            "title": "docker"
+        }, 
+        {
+            "location": "/infra/docker/#docker", 
+            "text": "Docker Hub  Docker \u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u65e5\u672c\u8a9e\u5316\u30d7\u30ed\u30b8\u30a7\u30af\u30c8 ? Docker-docs-ja 1.13.RC \u30c9\u30ad\u30e5\u30e1\u30f3\u30c8", 
+            "title": "docker"
+        }, 
+        {
+            "location": "/infra/docker/#examples", 
+            "text": "# \u52d5\u3044\u3066\u3044\u306a\u3044\u30b3\u30f3\u30c6\u30ca\u3092\u524a\u9664\ndocker ps -aq -f status=exited -f status=dead | xargs docker rm\n\n# \u53e4\u3044\u30b3\u30f3\u30c6\u30ca\u3092\u524a\u9664\ndocker ps -a | grep  weeks ago  | awk  {print $1}  | xargs docker rm\n\n# \u30bf\u30b0\u306e\u3064\u3044\u3066\u3044\u306a\u3044\u30a4\u30e1\u30fc\u30b8\u3092\u524a\u9664\ndocker images -f  dangling=true  -q | xargs docker rmi", 
+            "title": "examples"
+        }, 
+        {
+            "location": "/infra/docker/#alias", 
+            "text": "# alpine+nginx\nalias alpinx= docker run -it --rm --name alpinx -v `pwd`:/usr/share/nginx/html:ro -v /etc/localtime:/etc/localtime:ro -d -p 8080:80 nginx:alpine \n\n# php:apache\nalias phpache= docker run -it --rm -v `pwd`:/var/www/html/ -p 8082:80 --name phpache php:apache \n\n# tflint\nalias tflint= docker run --rm -v $(pwd):/data -t wata727/tflint \n\n# GitBook\nalias gitbook= docker run --rm -v  $PWD :/gitbook -v /usr/share/fonts:/usr/share/fonts -p 4000:4000 --name gitbook officel/docker-gitbook-calibre gitbook \n\n# terraforming\nalias terraforming= docker run --rm --name terraforming -e AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID -e AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY -e AWS_REGION=$AWS_DEFAULT_REGION quay.io/dtan4/terraforming:latest terraforming \n\n# node:alpine\uff08\u304a\u904a\u3073\u3067node\u3092\u4f7f\u3046\u305f\u3081\u306b\u516c\u5f0f\u306e\u8efd\u3044\u3084\u3064\u3092\u4f7f\u3046\uff09\n# workdir \u304c\u8a2d\u5b9a\u3055\u308c\u3066\u3044\u306a\u3044\u306e\u3067 -w \u3067\u9069\u5f53\u306a\u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u3068 -v \u306e\u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u3092\u3042\u308f\u305b\u306a\u3044\u3068\u66f8\u304d\u51fa\u3057\u304c\u3067\u304d\u306a\u3044\nalias node= docker run -it --rm -v `pwd`:/app -w /app node:alpine", 
+            "title": "alias"
+        }, 
+        {
+            "location": "/infra/docker/#amazon-linux-2", 
+            "text": "library/amazonlinux - Docker Hub   docker pull amazonlinux:2 # \u304a\u8a66\u3057(command \u304c /bin/bash \u306a\u306e\u3067\u4f55\u3082\u3064\u3051\u306a\u3044\u3068\u666e\u901a\u306b\u5165\u308c\u308b) \n\ndocker run --rm -it  amazonlinux:2\namazon-linux-extras exit  # \u30b3\u30f3\u30c6\u30ca\u3092\u5b9f\u884c\u3057\u3063\u3071\u306a\u3057\u306b\u3059\u308b \n\ndocker run --rm -it -d --name al2-base  amazonlinux:2 # Inventory \u3092\u7528\u610f\u3059\u308b \n\n$ cat inventory/docker [ docker_host ] \nlocalhost [ container ] \nal2-base  ansible_user = root # ansible \u3067\u30d7\u30ed\u30d3\u30b8\u30e7\u30cb\u30f3\u30b0\u3059\u308b \n\nansible-playbook -i inventory/docker playbooks_packer/base.yml -c docker -l al2-base", 
+            "title": "Amazon Linux 2"
+        }, 
+        {
+            "location": "/infra/docker/#composer", 
+            "text": "https://hub.docker.com/_/composer/   composer () {\n    tty=\n    tty -s   tty=--tty\n    docker run \\\n        $tty \\\n        --interactive \\\n        --rm \\\n        --user $(id -u):$(id -g) \\\n        --volume /etc/passwd:/etc/passwd:ro \\\n        --volume /etc/group:/etc/group:ro \\\n        --volume $(pwd):/app \\\n        composer  $@ \n}  \u3093\u30fc\u3001\u3001\u3001alias \u306b\u3057\u3066\u3082\u3044\u3044\u6c17\u304c\u3059\u308b\u3002\u3002\u3002\uff1f", 
+            "title": "composer"
+        }, 
+        {
+            "location": "/infra/gcloud/", 
+            "text": "gcloud\nLink\n\n\nGLOBAL FLAGS:\nLink\n\n\n--account= --configuration= --flatten= --project=\n--format= config, csv, json, yaml, ...\n--help\n\n\ncheck\nLink\n\n\ngcloud components list\ngcloud projects list\ngcloud config list\n\n\n\n\ngcloud config configurations activate CONFIGURATION_NAME\nLink\n\n\nalias gchange=\ngcloud config configurations activate\n\n\n\n\n\ncompute\nLink\n\n\ngcloud compute instances list --format json --filter=\nstatus=\nRUNNING\n  | jq -r \n.[].name\n | sort", 
+            "title": "gcloud"
+        }, 
+        {
+            "location": "/infra/gcloud/#gcloud", 
+            "text": "", 
+            "title": "gcloud"
+        }, 
+        {
+            "location": "/infra/gcloud/#global-flags", 
+            "text": "--account= --configuration= --flatten= --project=\n--format= config, csv, json, yaml, ...\n--help", 
+            "title": "GLOBAL FLAGS:"
+        }, 
+        {
+            "location": "/infra/gcloud/#check", 
+            "text": "gcloud components list\ngcloud projects list\ngcloud config list", 
+            "title": "check"
+        }, 
+        {
+            "location": "/infra/gcloud/#gcloud-config-configurations-activate-configuration_name", 
+            "text": "alias gchange= gcloud config configurations activate", 
+            "title": "gcloud config configurations activate CONFIGURATION_NAME"
+        }, 
+        {
+            "location": "/infra/gcloud/#compute", 
+            "text": "gcloud compute instances list --format json --filter= status= RUNNING   | jq -r  .[].name  | sort", 
+            "title": "compute"
+        }, 
+        {
+            "location": "/infra/stress/", 
+            "text": "stress\nLink\n\n\n\n\nstress project page\n\n\nyum install stress --enablerepo=epel\n\n\n\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0\u306e\u30a2\u30e9\u30fc\u30c8\u767a\u5831\u7528\u306b\n\n\n\n\nex\nLink\n\n\n# CPU\u306b\u8ca0\u8377\u3092\u304b\u3051\u308b\uff08\u8ad6\u7406\u30d7\u30ed\u30bb\u30c3\u30b5\u30fc10\u500b\u3001\u30bf\u30a4\u30e0\u30a2\u30a6\u30c811\u5206\uff09\nstress -c 10 -q -t 660 \n\n\n# Memory\uff08256M x 10 = \u7d042.5G\u3001\u30e1\u30e2\u30ea\u3092\u958b\u653e\u3057\u306a\u3044\u3001\u30bf\u30a4\u30e0\u30a2\u30a6\u30c811\u5206\uff09\nstress -m 10 --vm-hang 0 -q -t 660 \n\n\n# hdd\uff08\u30c7\u30a3\u30b9\u30af\u66f8\u304d\u8fbc\u307f\u3068\u524a\u9664\u3092\u3059\u308b\u3001\u3051\u3069\u6b63\u76f4\u3088\u304f\u308f\u304b\u3089\u306a\u3044\uff09\nstress -d 1 -v\n\n\n\n\n\u203b \u30bf\u30a4\u30e0\u30a2\u30a6\u30c8\u309211\u5206\u306b\u3057\u3066\u3044\u308b\u306e\u306f\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0\u3067\u30a2\u30e9\u30fc\u30c8\u3092\u691c\u77e5\u3059\u308b\u306e\u306b\u304b\u304b\u308b\u6642\u9593\uff0b\u30a2\u30eb\u30d5\u30a1\n\n\nCPU\u306e\u30e1\u30e2\nLink\n\n\n# \u7269\u7406 CPU \u306e\u6570\ngrep physical.id /proc/cpuinfo | sort -u | wc -l\n\n# CPU \u3054\u3068\u306e\u30b3\u30a2\u306e\u6570\ngrep cpu.cores /proc/cpuinfo | sort -u\n\n# \u8ad6\u7406\u30d7\u30ed\u30bb\u30c3\u30b5\u30fc\u306e\u6570\ngrep processor /proc/cpuinfo | wc -l\n\n\n\n\nMemory \u306e\u30e1\u30e2\nLink\n\n\ncat /proc/meminfo\nfree", 
+            "title": "stress"
+        }, 
+        {
+            "location": "/infra/stress/#stress", 
+            "text": "stress project page  yum install stress --enablerepo=epel  \u30e2\u30cb\u30bf\u30ea\u30f3\u30b0\u306e\u30a2\u30e9\u30fc\u30c8\u767a\u5831\u7528\u306b", 
+            "title": "stress"
+        }, 
+        {
+            "location": "/infra/stress/#ex", 
+            "text": "# CPU\u306b\u8ca0\u8377\u3092\u304b\u3051\u308b\uff08\u8ad6\u7406\u30d7\u30ed\u30bb\u30c3\u30b5\u30fc10\u500b\u3001\u30bf\u30a4\u30e0\u30a2\u30a6\u30c811\u5206\uff09\nstress -c 10 -q -t 660  \n\n# Memory\uff08256M x 10 = \u7d042.5G\u3001\u30e1\u30e2\u30ea\u3092\u958b\u653e\u3057\u306a\u3044\u3001\u30bf\u30a4\u30e0\u30a2\u30a6\u30c811\u5206\uff09\nstress -m 10 --vm-hang 0 -q -t 660  \n\n# hdd\uff08\u30c7\u30a3\u30b9\u30af\u66f8\u304d\u8fbc\u307f\u3068\u524a\u9664\u3092\u3059\u308b\u3001\u3051\u3069\u6b63\u76f4\u3088\u304f\u308f\u304b\u3089\u306a\u3044\uff09\nstress -d 1 -v  \u203b \u30bf\u30a4\u30e0\u30a2\u30a6\u30c8\u309211\u5206\u306b\u3057\u3066\u3044\u308b\u306e\u306f\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0\u3067\u30a2\u30e9\u30fc\u30c8\u3092\u691c\u77e5\u3059\u308b\u306e\u306b\u304b\u304b\u308b\u6642\u9593\uff0b\u30a2\u30eb\u30d5\u30a1", 
+            "title": "ex"
+        }, 
+        {
+            "location": "/infra/stress/#cpu", 
+            "text": "# \u7269\u7406 CPU \u306e\u6570\ngrep physical.id /proc/cpuinfo | sort -u | wc -l\n\n# CPU \u3054\u3068\u306e\u30b3\u30a2\u306e\u6570\ngrep cpu.cores /proc/cpuinfo | sort -u\n\n# \u8ad6\u7406\u30d7\u30ed\u30bb\u30c3\u30b5\u30fc\u306e\u6570\ngrep processor /proc/cpuinfo | wc -l", 
+            "title": "CPU\u306e\u30e1\u30e2"
+        }, 
+        {
+            "location": "/infra/stress/#memory", 
+            "text": "cat /proc/meminfo\nfree", 
+            "title": "Memory \u306e\u30e1\u30e2"
+        }, 
+        {
+            "location": "/infra/tuning/", 
+            "text": "Tuning\nLink\n\n\n\u30b5\u30fc\u30d0\u8a2d\u5b9a\u306a\u3069\u3002\u307b\u3068\u3093\u3069 CentOS6 \u5411\u3051\n\n\nRPS / RFS\nLink\n\n\ncat /sys/class/net/eth0/queues/rx-0/rps_flow_cnt\ncat /proc/sys/net/core/rps_sock_flow_entries\ncat /sys/class/net/eth0/queues/tx-0/xps_cpus\ncat /sys/class/net/eth0/queues/rx-0/rps_cpus\n\n\n\n\n\u30d5\u30a1\u30a4\u30eb\u30cf\u30f3\u30c9\u30eb\nLink\n\n\nulimit -u\n# -a \u306e open files \u304c\uff11\u30d7\u30ed\u30bb\u30b9\u306e\u30c7\u30a3\u30b9\u30af\u30ea\u30d7\u30bf\u6570\n# -n \u304c\u30d5\u30a1\u30a4\u30eb\u30c7\u30a3\u30b9\u30af\u30ea\u30d7\u30bf\u306e\u5024\n\n# /etc/sysconfig/init\nulimit -n 65536\n\ncat /proc/sys/fs/file-nr\n# \u904e\u53bb\u306b\u30aa\u30fc\u30d7\u30f3\u3057\u305f\u6700\u5927\u5024\uff08\u5272\u308a\u5f53\u3066\u6e08\u307f\u30d5\u30a1\u30a4\u30eb\u30cf\u30f3\u30c9\u30eb\u6570\uff09\n# \u73fe\u5728\u30aa\u30fc\u30d7\u30f3\u3057\u3066\u3044\u308b\u30d5\u30a1\u30a4\u30eb\u30cf\u30f3\u30c9\u30eb\u6570\n# \u30aa\u30fc\u30d7\u30f3\u53ef\u80fd\u306a\u30d5\u30a1\u30a4\u30eb\u6570\u306e\u6700\u5927\uff08file-max \u306e\u5024\u306e\u306f\u305a\uff09\n\n\n\n\nsocket,backlog, etc...\nLink\n\n\nsysctl net.core.somaxconn\n\n\n\n\nmemory\nLink\n\n\nsysctl vm.overcommit_memory\nsysctl vm.panic_on_oom\nsysctl kernel.panic\n\n\n\n\n\u30e1\u30e2\u30ea\u65ad\u7247\u5316\u30c1\u30a7\u30c3\u30af\nLink\n\n\n# DMA32\u306e\u884c\u306e\u5de6\u304c\u5927\u304d\u304f\u53f3\u304c\u5c0f\u3055\u3044\u3068\u65ad\u7247\u5316\u3057\u3066\u3044\u308b\ncat /proc/buddyinfo\n\n\n\n\nNetwork\nLink\n\n\nsysctl net.ipv4.tcp_fin_timeout\nsysctl net.ipv4.tcp_tw_recycle\nsysctl net.ipv4.tcp_tw_reuse\nsysctl net.ipv4.ip_local_port_range\nsysctl net.ipv4.tcp_keepalive_intvl\nsysctl net.ipv4.tcp_keepalive_probes\nsysctl net.ipv4.tcp_keepalive_time\n\n\n\n\n\n\nnet.ipv4.tcp_tw_recycle \u306f\u5ec3\u6b62\u3055\u308c\u307e\u3057\u305f \u2015 \u305d\u306e\u5371\u967a\u6027\u3092\u7406\u89e3\u3059\u308b - Qiita\n\n\n\n\n* Linux \u306e\u30ab\u30fc\u30cd\u30eb\u30d0\u30fc\u30b8\u30e7\u30f3 v4.12 \u304b\u3089\u5ec3\u6b62\n\n\nkipmi() \u5bfe\u7b56\nLink\n\n\n# \u52d5\u7684\necho 100 \n /sys/module/ipmi_si/parameters/kipmid_max_busy_us\n\n# \u6c38\u7d9a\u5316\nvi /etc/modprobe.d/ipmi.conf\noptions ipmi_si kipmid_max_busy_us=100", 
+            "title": "Tuning"
+        }, 
+        {
+            "location": "/infra/tuning/#tuning", 
+            "text": "\u30b5\u30fc\u30d0\u8a2d\u5b9a\u306a\u3069\u3002\u307b\u3068\u3093\u3069 CentOS6 \u5411\u3051", 
+            "title": "Tuning"
+        }, 
+        {
+            "location": "/infra/tuning/#rps-rfs", 
+            "text": "cat /sys/class/net/eth0/queues/rx-0/rps_flow_cnt\ncat /proc/sys/net/core/rps_sock_flow_entries\ncat /sys/class/net/eth0/queues/tx-0/xps_cpus\ncat /sys/class/net/eth0/queues/rx-0/rps_cpus", 
+            "title": "RPS / RFS"
+        }, 
+        {
+            "location": "/infra/tuning/#_1", 
+            "text": "ulimit -u\n# -a \u306e open files \u304c\uff11\u30d7\u30ed\u30bb\u30b9\u306e\u30c7\u30a3\u30b9\u30af\u30ea\u30d7\u30bf\u6570\n# -n \u304c\u30d5\u30a1\u30a4\u30eb\u30c7\u30a3\u30b9\u30af\u30ea\u30d7\u30bf\u306e\u5024\n\n# /etc/sysconfig/init\nulimit -n 65536\n\ncat /proc/sys/fs/file-nr\n# \u904e\u53bb\u306b\u30aa\u30fc\u30d7\u30f3\u3057\u305f\u6700\u5927\u5024\uff08\u5272\u308a\u5f53\u3066\u6e08\u307f\u30d5\u30a1\u30a4\u30eb\u30cf\u30f3\u30c9\u30eb\u6570\uff09\n# \u73fe\u5728\u30aa\u30fc\u30d7\u30f3\u3057\u3066\u3044\u308b\u30d5\u30a1\u30a4\u30eb\u30cf\u30f3\u30c9\u30eb\u6570\n# \u30aa\u30fc\u30d7\u30f3\u53ef\u80fd\u306a\u30d5\u30a1\u30a4\u30eb\u6570\u306e\u6700\u5927\uff08file-max \u306e\u5024\u306e\u306f\u305a\uff09", 
+            "title": "\u30d5\u30a1\u30a4\u30eb\u30cf\u30f3\u30c9\u30eb"
+        }, 
+        {
+            "location": "/infra/tuning/#socketbacklog-etc", 
+            "text": "sysctl net.core.somaxconn", 
+            "title": "socket,backlog, etc..."
+        }, 
+        {
+            "location": "/infra/tuning/#memory", 
+            "text": "sysctl vm.overcommit_memory\nsysctl vm.panic_on_oom\nsysctl kernel.panic", 
+            "title": "memory"
+        }, 
+        {
+            "location": "/infra/tuning/#_2", 
+            "text": "# DMA32\u306e\u884c\u306e\u5de6\u304c\u5927\u304d\u304f\u53f3\u304c\u5c0f\u3055\u3044\u3068\u65ad\u7247\u5316\u3057\u3066\u3044\u308b\ncat /proc/buddyinfo", 
+            "title": "\u30e1\u30e2\u30ea\u65ad\u7247\u5316\u30c1\u30a7\u30c3\u30af"
+        }, 
+        {
+            "location": "/infra/tuning/#network", 
+            "text": "sysctl net.ipv4.tcp_fin_timeout\nsysctl net.ipv4.tcp_tw_recycle\nsysctl net.ipv4.tcp_tw_reuse\nsysctl net.ipv4.ip_local_port_range\nsysctl net.ipv4.tcp_keepalive_intvl\nsysctl net.ipv4.tcp_keepalive_probes\nsysctl net.ipv4.tcp_keepalive_time   net.ipv4.tcp_tw_recycle \u306f\u5ec3\u6b62\u3055\u308c\u307e\u3057\u305f \u2015 \u305d\u306e\u5371\u967a\u6027\u3092\u7406\u89e3\u3059\u308b - Qiita   * Linux \u306e\u30ab\u30fc\u30cd\u30eb\u30d0\u30fc\u30b8\u30e7\u30f3 v4.12 \u304b\u3089\u5ec3\u6b62", 
+            "title": "Network"
+        }, 
+        {
+            "location": "/infra/tuning/#kipmi", 
+            "text": "# \u52d5\u7684\necho 100   /sys/module/ipmi_si/parameters/kipmid_max_busy_us\n\n# \u6c38\u7d9a\u5316\nvi /etc/modprobe.d/ipmi.conf\noptions ipmi_si kipmid_max_busy_us=100", 
+            "title": "kipmi() \u5bfe\u7b56"
+        }, 
+        {
+            "location": "/infra/wercker/", 
+            "text": "Wercker\nLink\n\n\n\n\nWercker Home\n\n\n\u7121\u6599\u3067\u30d7\u30e9\u30a4\u30d9\u30fc\u30c8\u30ea\u30dd\u30b8\u30c8\u30ea\u304c\u5229\u7528\u3067\u304d\u308bCI\u30b5\u30fc\u30d3\u30b9\n\n\nwercker.yml\n\n\n\u540c\u7a2e\u306e\u30b5\u30fc\u30d3\u30b9\u3068\u6bd4\u8f03\u3057\u3066\u3001\u7121\u6599\u306e\u30d7\u30e9\u30a4\u30d9\u30fc\u30c8\u30ea\u30dd\u30b8\u30c8\u30ea\u4ee5\u5916\u306f\u7279\u7b46\u3057\u3066\u3088\u304f\u3082\u60aa\u304f\u3082\u306a\u3044", 
+            "title": "Wercker"
+        }, 
+        {
+            "location": "/infra/wercker/#wercker", 
+            "text": "Wercker Home  \u7121\u6599\u3067\u30d7\u30e9\u30a4\u30d9\u30fc\u30c8\u30ea\u30dd\u30b8\u30c8\u30ea\u304c\u5229\u7528\u3067\u304d\u308bCI\u30b5\u30fc\u30d3\u30b9  wercker.yml  \u540c\u7a2e\u306e\u30b5\u30fc\u30d3\u30b9\u3068\u6bd4\u8f03\u3057\u3066\u3001\u7121\u6599\u306e\u30d7\u30e9\u30a4\u30d9\u30fc\u30c8\u30ea\u30dd\u30b8\u30c8\u30ea\u4ee5\u5916\u306f\u7279\u7b46\u3057\u3066\u3088\u304f\u3082\u60aa\u304f\u3082\u306a\u3044", 
+            "title": "Wercker"
+        }, 
+        {
+            "location": "/infra/ansible/README/", 
+            "text": "Ansible\nLink\n\n\n\n\nAnsible is Simple IT Automation\n\n\n\u69cb\u6210\u7ba1\u7406\u30c4\u30fc\u30eb\n\n\n\u30bf\u30a4\u30c8\u30eb\u306e\u3068\u304a\u308a\u81ea\u52d5\u5316\u30c4\u30fc\u30eb\n\n\n\u5bfe\u8c61\u306e\u6a5f\u5668\u306e\u72b6\u614b\u3092\u3001\u8a2d\u5b9a\u3057\u305f\u5024\u306b\u306a\u308b\u3088\u3046\u306b\u3001\u624b\u9806\u3092\u81ea\u52d5\u5316\u3059\u308b\u30c4\u30fc\u30eb\n\n\n\u4ee5\u524d\u4f5c\u3063\u305f galaxy roles\n\n\n\n\ninstall\nLink\n\n\n\n\nInstallation \u2014 Ansible Documentation\n\n\n\u30d1\u30c3\u30b1\u30fc\u30b8\u30de\u30cd\u30fc\u30b8\u30e3\u3067\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3059\u308b\u306e\u304c\u697d\u3067\u3088\u3044\n\n\nAmazon Linux2 \u3067\u306f extras \u304c\u4f7f\u3048\u308b\n\n\n\n\nplaybooks\nLink\n\n\n\n\nansible-playbook playbooks/xx.yml\n\n\n\u81ea\u5206\u7528\u306e\u30ed\u30fc\u30ab\u30eb\u74b0\u5883(CentOS6/7 on VirtualBox on Vagrant)\u5411\u3051", 
+            "title": "Ansible"
+        }, 
+        {
+            "location": "/infra/ansible/README/#ansible", 
+            "text": "Ansible is Simple IT Automation  \u69cb\u6210\u7ba1\u7406\u30c4\u30fc\u30eb  \u30bf\u30a4\u30c8\u30eb\u306e\u3068\u304a\u308a\u81ea\u52d5\u5316\u30c4\u30fc\u30eb  \u5bfe\u8c61\u306e\u6a5f\u5668\u306e\u72b6\u614b\u3092\u3001\u8a2d\u5b9a\u3057\u305f\u5024\u306b\u306a\u308b\u3088\u3046\u306b\u3001\u624b\u9806\u3092\u81ea\u52d5\u5316\u3059\u308b\u30c4\u30fc\u30eb  \u4ee5\u524d\u4f5c\u3063\u305f galaxy roles", 
+            "title": "Ansible"
+        }, 
+        {
+            "location": "/infra/ansible/README/#install", 
+            "text": "Installation \u2014 Ansible Documentation  \u30d1\u30c3\u30b1\u30fc\u30b8\u30de\u30cd\u30fc\u30b8\u30e3\u3067\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3059\u308b\u306e\u304c\u697d\u3067\u3088\u3044  Amazon Linux2 \u3067\u306f extras \u304c\u4f7f\u3048\u308b", 
+            "title": "install"
+        }, 
+        {
+            "location": "/infra/ansible/README/#playbooks", 
+            "text": "ansible-playbook playbooks/xx.yml  \u81ea\u5206\u7528\u306e\u30ed\u30fc\u30ab\u30eb\u74b0\u5883(CentOS6/7 on VirtualBox on Vagrant)\u5411\u3051", 
+            "title": "playbooks"
+        }, 
+        {
+            "location": "/infra/packer/README/", 
+            "text": "Packer\nLink\n\n\n\n\nPacker by HashiCorp\n\n\nDocumentation - Packer by HashiCorp\n\n\n\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u3092\u3088\u304f\u8aad\u3080\n\n\n\u9069\u5f53\u306a\u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u306b\u5c55\u958b\u3057\u3066\u3001\u30b7\u30f3\u30dc\u30ea\u30c3\u30af\u30ea\u30f3\u30af\u3067\u30d0\u30fc\u30b8\u30e7\u30f3\u5207\u308a\u66ff\u3048\u3092\u3059\u308b\u3068\u697d\u306a\u306e\u306f terraform \u3068\u540c\u3058\n\n\n\n\nCommand\nLink\n\n\npacker build packer.json\n\n# variables \u3092\u5916\u90e8\u30d5\u30a1\u30a4\u30eb\u3067\u6e21\u3059\u3002\u57fa\u672c\u7684\u306b\u5168\u3066\u3053\u306e\u5f62\u306b\u843d\u3068\u3059\u3068\u7ba1\u7406\u304c\u697d\npacker build -var-file=variables.json packer.json\n\n\n\n\nBase Template\nLink\n\n\n{\n  \n_comment\n: \n\u30b3\u30e1\u30f3\u30c8\u306froot\u968e\u5c64\u306b\u4e00\u56de\u3057\u304b\u66f8\u3051\u306a\u3044\u307f\u305f\u3044\n,\n  \ndescription\n: \n\u3067\u304d\u308b\u3060\u3051\u66f8\u304d\u307e\u3057\u3087\u3046\n,\n  \nvariables\n: {\n    // \u5916\u90e8\u304b\u3089\u5909\u66f4\u53ef\u80fd\u306a\u5909\u6570\n  },\n\n  \nbuilders\n: [\n    {\n    // \u8907\u6570\u306e\u30d3\u30eb\u30c0\u30fc\u3092\u66f8\u304f\u3053\u3068\u3082\u3067\u304d\u308b\u307f\u305f\u3044\u3060\u3051\u3069\u3001\uff11\u30d5\u30a1\u30a4\u30eb\uff11\u7d44\u307f\u7acb\u3066\u306e\u307b\u3046\u304c\u308f\u304b\u308a\u3084\u3059\u3044\u6c17\u304c\u3059\u308b\n    // \u3061\u306a\u307f\u306b\u30d5\u30a1\u30a4\u30eb\u306fjson\u306a\u306e\u3067\u3001\u30b3\u30e1\u30f3\u30c8\u306f_comment\u3057\u304b\u66f8\u3051\u306a\u3044\u3057\u3001validate\u3055\u308c\u308b\u306e\u3067\u9069\u5f53\u306a\u540d\u524d\u306e\u30ad\u30fc\u306f\u53d7\u3051\u4ed8\u3051\u306a\u3044\n    }\n  ],\n\n  \nprovisioners\n: [\n    {\n      \ntype\n: \nshell\n,\n      \nscript\n: \nsetup_things.sh\n\n    },\n    {\n      \ntype\n: \nansible\n,\n      \nplaybook_file\n: \n./playbook.yml\n\n    }\n  ]\n}", 
+            "title": "Packer"
+        }, 
+        {
+            "location": "/infra/packer/README/#packer", 
+            "text": "Packer by HashiCorp  Documentation - Packer by HashiCorp  \u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u3092\u3088\u304f\u8aad\u3080  \u9069\u5f53\u306a\u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u306b\u5c55\u958b\u3057\u3066\u3001\u30b7\u30f3\u30dc\u30ea\u30c3\u30af\u30ea\u30f3\u30af\u3067\u30d0\u30fc\u30b8\u30e7\u30f3\u5207\u308a\u66ff\u3048\u3092\u3059\u308b\u3068\u697d\u306a\u306e\u306f terraform \u3068\u540c\u3058", 
+            "title": "Packer"
+        }, 
+        {
+            "location": "/infra/packer/README/#command", 
+            "text": "packer build packer.json\n\n# variables \u3092\u5916\u90e8\u30d5\u30a1\u30a4\u30eb\u3067\u6e21\u3059\u3002\u57fa\u672c\u7684\u306b\u5168\u3066\u3053\u306e\u5f62\u306b\u843d\u3068\u3059\u3068\u7ba1\u7406\u304c\u697d\npacker build -var-file=variables.json packer.json", 
+            "title": "Command"
+        }, 
+        {
+            "location": "/infra/packer/README/#base-template", 
+            "text": "{\n   _comment :  \u30b3\u30e1\u30f3\u30c8\u306froot\u968e\u5c64\u306b\u4e00\u56de\u3057\u304b\u66f8\u3051\u306a\u3044\u307f\u305f\u3044 ,\n   description :  \u3067\u304d\u308b\u3060\u3051\u66f8\u304d\u307e\u3057\u3087\u3046 ,\n   variables : {\n    // \u5916\u90e8\u304b\u3089\u5909\u66f4\u53ef\u80fd\u306a\u5909\u6570\n  },\n\n   builders : [\n    {\n    // \u8907\u6570\u306e\u30d3\u30eb\u30c0\u30fc\u3092\u66f8\u304f\u3053\u3068\u3082\u3067\u304d\u308b\u307f\u305f\u3044\u3060\u3051\u3069\u3001\uff11\u30d5\u30a1\u30a4\u30eb\uff11\u7d44\u307f\u7acb\u3066\u306e\u307b\u3046\u304c\u308f\u304b\u308a\u3084\u3059\u3044\u6c17\u304c\u3059\u308b\n    // \u3061\u306a\u307f\u306b\u30d5\u30a1\u30a4\u30eb\u306fjson\u306a\u306e\u3067\u3001\u30b3\u30e1\u30f3\u30c8\u306f_comment\u3057\u304b\u66f8\u3051\u306a\u3044\u3057\u3001validate\u3055\u308c\u308b\u306e\u3067\u9069\u5f53\u306a\u540d\u524d\u306e\u30ad\u30fc\u306f\u53d7\u3051\u4ed8\u3051\u306a\u3044\n    }\n  ],\n\n   provisioners : [\n    {\n       type :  shell ,\n       script :  setup_things.sh \n    },\n    {\n       type :  ansible ,\n       playbook_file :  ./playbook.yml \n    }\n  ]\n}", 
+            "title": "Base Template"
+        }, 
+        {
+            "location": "/infra/packer/amazon-linux2/", 
+            "text": "Amazon Linux2\nLink\n\n\npacker \u3067\u4f5c\u308b\u6642\u306f\u3053\u3093\u306a\u611f\u3058\u3067\u30d5\u30a3\u30eb\u30bf\u3059\u308b\u3068\u5e38\u306b\u6700\u65b0\n\n\n  \nbuilders\n: [\n    {\n      \ntype\n:            \namazon-ebs\n,\n\n      \nssh_username\n:    \n{{user `ssh_username`}}\n,\n      \nssh_timeout\n:     \n{{user `ssh_timeout`}}\n,\n\n      \nregion\n:          \n{{user `aws_region`}}\n,\n      \ninstance_type\n:   \n{{user `aws_instance_type`}}\n,\n      \nami_name\n:        \n{{user `aws_ami_name`}} {{isotime | clean_ami_name}}\n,\n      \nami_description\n: \n{{user `aws_ami_description`}}\n,\n      \nassociate_public_ip_address\n: \n{{user `aws_pub_ip`}}\n,\n\n      \nsource_ami_filter\n: {\n        \nfilters\n: {\n          \nname\n:                \n{{user `filter_name`}}\n,\n          \nroot-device-type\n:    \nebs\n,\n          \nvirtualization-type\n: \nhvm\n\n        },\n        \nowners\n: [\nself\n, \namazon\n],\n        \nmost_recent\n: true\n      },\n      \ntags\n: {\n        \nName\n: \n{{ user `aws_ami_name`}}\n\n        \nSourceAMI\n: \n{{.SourceAMI}}\n\n      }\n    }\n  ],\n\n\n\n\nmemo\nLink\n\n\n\n\nCentOS7\u307f\u305f\u3044\n\n\namazon-linux-extras \u3068\u3044\u3046\u30d1\u30c3\u30b1\u30fc\u30b8\u30e3\uff1f\u3067\u3044\u304f\u3064\u304b\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3067\u304d\u308b\n\n\nPHP7.2\n\n\n\u305f\u3060\u3057\u4e0d\u8db3\u30d1\u30c3\u30b1\u30fc\u30b8\u591a\u3044\u3002\u3061\u3083\u3093\u3068\u5fc5\u8981\u306a\u5206\u57cb\u3081\u3089\u308c\u308b\u304b\u306f\u4e0d\u660e\n\n\ntags \u306b SourceAMI \u3092\u8ffd\u52a0\u3002\u51fa\u6765\u4e0a\u304c\u3063\u305fAMI\u3092\u30de\u30cd\u30b8\u30e1\u30f3\u30c8\u30b3\u30f3\u30bd\u30fc\u30eb\u3067\u30ea\u30b9\u30c8\u3057\u305f\u6642\u306b\u5143\u306b\u3057\u305fAMI ID\u304c\u308f\u304b\u308b\uff08\u306a\u305c\u5143\u3005\u3053\u306e\u6a5f\u80fd\u304c\u306a\u3044\u306e\uff1f\uff09", 
+            "title": "Amazon Linux2"
+        }, 
+        {
+            "location": "/infra/packer/amazon-linux2/#amazon-linux2", 
+            "text": "packer \u3067\u4f5c\u308b\u6642\u306f\u3053\u3093\u306a\u611f\u3058\u3067\u30d5\u30a3\u30eb\u30bf\u3059\u308b\u3068\u5e38\u306b\u6700\u65b0     builders : [\n    {\n       type :             amazon-ebs ,\n\n       ssh_username :     {{user `ssh_username`}} ,\n       ssh_timeout :      {{user `ssh_timeout`}} ,\n\n       region :           {{user `aws_region`}} ,\n       instance_type :    {{user `aws_instance_type`}} ,\n       ami_name :         {{user `aws_ami_name`}} {{isotime | clean_ami_name}} ,\n       ami_description :  {{user `aws_ami_description`}} ,\n       associate_public_ip_address :  {{user `aws_pub_ip`}} ,\n\n       source_ami_filter : {\n         filters : {\n           name :                 {{user `filter_name`}} ,\n           root-device-type :     ebs ,\n           virtualization-type :  hvm \n        },\n         owners : [ self ,  amazon ],\n         most_recent : true\n      },\n       tags : {\n         Name :  {{ user `aws_ami_name`}} \n         SourceAMI :  {{.SourceAMI}} \n      }\n    }\n  ],", 
+            "title": "Amazon Linux2"
+        }, 
+        {
+            "location": "/infra/packer/amazon-linux2/#memo", 
+            "text": "CentOS7\u307f\u305f\u3044  amazon-linux-extras \u3068\u3044\u3046\u30d1\u30c3\u30b1\u30fc\u30b8\u30e3\uff1f\u3067\u3044\u304f\u3064\u304b\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3067\u304d\u308b  PHP7.2  \u305f\u3060\u3057\u4e0d\u8db3\u30d1\u30c3\u30b1\u30fc\u30b8\u591a\u3044\u3002\u3061\u3083\u3093\u3068\u5fc5\u8981\u306a\u5206\u57cb\u3081\u3089\u308c\u308b\u304b\u306f\u4e0d\u660e  tags \u306b SourceAMI \u3092\u8ffd\u52a0\u3002\u51fa\u6765\u4e0a\u304c\u3063\u305fAMI\u3092\u30de\u30cd\u30b8\u30e1\u30f3\u30c8\u30b3\u30f3\u30bd\u30fc\u30eb\u3067\u30ea\u30b9\u30c8\u3057\u305f\u6642\u306b\u5143\u306b\u3057\u305fAMI ID\u304c\u308f\u304b\u308b\uff08\u306a\u305c\u5143\u3005\u3053\u306e\u6a5f\u80fd\u304c\u306a\u3044\u306e\uff1f\uff09", 
+            "title": "memo"
+        }, 
+        {
+            "location": "/infra/terraform/README/", 
+            "text": "terraform\nLink\n\n\n\n\nTerraform by HashiCorp\n\n\n/usr/local/share \u306a\u3069\u306b\u30d0\u30fc\u30b8\u30e7\u30f3\u304c\u308f\u304b\u308b\u3088\u3046\u306b\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u3057\u3066\u5c55\u958b\u3001/usr/local/bin \u306b\u30b7\u30f3\u30dc\u30ea\u30c3\u30af\u30ea\u30f3\u30af\u3092\u7f6e\u304f\u3088\u3046\u306b\u3059\u308b\u3068\u30d0\u30fc\u30b8\u30e7\u30f3\u5dee\u3092\u78ba\u8a8d\u3057\u305f\u308a\u3059\u308b\u306e\u306b\u4fbf\u5229\uff08\u305d\u3046\u3044\u3046\u30d7\u30ec\u30a4\u30d6\u30c3\u30af\u3092\u66f8\u3044\u305f\uff09\n\n\nTerraform Recommended Practices - Terraform by HashiCorp\n\n\n\u7ba1\u7406\u5bfe\u8c61\u306e\u30ea\u30bd\u30fc\u30b9\u304c\u591a\u304f\u306a\u308b\u3068\u5b9f\u884c\u6642\u9593\u304c\u9577\u304f\u306a\u3063\u305f\u308a\u3001\u3061\u3087\u3063\u3068\u3057\u305f\u5909\u66f4\u304c\u56f0\u96e3\u306b\u306a\u308b\u3053\u3068\u304c\u3042\u308b\u306e\u3067\u3001\u9069\u5ea6\u306b\u5206\u5272\u3059\u308b\n\n\n\n\ninit \u3068 plan \u3092\u5b9a\u671f\u7684\u306b\u5b9f\u884c\u3057\u3001\u72b6\u614b\u3092\u7dad\u6301\u3059\u308b\n\n\n\n\ninit -upgrade \u3067\u30e2\u30b8\u30e5\u30fc\u30eb\u306e\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u3067\u304d\u308b\n\n\n.terraform \u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u3092\u6d88\u3057\u3066 init \u3057\u3066\u3082\u540c\u3058\uff1f\n\n\nprovider \u3084 module \u306e version \u3067\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3067\u304d\u308b\n\n\n\u3067\u304d\u308b\u304b\u304e\u308a\u6700\u65b0\u306b\u306a\u308b\u3088\u3046\u306b\u7ba1\u7406\u3057\u305f\u307b\u3046\u304c\u3044\u3044\u6c17\u3082\u3059\u308b\uff08\u904b\u7528\u6b21\u7b2c\u304b\uff09\n\n\n\n\n\n\n\n\n\u30d0\u30c3\u30af\u30a8\u30f3\u30c9\u306f\u30ea\u30e2\u30fc\u30c8\u306b\u3059\u308b\n\n\n\n\noutput \u306f\u5fc5\u8981\u6700\u4f4e\u9650\u3067\u5927\u4e08\u592b\n\n\n\u306a\u308b\u3079\u304f data \u30ea\u30bd\u30fc\u30b9\u3067\u9023\u643a\u3059\u308b\n\n\n\n\n\u30ea\u30bd\u30fc\u30b9\u540d\u306f\u308f\u304b\u308a\u3084\u3059\u304f\u3059\u308b\u3002\n\n\n\n\n\u30ea\u30bd\u30fc\u30b9\u30bf\u30a4\u30d7\u3068\u30ea\u30bd\u30fc\u30b9\u540d\u304c\u540c\u3058\u3082\u306e\u304c\uff12\u3064\u3042\u308b\u3068\u30a8\u30e9\u30fc\n\n\n\u30ea\u30bd\u30fc\u30b9\u30bf\u30a4\u30d7\u304c\u7570\u306a\u3063\u3066\u3044\u308c\u3070\u30ea\u30bd\u30fc\u30b9\u540d\u306f\u540c\u3058\u3082\u306e\u306f\u8a31\u53ef\u3055\u308c\u308b\n\n\n\u7279\u5b9a\u306e\u69cb\u6210\u3092\u4f5c\u308b\u3001\u4f8b\u3048\u3070bastion\u3092\u7ba1\u7406\u3059\u308btf\u3092\u8a18\u8ff0\u3059\u308b\u5834\u5408\u3001\u30ea\u30bd\u30fc\u30b9\u540d\u3092\u540c\u3058\u306b\u3059\u308b\u3068\u697d\n\n\n\u30d5\u30a1\u30a4\u30eb\u5185\u3067\u306e\u53c2\u7167\u306f\u30aa\u30d6\u30b8\u30a7\u30af\u30c8\u53c2\u7167\u306b\u4f3c\u3066\u3044\u3066\u3001\u30c7\u30fc\u30bf\u30bd\u30fc\u30b9\u306a\u3069\u306e\u89aa\u30aa\u30d6\u30b8\u30a7\u30af\u30c8\u3001\u30ea\u30bd\u30fc\u30b9\u30bf\u30a4\u30d7\u3001\u30ea\u30bd\u30fc\u30b9\u540d\u3001\u5f15\u6570\uff08\u30d7\u30ed\u30d1\u30c6\u30a3\u7684\u306a\u3002\u539f\u6587\u3067\u306farguments\uff09\u306a\u306e\u3067\u3001\u30d0\u30c3\u30c6\u30a3\u30f3\u30b0\u3057\u306a\u3044\n\n\n\n\n\n\n\n\n\u516c\u5f0f\u30e2\u30b8\u30e5\u30fc\u30eb\u306e\u5229\u7528\u306f\u63a8\u5968\u3059\u308b\u304c\u81ea\u5df1\u8cac\u4efb\n\n\n\n\n\u81ea\u4f5c\u30e2\u30b8\u30e5\u30fc\u30eb\u306f\u53ef\u8aad\u6027\u3084\u518d\u5229\u7528\u6027\u306a\u3069\u3092\u8003\u616e\u3057\u3066\u307b\u3069\u307b\u3069\u306b\u3059\u308b\n\n\nenv\uff08deprecated\uff09\u3084 workspace \u306f\u4e00\u898b\u4fbf\u5229\u305d\u3046\u3060\u304c\u7ba1\u7406\u304c\u624b\u9593\u3060\u3057\u74b0\u5883\u5dee\u3092\u5438\u53ce\u3059\u308b\u7528\u9014\u306b\u306f\u5411\u3044\u3066\u3044\u306a\u3044\u3002\u3080\u3057\u308d\u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u3092\u5206\u3051\u3066\u305d\u308c\u305e\u308c\u306b\u8a2d\u5b9a\u5024\u3092\u8a18\u8ff0\u3059\u308b\u307b\u3046\u304c\u898b\u901a\u3057\u306f\u3088\u3044\u306e\u3067\u306f\u306a\u3044\u304b\n\n\n\n\nTools\nLink\n\n\n\n\nTerraforming by dtan4\n \u65e2\u5b58\u306eAWS\u30ea\u30bd\u30fc\u30b9\u3092terraform\u5f62\u5f0f\u3067export\u3059\u308b\u30c4\u30fc\u30eb\n\n\nwata727/tflint\n Terraform Linter\n\n\n\n\nmemo\nLink\n\n\nremote_state \u3092\u7de8\u96c6\u3057\u3066\u623b\u3059\u624b\u9806\nLink\n\n\nterraform state pull \n terraform.tfstate\nvi terraform.tfstate\nterraform state push terraform.tfstate\nterraform plan\nrm terraform.tfstate", 
+            "title": "terraform"
+        }, 
+        {
+            "location": "/infra/terraform/README/#terraform", 
+            "text": "Terraform by HashiCorp  /usr/local/share \u306a\u3069\u306b\u30d0\u30fc\u30b8\u30e7\u30f3\u304c\u308f\u304b\u308b\u3088\u3046\u306b\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u3057\u3066\u5c55\u958b\u3001/usr/local/bin \u306b\u30b7\u30f3\u30dc\u30ea\u30c3\u30af\u30ea\u30f3\u30af\u3092\u7f6e\u304f\u3088\u3046\u306b\u3059\u308b\u3068\u30d0\u30fc\u30b8\u30e7\u30f3\u5dee\u3092\u78ba\u8a8d\u3057\u305f\u308a\u3059\u308b\u306e\u306b\u4fbf\u5229\uff08\u305d\u3046\u3044\u3046\u30d7\u30ec\u30a4\u30d6\u30c3\u30af\u3092\u66f8\u3044\u305f\uff09  Terraform Recommended Practices - Terraform by HashiCorp  \u7ba1\u7406\u5bfe\u8c61\u306e\u30ea\u30bd\u30fc\u30b9\u304c\u591a\u304f\u306a\u308b\u3068\u5b9f\u884c\u6642\u9593\u304c\u9577\u304f\u306a\u3063\u305f\u308a\u3001\u3061\u3087\u3063\u3068\u3057\u305f\u5909\u66f4\u304c\u56f0\u96e3\u306b\u306a\u308b\u3053\u3068\u304c\u3042\u308b\u306e\u3067\u3001\u9069\u5ea6\u306b\u5206\u5272\u3059\u308b   init \u3068 plan \u3092\u5b9a\u671f\u7684\u306b\u5b9f\u884c\u3057\u3001\u72b6\u614b\u3092\u7dad\u6301\u3059\u308b   init -upgrade \u3067\u30e2\u30b8\u30e5\u30fc\u30eb\u306e\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u3067\u304d\u308b  .terraform \u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u3092\u6d88\u3057\u3066 init \u3057\u3066\u3082\u540c\u3058\uff1f  provider \u3084 module \u306e version \u3067\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3067\u304d\u308b  \u3067\u304d\u308b\u304b\u304e\u308a\u6700\u65b0\u306b\u306a\u308b\u3088\u3046\u306b\u7ba1\u7406\u3057\u305f\u307b\u3046\u304c\u3044\u3044\u6c17\u3082\u3059\u308b\uff08\u904b\u7528\u6b21\u7b2c\u304b\uff09     \u30d0\u30c3\u30af\u30a8\u30f3\u30c9\u306f\u30ea\u30e2\u30fc\u30c8\u306b\u3059\u308b   output \u306f\u5fc5\u8981\u6700\u4f4e\u9650\u3067\u5927\u4e08\u592b  \u306a\u308b\u3079\u304f data \u30ea\u30bd\u30fc\u30b9\u3067\u9023\u643a\u3059\u308b   \u30ea\u30bd\u30fc\u30b9\u540d\u306f\u308f\u304b\u308a\u3084\u3059\u304f\u3059\u308b\u3002   \u30ea\u30bd\u30fc\u30b9\u30bf\u30a4\u30d7\u3068\u30ea\u30bd\u30fc\u30b9\u540d\u304c\u540c\u3058\u3082\u306e\u304c\uff12\u3064\u3042\u308b\u3068\u30a8\u30e9\u30fc  \u30ea\u30bd\u30fc\u30b9\u30bf\u30a4\u30d7\u304c\u7570\u306a\u3063\u3066\u3044\u308c\u3070\u30ea\u30bd\u30fc\u30b9\u540d\u306f\u540c\u3058\u3082\u306e\u306f\u8a31\u53ef\u3055\u308c\u308b  \u7279\u5b9a\u306e\u69cb\u6210\u3092\u4f5c\u308b\u3001\u4f8b\u3048\u3070bastion\u3092\u7ba1\u7406\u3059\u308btf\u3092\u8a18\u8ff0\u3059\u308b\u5834\u5408\u3001\u30ea\u30bd\u30fc\u30b9\u540d\u3092\u540c\u3058\u306b\u3059\u308b\u3068\u697d  \u30d5\u30a1\u30a4\u30eb\u5185\u3067\u306e\u53c2\u7167\u306f\u30aa\u30d6\u30b8\u30a7\u30af\u30c8\u53c2\u7167\u306b\u4f3c\u3066\u3044\u3066\u3001\u30c7\u30fc\u30bf\u30bd\u30fc\u30b9\u306a\u3069\u306e\u89aa\u30aa\u30d6\u30b8\u30a7\u30af\u30c8\u3001\u30ea\u30bd\u30fc\u30b9\u30bf\u30a4\u30d7\u3001\u30ea\u30bd\u30fc\u30b9\u540d\u3001\u5f15\u6570\uff08\u30d7\u30ed\u30d1\u30c6\u30a3\u7684\u306a\u3002\u539f\u6587\u3067\u306farguments\uff09\u306a\u306e\u3067\u3001\u30d0\u30c3\u30c6\u30a3\u30f3\u30b0\u3057\u306a\u3044     \u516c\u5f0f\u30e2\u30b8\u30e5\u30fc\u30eb\u306e\u5229\u7528\u306f\u63a8\u5968\u3059\u308b\u304c\u81ea\u5df1\u8cac\u4efb   \u81ea\u4f5c\u30e2\u30b8\u30e5\u30fc\u30eb\u306f\u53ef\u8aad\u6027\u3084\u518d\u5229\u7528\u6027\u306a\u3069\u3092\u8003\u616e\u3057\u3066\u307b\u3069\u307b\u3069\u306b\u3059\u308b  env\uff08deprecated\uff09\u3084 workspace \u306f\u4e00\u898b\u4fbf\u5229\u305d\u3046\u3060\u304c\u7ba1\u7406\u304c\u624b\u9593\u3060\u3057\u74b0\u5883\u5dee\u3092\u5438\u53ce\u3059\u308b\u7528\u9014\u306b\u306f\u5411\u3044\u3066\u3044\u306a\u3044\u3002\u3080\u3057\u308d\u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u3092\u5206\u3051\u3066\u305d\u308c\u305e\u308c\u306b\u8a2d\u5b9a\u5024\u3092\u8a18\u8ff0\u3059\u308b\u307b\u3046\u304c\u898b\u901a\u3057\u306f\u3088\u3044\u306e\u3067\u306f\u306a\u3044\u304b", 
+            "title": "terraform"
+        }, 
+        {
+            "location": "/infra/terraform/README/#tools", 
+            "text": "Terraforming by dtan4  \u65e2\u5b58\u306eAWS\u30ea\u30bd\u30fc\u30b9\u3092terraform\u5f62\u5f0f\u3067export\u3059\u308b\u30c4\u30fc\u30eb  wata727/tflint  Terraform Linter", 
+            "title": "Tools"
+        }, 
+        {
+            "location": "/infra/terraform/README/#memo", 
+            "text": "", 
+            "title": "memo"
+        }, 
+        {
+            "location": "/infra/terraform/README/#remote_state", 
+            "text": "terraform state pull   terraform.tfstate\nvi terraform.tfstate\nterraform state push terraform.tfstate\nterraform plan\nrm terraform.tfstate", 
+            "title": "remote_state \u3092\u7de8\u96c6\u3057\u3066\u623b\u3059\u624b\u9806"
+        }, 
+        {
+            "location": "/infra/terraform/aws/README/", 
+            "text": "terraform aws provider\nLink\n\n\n\n\nProvider: AWS - Terraform by HashiCorp\n\n\n\n\nprovider aws \u306f\u8a18\u8ff0\u3057\u306a\u304f\u3066\u3082\u9069\u5207\u306b\u5224\u65ad\u3057\u3066\u304f\u308c\u308b\n\n\n\n\nskip\uff5e\u5f15\u6570\u3092\u4f7f\u3063\u3066\u3044\u308b\u30b5\u30f3\u30d7\u30eb\u3061\u3087\u3044\u3061\u3087\u3044\u5897\u3048\u305f\uff1f\n\n\n\u30d0\u30ea\u30c7\u30fc\u30b7\u30e7\u30f3\u3092\u30b9\u30ad\u30c3\u30d7\u3059\u308b\u3053\u3068\u3067\u51e6\u7406\u6642\u9593\u304c\u77ed\u304f\u306a\u308b\u3088\u3046\u3060\u3051\u3069\u3001\u691c\u8a3c\u3059\u308b\u6642\u9593\u304c\uff08\u3082\u3063\u305f\u3044\uff09\u306a\u3044\n\n\n\u6700\u7d42\u7684\u306b\u5b9a\u671f\u7684\u306a\u81ea\u52d5\u904b\u7528\u306b\u3059\u308b\u306a\u3089\u30b9\u30ad\u30c3\u30d7\u3057\u306a\u3044\u307b\u3046\u304c\u5b89\u5fc3\u3067\u304d\u308b\u6c17\u304c\u3059\u308b\n\n\n\n\n\n\n\n\n\u8a8d\u8a3c\u306b\u95a2\u3057\u3066\u3082\u8a18\u8ff0\u305b\u305a\u306b\u74b0\u5883\u5909\u6570\u3092\u4f7f\u7528\u3059\u308b\u307b\u3046\u304c\u697d\u306a\u4e0a\u306b\u53ef\u642c\u6027\u304c\u3042\u304c\u308b\uff08\u5b9f\u884c\u74b0\u5883\u306b\u306f\u6ce8\u610f\u3059\u308b\u3053\u3068\uff09\n\n\n\n\n\n\nd \u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u306f data source\n\n\n\n\n\u306a\u308b\u3079\u304f\u305d\u306e\u307e\u307e\u306e\u30b3\u30fc\u30c9\u3067\u5b9f\u884c\u53ef\u80fd\u306a\u3088\u3046\u306b\u30b5\u30f3\u30d7\u30eb\u3092\u8a18\u8ff0\n\n\n\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u30b5\u30f3\u30d7\u30eb\u3060\u3051\u3067\u306f\u308f\u304b\u308a\u306b\u304f\u304b\u3063\u305f\u30e1\u30e2\u3092\u6b8b\u3059\n\n\n\n\n\n\n\n\nr \u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u306f resource\n\n\n\n\n\u30ea\u30bd\u30fc\u30b9\u3092\u4f5c\u6210\u3059\u308b\u3068\u30b3\u30b9\u30c8\u304c\u304b\u304b\u308b\u306e\u3067\u6ce8\u610f\n\n\ndestroy -force \u3067\u524a\u9664\u3059\u308b\u306e\u3092\u5fd8\u308c\u306a\u3044", 
+            "title": "terraform aws provider"
+        }, 
+        {
+            "location": "/infra/terraform/aws/README/#terraform-aws-provider", 
+            "text": "Provider: AWS - Terraform by HashiCorp   provider aws \u306f\u8a18\u8ff0\u3057\u306a\u304f\u3066\u3082\u9069\u5207\u306b\u5224\u65ad\u3057\u3066\u304f\u308c\u308b   skip\uff5e\u5f15\u6570\u3092\u4f7f\u3063\u3066\u3044\u308b\u30b5\u30f3\u30d7\u30eb\u3061\u3087\u3044\u3061\u3087\u3044\u5897\u3048\u305f\uff1f  \u30d0\u30ea\u30c7\u30fc\u30b7\u30e7\u30f3\u3092\u30b9\u30ad\u30c3\u30d7\u3059\u308b\u3053\u3068\u3067\u51e6\u7406\u6642\u9593\u304c\u77ed\u304f\u306a\u308b\u3088\u3046\u3060\u3051\u3069\u3001\u691c\u8a3c\u3059\u308b\u6642\u9593\u304c\uff08\u3082\u3063\u305f\u3044\uff09\u306a\u3044  \u6700\u7d42\u7684\u306b\u5b9a\u671f\u7684\u306a\u81ea\u52d5\u904b\u7528\u306b\u3059\u308b\u306a\u3089\u30b9\u30ad\u30c3\u30d7\u3057\u306a\u3044\u307b\u3046\u304c\u5b89\u5fc3\u3067\u304d\u308b\u6c17\u304c\u3059\u308b     \u8a8d\u8a3c\u306b\u95a2\u3057\u3066\u3082\u8a18\u8ff0\u305b\u305a\u306b\u74b0\u5883\u5909\u6570\u3092\u4f7f\u7528\u3059\u308b\u307b\u3046\u304c\u697d\u306a\u4e0a\u306b\u53ef\u642c\u6027\u304c\u3042\u304c\u308b\uff08\u5b9f\u884c\u74b0\u5883\u306b\u306f\u6ce8\u610f\u3059\u308b\u3053\u3068\uff09    d \u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u306f data source   \u306a\u308b\u3079\u304f\u305d\u306e\u307e\u307e\u306e\u30b3\u30fc\u30c9\u3067\u5b9f\u884c\u53ef\u80fd\u306a\u3088\u3046\u306b\u30b5\u30f3\u30d7\u30eb\u3092\u8a18\u8ff0  \u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u30b5\u30f3\u30d7\u30eb\u3060\u3051\u3067\u306f\u308f\u304b\u308a\u306b\u304f\u304b\u3063\u305f\u30e1\u30e2\u3092\u6b8b\u3059     r \u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u306f resource   \u30ea\u30bd\u30fc\u30b9\u3092\u4f5c\u6210\u3059\u308b\u3068\u30b3\u30b9\u30c8\u304c\u304b\u304b\u308b\u306e\u3067\u6ce8\u610f  destroy -force \u3067\u524a\u9664\u3059\u308b\u306e\u3092\u5fd8\u308c\u306a\u3044", 
+            "title": "terraform aws provider"
+        }, 
+        {
+            "location": "/infra/terraform/configuration/README/", 
+            "text": "Configuration\nLink\n\n\n\n\nConfiguration - Terraform by HashiCorp\n\n\n\n\nLoad Order and Semantics - Terraform by HashiCorp\n\n\n\n\n\u30d5\u30a1\u30a4\u30eb\u306f\u30a2\u30eb\u30d5\u30a1\u30d9\u30c3\u30c8\u9806\u306b\u8aad\u307f\u8fbc\u307e\u308c\u308b\n\n\n\u62e1\u5f35\u5b50\u306f .tf \u307e\u305f\u306f .tf.json \u304c\u5bfe\u8c61\n\n\n\n\n\n\n\n\nConfiguration Syntax - Terraform by HashiCorp\n\n\n\n\n\u66f8\u304d\u65b9\u306f\u30ea\u30f3\u30af\u5148\u306b\u3082\u66f8\u3044\u3066\u3042\u308b\nHCL\n\u3092\u53c2\u8003\u306b\u3059\u308b\n\n\n\n\n\n\n\n\nInterpolation Syntax - Terraform by HashiCorp\n\n\n\n\n\u5404\u69cb\u6587\u306b\u3064\u3044\u3066\u500b\u5225\u306b\u30c1\u30a7\u30c3\u30af\u3059\u308b\n\n\nBuilt-in functions \u306e \n\u30b5\u30f3\u30d7\u30eb\n \u3092\u66f8\u304d\u59cb\u3081\u305f\n\n\n\n\n\n\n\n\nOverrides - Terraform by HashiCorp\n\n\n\n\n\u4f8b\u304c\u60aa\u304f\u3066\u4f7f\u3044\u9053\u304c\u3044\u307e\u3044\u3061\u308f\u304b\u3063\u3066\u3044\u306a\u3044\n\n\n\n\n\n\n\n\nConfiguring Resources - Terraform by HashiCorp\n\n\n\n\n\u30e1\u30bf\u30d1\u30e9\u30e1\u30fc\u30bf\uff08count, depends_on, provider, lifecycle\uff09\n\n\n\u30bf\u30a4\u30e0\u30a2\u30a6\u30c8\u30d6\u30ed\u30c3\u30af\uff08timeouts block\uff09\n\n\nfull syntax\n\n\n\n\n\n\n\n\nConfiguring Data Sources - Terraform by HashiCorp\n\n\n\n\n\u65e2\u5b58\u30ea\u30bd\u30fc\u30b9\u304b\u3089\u5fc5\u8981\u306a\u5206\u3092\u63a2\u3057\u3066\u4f7f\u7528\u3067\u304d\u308b\n\n\n\u8907\u6570\u306e\u30bf\u30b0\u7b49\u3067\u4e00\u610f\u306b\u306a\u308b\u3088\u3046\u306b\u30ea\u30bd\u30fc\u30b9\u3092\u8a2d\u8a08\u3057\u3066\u304a\u304f\u3068\u4fbf\u5229\n\n\n\n\n\n\n\n\nConfiguring Providers - Terraform by HashiCorp\n\n\n\n\nversion \u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u304c\u5fc5\u8981\u306b\u306a\u3063\u305f\u3089\n\n\n\n\n\n\n\n\nConfiguring Input Variables - Terraform by HashiCorp\n\n\n\n\nvars \u3092\u4f7f\u3046\u306e\u306f\u4e00\u5f0f\u51fa\u6765\u4e0a\u304c\u3063\u305f\u5f8c\u3067\u30ea\u30d5\u30a1\u30af\u30bf\u30ea\u30f3\u30b0\u306b\u3057\u305f\u307b\u3046\u304c\u65e9\u3044\u6c17\u304c\u3059\u308b\n\n\nvars \u30d5\u30a1\u30a4\u30eb\u306f terraform.tfvars \u304b  *.auto.tfvars\n\n\n\n\n\n\n\n\nConfiguring Outputs - Terraform by HashiCorp\n\n\n\n\n\u30e2\u30b8\u30e5\u30fc\u30eb\u5316\u3059\u308b\u6642\u306f\u5fc5\u8981\u306b\u306a\u308b\u3051\u3069\u3001\u901a\u5e38\u306f\u306a\u304f\u3066\u3082\u5927\u4e08\u592b\n\n\noutput \u3092\u671f\u5f85\u3057\u3066\u30b3\u30fc\u30c9\u3092\u66f8\u304f\u3068\u5f8c\u3067\u56f0\u308b\u304b\u3082\n\n\n\u5225\u30e2\u30b8\u30e5\u30fc\u30eb\u306e output \u3092\u671f\u5f85\u3059\u308b\u3088\u308a\u3082 data source \u3067\u691c\u7d22\u3057\u305f\u307b\u3046\u304c\u4fbf\u5229\n\n\n\u66f8\u304d\u65b9\u306e\n\u30b5\u30f3\u30d7\u30eb\n\n\n\n\n\n\n\n\nConfiguring Local Values - Terraform by HashiCorp\n\n\n\n\n\u4e2d\u9593\u5909\u6570\u7684\u306b\u5229\u7528\u53ef\n\n\ndata source \u3067 count \u3092\u4f7f\u3063\u3066\u8907\u6570\u5024\u3092\u8fd4\u3057\u3066\u3001local vars \u3067 ids \u307f\u305f\u3044\u306b\u4f7f\u3048\u308b\n\n\n\n\n\n\n\n\nConfiguring Modules - Terraform by HashiCorp\n\n\n\n\n\u5171\u901a\u306e\u51e6\u7406\u3092\u30e2\u30b8\u30e5\u30fc\u30eb\u5316\n\n\n\u305d\u308c\u3053\u305d\u4e00\u5f0f\u51fa\u6765\u4e0a\u304c\u3063\u305f\u5f8c\u3067\u30ea\u30d5\u30a1\u30af\u30bf\u30ea\u30f3\u30b0\u306b\u3057\u305f\u307b\u3046\u304c\u65e9\u3044\u6c17\u304c\u3059\u308b\uff08\u6025\u304c\u3070\u56de\u308c\uff09\n\n\nTerraform Module Registry\n\n\n\n\n\n\n\n\nConfiguring Terraform - Terraform by HashiCorp\n\n\n\n\n\u6700\u5c0f\u30d0\u30fc\u30b8\u30e7\u30f3\u306e\u6307\u5b9a\u306a\u3069\n\n\n\u74b0\u5883\u306b\u3082\u3088\u308b\u304c\u983b\u7e41\u306b\u30d0\u30fc\u30b8\u30e7\u30f3\u30a2\u30c3\u30d7\u3057\u3066\u3044\u308b\u6628\u4eca\u3001\u6700\u65b0\u30d0\u30fc\u30b8\u30e7\u30f3\u306b\u8ffd\u5f93\u3057\u306a\u3044\u3068\u5f8c\u3067\u56f0\u308b\n\n\n\n\n\n\n\n\nConfiguring Terraform Enterprise - Terraform by HashiCorp\n\n\n\n\nTerraform Enterprise \u3092\u4f7f\u7528\u3059\u308b\u969b\u306b\n\n\n\n\n\n\n\n\nEnvironment Variables - Terraform by HashiCorp\n\n\n\n\n\u30ed\u30b0\u306e\u30ec\u30d9\u30eb\u3092\u5909\u66f4\n\n\n\u30ed\u30b0\u30d5\u30a1\u30a4\u30eb\u3092\u6307\u5b9a", 
+            "title": "Configuration"
+        }, 
+        {
+            "location": "/infra/terraform/configuration/README/#configuration", 
+            "text": "Configuration - Terraform by HashiCorp   Load Order and Semantics - Terraform by HashiCorp   \u30d5\u30a1\u30a4\u30eb\u306f\u30a2\u30eb\u30d5\u30a1\u30d9\u30c3\u30c8\u9806\u306b\u8aad\u307f\u8fbc\u307e\u308c\u308b  \u62e1\u5f35\u5b50\u306f .tf \u307e\u305f\u306f .tf.json \u304c\u5bfe\u8c61     Configuration Syntax - Terraform by HashiCorp   \u66f8\u304d\u65b9\u306f\u30ea\u30f3\u30af\u5148\u306b\u3082\u66f8\u3044\u3066\u3042\u308b HCL \u3092\u53c2\u8003\u306b\u3059\u308b     Interpolation Syntax - Terraform by HashiCorp   \u5404\u69cb\u6587\u306b\u3064\u3044\u3066\u500b\u5225\u306b\u30c1\u30a7\u30c3\u30af\u3059\u308b  Built-in functions \u306e  \u30b5\u30f3\u30d7\u30eb  \u3092\u66f8\u304d\u59cb\u3081\u305f     Overrides - Terraform by HashiCorp   \u4f8b\u304c\u60aa\u304f\u3066\u4f7f\u3044\u9053\u304c\u3044\u307e\u3044\u3061\u308f\u304b\u3063\u3066\u3044\u306a\u3044     Configuring Resources - Terraform by HashiCorp   \u30e1\u30bf\u30d1\u30e9\u30e1\u30fc\u30bf\uff08count, depends_on, provider, lifecycle\uff09  \u30bf\u30a4\u30e0\u30a2\u30a6\u30c8\u30d6\u30ed\u30c3\u30af\uff08timeouts block\uff09  full syntax     Configuring Data Sources - Terraform by HashiCorp   \u65e2\u5b58\u30ea\u30bd\u30fc\u30b9\u304b\u3089\u5fc5\u8981\u306a\u5206\u3092\u63a2\u3057\u3066\u4f7f\u7528\u3067\u304d\u308b  \u8907\u6570\u306e\u30bf\u30b0\u7b49\u3067\u4e00\u610f\u306b\u306a\u308b\u3088\u3046\u306b\u30ea\u30bd\u30fc\u30b9\u3092\u8a2d\u8a08\u3057\u3066\u304a\u304f\u3068\u4fbf\u5229     Configuring Providers - Terraform by HashiCorp   version \u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u304c\u5fc5\u8981\u306b\u306a\u3063\u305f\u3089     Configuring Input Variables - Terraform by HashiCorp   vars \u3092\u4f7f\u3046\u306e\u306f\u4e00\u5f0f\u51fa\u6765\u4e0a\u304c\u3063\u305f\u5f8c\u3067\u30ea\u30d5\u30a1\u30af\u30bf\u30ea\u30f3\u30b0\u306b\u3057\u305f\u307b\u3046\u304c\u65e9\u3044\u6c17\u304c\u3059\u308b  vars \u30d5\u30a1\u30a4\u30eb\u306f terraform.tfvars \u304b  *.auto.tfvars     Configuring Outputs - Terraform by HashiCorp   \u30e2\u30b8\u30e5\u30fc\u30eb\u5316\u3059\u308b\u6642\u306f\u5fc5\u8981\u306b\u306a\u308b\u3051\u3069\u3001\u901a\u5e38\u306f\u306a\u304f\u3066\u3082\u5927\u4e08\u592b  output \u3092\u671f\u5f85\u3057\u3066\u30b3\u30fc\u30c9\u3092\u66f8\u304f\u3068\u5f8c\u3067\u56f0\u308b\u304b\u3082  \u5225\u30e2\u30b8\u30e5\u30fc\u30eb\u306e output \u3092\u671f\u5f85\u3059\u308b\u3088\u308a\u3082 data source \u3067\u691c\u7d22\u3057\u305f\u307b\u3046\u304c\u4fbf\u5229  \u66f8\u304d\u65b9\u306e \u30b5\u30f3\u30d7\u30eb     Configuring Local Values - Terraform by HashiCorp   \u4e2d\u9593\u5909\u6570\u7684\u306b\u5229\u7528\u53ef  data source \u3067 count \u3092\u4f7f\u3063\u3066\u8907\u6570\u5024\u3092\u8fd4\u3057\u3066\u3001local vars \u3067 ids \u307f\u305f\u3044\u306b\u4f7f\u3048\u308b     Configuring Modules - Terraform by HashiCorp   \u5171\u901a\u306e\u51e6\u7406\u3092\u30e2\u30b8\u30e5\u30fc\u30eb\u5316  \u305d\u308c\u3053\u305d\u4e00\u5f0f\u51fa\u6765\u4e0a\u304c\u3063\u305f\u5f8c\u3067\u30ea\u30d5\u30a1\u30af\u30bf\u30ea\u30f3\u30b0\u306b\u3057\u305f\u307b\u3046\u304c\u65e9\u3044\u6c17\u304c\u3059\u308b\uff08\u6025\u304c\u3070\u56de\u308c\uff09  Terraform Module Registry     Configuring Terraform - Terraform by HashiCorp   \u6700\u5c0f\u30d0\u30fc\u30b8\u30e7\u30f3\u306e\u6307\u5b9a\u306a\u3069  \u74b0\u5883\u306b\u3082\u3088\u308b\u304c\u983b\u7e41\u306b\u30d0\u30fc\u30b8\u30e7\u30f3\u30a2\u30c3\u30d7\u3057\u3066\u3044\u308b\u6628\u4eca\u3001\u6700\u65b0\u30d0\u30fc\u30b8\u30e7\u30f3\u306b\u8ffd\u5f93\u3057\u306a\u3044\u3068\u5f8c\u3067\u56f0\u308b     Configuring Terraform Enterprise - Terraform by HashiCorp   Terraform Enterprise \u3092\u4f7f\u7528\u3059\u308b\u969b\u306b     Environment Variables - Terraform by HashiCorp   \u30ed\u30b0\u306e\u30ec\u30d9\u30eb\u3092\u5909\u66f4  \u30ed\u30b0\u30d5\u30a1\u30a4\u30eb\u3092\u6307\u5b9a", 
+            "title": "Configuration"
+        }, 
+        {
+            "location": "/language/go/", 
+            "text": "golang\nLink\n\n\nsee: \nhttps://golang.org/\n\n\nwget https://storage.googleapis.com/golang/go1.7.4.linux-amd64.tar.gz\nsudo tar -C /usr/local -xzf go1.7.4.linux-amd64.tar.gz\n\nexport PATH=$PATH:/usr/local/go/bin\nexport GOPATH=$HOME/go\nexport PATH=$PATH:$GOPATH/bin\n\ngo get github.com/motemen/gore\ngo get github.com/nsf/gocode\ngo get github.com/k0kubun/pp\ngo get golang.org/x/tools/cmd/godoc", 
+            "title": "golang"
+        }, 
+        {
+            "location": "/language/go/#golang", 
+            "text": "see:  https://golang.org/  wget https://storage.googleapis.com/golang/go1.7.4.linux-amd64.tar.gz\nsudo tar -C /usr/local -xzf go1.7.4.linux-amd64.tar.gz\n\nexport PATH=$PATH:/usr/local/go/bin\nexport GOPATH=$HOME/go\nexport PATH=$PATH:$GOPATH/bin\n\ngo get github.com/motemen/gore\ngo get github.com/nsf/gocode\ngo get github.com/k0kubun/pp\ngo get golang.org/x/tools/cmd/godoc", 
+            "title": "golang"
+        }, 
+        {
+            "location": "/linux/logrotate/", 
+            "text": "logrotate\nLink\n\n\n\n\n\u30ed\u30b0\u30ed\u30fc\u30c6\u30fc\u30b7\u30e7\u30f3(logrotate)\u3092\u4f7f\u3063\u3066\u307f\u308b ( httpd(apache)\u306e\u8a2d\u5b9a\u4f8b )\u00a0|\u00a0\u30ec\u30f3\u30bf\u30eb\u30b5\u30fc\u30d0\u30fc\u30fb\u81ea\u5b85\u30b5\u30fc\u30d0\u30fc\u8a2d\u5b9a\u30fb\u69cb\u7bc9\u306e\u30d2\u30f3\u30c8\n\n\nlogrotate \u8a2d\u5b9a\u65b9\u6cd5\n\n\nlogrotate\u3067\u30ed\u30b0\u30d5\u30a1\u30a4\u30eb\u304c\u30ed\u30fc\u30c6\u30fc\u30b7\u30e7\u30f3\u3055\u308c\u306a\u3044\u4e8b\u3078\u306e\u5bfe\u51e6\uff5cA Day In The Boy's Life\n\n\nMySQL \u30ed\u30b0\u306e\u30ed\u30fc\u30c6\u30fc\u30b7\u30e7\u30f3\u8a2d\u5b9a\uff08logrotate\uff09\uff08flush-logs \u304c cron \u3067\u52d5\u304b\u306a\u3044\u3068\u304d\u306e\u5bfe\u51e6\u3092\u542b\u3080\uff09 - \u5f7c\u5973\u304b\u3089\u306f\u3001\u304a\u3044\u3061\u3083\u3093\u3068\u547c\u3070\u308c\u3066\u3044\u307e\u3059\n\n\n\n\n\u30e1\u30e2\nLink\n\n\n\n\n\u30de\u30b7\u30f3\u30ad\u30c3\u30c6\u30a3\u30f3\u30b0\u3059\u308b\u969b\u306b\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3057\u3066\u304a\u304f\n\n\n\u8a2d\u5b9a\u30d5\u30a1\u30a4\u30eb\u306f ansible \u3067\u9001\u308a\u4ed8\u3051\u308b\u306e\u304c\u697d\n\n\nmissingok \u3092\u30bb\u30c3\u30c8\u3057\u3066\u304a\u3051\u3070\u30ed\u30b0\u30d5\u30a1\u30a4\u30eb\u304c\u306a\u304f\u3066\u3082\u30a8\u30e9\u30fc\u306b\u306a\u3089\u306a\u3044\u306e\u3067\u8a2d\u5b9a\u30d5\u30a1\u30a4\u30eb\u81ea\u4f53\u3092\u9001\u308a\u4ed8\u3051\u3066\u304a\u3044\u3066\u3082\u5927\u3057\u3066\u554f\u984c\u306b\u306a\u3089\u306a\u3044\u3093\u3058\u3083\u306a\u3044\u304b\u3068\u601d\u3063\u3066\u3044\u308b\n\n\nAWS \u306a\u3089 Kinesis Firehose \u306b\u9001\u308c\u3070\u3044\u3044\u306e\u3067\u3001\u304d\u3063\u3061\u308a\u7ba1\u7406\u3057\u306a\u304f\u3066\u3082\u3044\u3044\u6c17\u3082\u3059\u308b\uff08\u30c0\u30e1", 
+            "title": "logrotate"
+        }, 
+        {
+            "location": "/linux/logrotate/#logrotate", 
+            "text": "\u30ed\u30b0\u30ed\u30fc\u30c6\u30fc\u30b7\u30e7\u30f3(logrotate)\u3092\u4f7f\u3063\u3066\u307f\u308b ( httpd(apache)\u306e\u8a2d\u5b9a\u4f8b )\u00a0|\u00a0\u30ec\u30f3\u30bf\u30eb\u30b5\u30fc\u30d0\u30fc\u30fb\u81ea\u5b85\u30b5\u30fc\u30d0\u30fc\u8a2d\u5b9a\u30fb\u69cb\u7bc9\u306e\u30d2\u30f3\u30c8  logrotate \u8a2d\u5b9a\u65b9\u6cd5  logrotate\u3067\u30ed\u30b0\u30d5\u30a1\u30a4\u30eb\u304c\u30ed\u30fc\u30c6\u30fc\u30b7\u30e7\u30f3\u3055\u308c\u306a\u3044\u4e8b\u3078\u306e\u5bfe\u51e6\uff5cA Day In The Boy's Life  MySQL \u30ed\u30b0\u306e\u30ed\u30fc\u30c6\u30fc\u30b7\u30e7\u30f3\u8a2d\u5b9a\uff08logrotate\uff09\uff08flush-logs \u304c cron \u3067\u52d5\u304b\u306a\u3044\u3068\u304d\u306e\u5bfe\u51e6\u3092\u542b\u3080\uff09 - \u5f7c\u5973\u304b\u3089\u306f\u3001\u304a\u3044\u3061\u3083\u3093\u3068\u547c\u3070\u308c\u3066\u3044\u307e\u3059", 
+            "title": "logrotate"
+        }, 
+        {
+            "location": "/linux/logrotate/#_1", 
+            "text": "\u30de\u30b7\u30f3\u30ad\u30c3\u30c6\u30a3\u30f3\u30b0\u3059\u308b\u969b\u306b\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3057\u3066\u304a\u304f  \u8a2d\u5b9a\u30d5\u30a1\u30a4\u30eb\u306f ansible \u3067\u9001\u308a\u4ed8\u3051\u308b\u306e\u304c\u697d  missingok \u3092\u30bb\u30c3\u30c8\u3057\u3066\u304a\u3051\u3070\u30ed\u30b0\u30d5\u30a1\u30a4\u30eb\u304c\u306a\u304f\u3066\u3082\u30a8\u30e9\u30fc\u306b\u306a\u3089\u306a\u3044\u306e\u3067\u8a2d\u5b9a\u30d5\u30a1\u30a4\u30eb\u81ea\u4f53\u3092\u9001\u308a\u4ed8\u3051\u3066\u304a\u3044\u3066\u3082\u5927\u3057\u3066\u554f\u984c\u306b\u306a\u3089\u306a\u3044\u3093\u3058\u3083\u306a\u3044\u304b\u3068\u601d\u3063\u3066\u3044\u308b  AWS \u306a\u3089 Kinesis Firehose \u306b\u9001\u308c\u3070\u3044\u3044\u306e\u3067\u3001\u304d\u3063\u3061\u308a\u7ba1\u7406\u3057\u306a\u304f\u3066\u3082\u3044\u3044\u6c17\u3082\u3059\u308b\uff08\u30c0\u30e1", 
+            "title": "\u30e1\u30e2"
+        }, 
+        {
+            "location": "/linux/shell/", 
+            "text": "Shell\nLink\n\n\n\n\n\u30b7\u30a7\u30eb\u4e0a\u3067\u4f7f\u3046\u3082\u306e\u306e\u30e1\u30e2\n\n\n\u30b7\u30a7\u30eb\u306e\u7a2e\u985e\u306f\u57fa\u672c\u7684\u306b bash \u306e\u3082\u306e\u306e\u306f\u305a\n\n\n\u6c17\u306b\u3057\u3066\u30e1\u30e2\u3068\u3063\u3066\u3044\u306a\u3044\u306e\u3067\u8aa4\u308a\u304c\u3042\u308b\u304b\u3082\n\n\n\n\n# \u73fe\u5728\u306e\u30b7\u30a7\u30eb\necho $SHELL\n\n\n\n\n\u30d5\u30a1\u30a4\u30eb\u3092\u7a7a\u306b\u3059\u308b\u64cd\u4f5c\u3042\u308c\u3053\u308c\nLink\n\n\n# zsh \u5411\u3051\n : \n file\n\n# bash \u5411\u3051\n\n file\n\n# \u30b7\u30a7\u30eb\u306b\u3088\u3089\u306a\u3044\uff08\u306f\u305a\uff09\ncp /dev/null file\necho -n \n file\ncat \n file  \u306e\u3042\u3068 CTRL+C\n\n\n\n\n\u30e1\u30e2\nLink\n\n\n\n\nbash/zsh\u3067source\u3055\u308c\u305f\u30b9\u30af\u30ea\u30d7\u30c8\u5185\u3067\u3001\u30d5\u30a1\u30a4\u30eb\u81ea\u8eab\u306e\u7d76\u5bfe\u30d1\u30b9\u3092\u3068\u308b\u30b7\u30f3\u30d7\u30eb\u306a\u8a18\u6cd5 - Qiita\n\n\n\n\nSCRIPT_DIR=$(cd $(dirname ${BASH_SOURCE:-$0}); pwd)\n\n\n\n\n\n\n\u30b7\u30a7\u30eb\u3067 substr \u3063\u307d\u3044\u306e\n\n\n\n\nstr=\n0123456789\n\necho ${str:0:3}  # 012\necho ${str:1:3}  # 123\necho ${str:0:-2}  # 01234567 \u672b\u5c3e\u304b\u30892\u6587\u5b57\u6d88\u3059\n\n\n\n\n\n\n\u30b7\u30a7\u30eb\u3067\u30b7\u30f3\u30b0\u30eb\u30af\u30a9\u30fc\u30c8\u3092\u30a8\u30b9\u30b1\u30fc\u30d7\n\n\n\n\n# \n123\n + \\\n + \n45\n \u3068\u3044\u3046\u3053\u3068\n$ echo \n123\n\\\n45\n\n123\n45\n\n\n\n\n\n\n\n\n\u30b7\u30a7\u30eb\u3067\u30c7\u30d5\u30a9\u30eb\u30c8\u5024\n\n\n\n\n\n\n${var:+val}\n \u4e2d\u8eab\u304c\u3042\u308b\u306a\u3089\u4ee3\u66ff\u5024\n\n\n\n\n${var+val}\n \u5b9a\u7fa9\u3055\u308c\u3066\u3044\u308b\u306a\u3089\u4ee3\u66ff\u5024\n\n\n${var:-val}\n \u4e2d\u8eab\u304c\u306a\u3044\u306a\u3089\u4ee3\u66ff\u5024\n\n\n\n\n${var-val}\n \u5b9a\u7fa9\u3055\u308c\u3066\u3044\u306a\u3044\u306a\u3089\u4ee3\u66ff\u5024\n\n\n\n\n\n\n\u8907\u6570\u306e\u30d5\u30a1\u30a4\u30eb\u3092 sed \u3067\u7f6e\u63db\n\n\n\n\n\n\ngrep -l \n\u7f6e\u63db\u5bfe\u8c61\u306e\u6587\u5b57\u5217\n \u5bfe\u8c61\u306e\u30d5\u30a1\u30a4\u30eb | xargs sed -i .bak -e \ns/\u7f6e\u63db\u5bfe\u8c61/\u7f6e\u63db\u5f8c/g\n\n\n-i \n \u3067\u30d0\u30c3\u30af\u30a2\u30c3\u30d7\u3092\u4f5c\u3089\u306a\u3044\u3088\u3046\u306b\u6307\u5b9a\u3067\u304d\u308b", 
+            "title": "Shell"
+        }, 
+        {
+            "location": "/linux/shell/#shell", 
+            "text": "\u30b7\u30a7\u30eb\u4e0a\u3067\u4f7f\u3046\u3082\u306e\u306e\u30e1\u30e2  \u30b7\u30a7\u30eb\u306e\u7a2e\u985e\u306f\u57fa\u672c\u7684\u306b bash \u306e\u3082\u306e\u306e\u306f\u305a  \u6c17\u306b\u3057\u3066\u30e1\u30e2\u3068\u3063\u3066\u3044\u306a\u3044\u306e\u3067\u8aa4\u308a\u304c\u3042\u308b\u304b\u3082   # \u73fe\u5728\u306e\u30b7\u30a7\u30eb\necho $SHELL", 
+            "title": "Shell"
+        }, 
+        {
+            "location": "/linux/shell/#_1", 
+            "text": "# zsh \u5411\u3051\n :   file\n\n# bash \u5411\u3051  file\n\n# \u30b7\u30a7\u30eb\u306b\u3088\u3089\u306a\u3044\uff08\u306f\u305a\uff09\ncp /dev/null file\necho -n   file\ncat   file  \u306e\u3042\u3068 CTRL+C", 
+            "title": "\u30d5\u30a1\u30a4\u30eb\u3092\u7a7a\u306b\u3059\u308b\u64cd\u4f5c\u3042\u308c\u3053\u308c"
+        }, 
+        {
+            "location": "/linux/shell/#_2", 
+            "text": "bash/zsh\u3067source\u3055\u308c\u305f\u30b9\u30af\u30ea\u30d7\u30c8\u5185\u3067\u3001\u30d5\u30a1\u30a4\u30eb\u81ea\u8eab\u306e\u7d76\u5bfe\u30d1\u30b9\u3092\u3068\u308b\u30b7\u30f3\u30d7\u30eb\u306a\u8a18\u6cd5 - Qiita   SCRIPT_DIR=$(cd $(dirname ${BASH_SOURCE:-$0}); pwd)   \u30b7\u30a7\u30eb\u3067 substr \u3063\u307d\u3044\u306e   str= 0123456789 \necho ${str:0:3}  # 012\necho ${str:1:3}  # 123\necho ${str:0:-2}  # 01234567 \u672b\u5c3e\u304b\u30892\u6587\u5b57\u6d88\u3059   \u30b7\u30a7\u30eb\u3067\u30b7\u30f3\u30b0\u30eb\u30af\u30a9\u30fc\u30c8\u3092\u30a8\u30b9\u30b1\u30fc\u30d7   #  123  + \\  +  45  \u3068\u3044\u3046\u3053\u3068\n$ echo  123 \\ 45 \n123 45    \u30b7\u30a7\u30eb\u3067\u30c7\u30d5\u30a9\u30eb\u30c8\u5024    ${var:+val}  \u4e2d\u8eab\u304c\u3042\u308b\u306a\u3089\u4ee3\u66ff\u5024   ${var+val}  \u5b9a\u7fa9\u3055\u308c\u3066\u3044\u308b\u306a\u3089\u4ee3\u66ff\u5024  ${var:-val}  \u4e2d\u8eab\u304c\u306a\u3044\u306a\u3089\u4ee3\u66ff\u5024   ${var-val}  \u5b9a\u7fa9\u3055\u308c\u3066\u3044\u306a\u3044\u306a\u3089\u4ee3\u66ff\u5024    \u8907\u6570\u306e\u30d5\u30a1\u30a4\u30eb\u3092 sed \u3067\u7f6e\u63db    grep -l  \u7f6e\u63db\u5bfe\u8c61\u306e\u6587\u5b57\u5217  \u5bfe\u8c61\u306e\u30d5\u30a1\u30a4\u30eb | xargs sed -i .bak -e  s/\u7f6e\u63db\u5bfe\u8c61/\u7f6e\u63db\u5f8c/g \n\n-i   \u3067\u30d0\u30c3\u30af\u30a2\u30c3\u30d7\u3092\u4f5c\u3089\u306a\u3044\u3088\u3046\u306b\u6307\u5b9a\u3067\u304d\u308b", 
+            "title": "\u30e1\u30e2"
+        }, 
+        {
+            "location": "/linux/system_check/", 
+            "text": "System check\nLink\n\n\nshort\nLink\n\n\n# \u30db\u30b9\u30c8\u540d\nhostname\n\n# \u30b7\u30b9\u30c6\u30e0\nuname -a\n\n# \u30e1\u30c3\u30bb\u30fc\u30b8\u30d0\u30c3\u30d5\u30a1\u306e\u5185\u5bb9\ndmesg | tail\n\n# \u4eee\u60f3\u30e1\u30e2\u30ea\u306e\u7d71\u8a08\nvmstat 1\n\n# CPU\u6bce\u306e\u4f7f\u7528\u72b6\u6cc1\nmpstat -P ALL 1\n\n# \u30d7\u30ed\u30bb\u30b9\u6bce\u306e\u30ea\u30bd\u30fc\u30b9\u4f7f\u7528\u72b6\u6cc1\npidstat 1\n\n# I/O\u7d71\u8a08\niostat -xz 1\n\n# \u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u30c8\u30e9\u30d5\u30a3\u30c3\u30af\nsar -n DEV 1\nsar -n TCP,ETCP 1\n\n# \u30bf\u30b9\u30af\ntop\n\n## \u8d77\u52d5\u3057\u3066\u304b\u3089\u306e\u7d4c\u904e\u6642\u9593\nuptime\n\n## \u30e1\u30e2\u30ea\u78ba\u8a8d\nfree -m\n\n## \u5404\u30d7\u30ed\u30bb\u30b9\u306e\u8a73\u7d30\u306a\u30e1\u30e2\u30ea\u4f7f\u7528\u72b6\u6cc1\npmap -x \nPID\n\n\n## \u30d7\u30ed\u30bb\u30b9\nps -ef\n\n## \u74b0\u5883\u5909\u6570\u3082\u8868\u793a(e)\nps auxfe\n\n## \u30b9\u30ec\u30c3\u30c9\u3082\u8868\u793a\nps -efL\npidstat -p ALL\n\n\n\n\nSystem info\nLink\n\n\n# \u30e1\u30e2\u30ea\u60c5\u5831\ncat /proc/meminfo\n\n# \u30e1\u30e2\u30ea\u65ad\u7247\u5316\ncat /proc/buddyinfo\n(DMA32\u306e\u884c\u306e\u5de6\u304c\u5927\u304d\u304f\u53f3\u304c\u5c0f\u3055\u3044\u3068\u65ad\u7247\u5316\u3057\u3066\u3044\u308b)\n\n# CPU\u60c5\u5831\ncat /proc/cpuinfo\n\n# \u30d0\u30fc\u30b8\u30e7\u30f3\u60c5\u5831\ncat /proc/version\n\n\n\n\nLog\nLink\n\n\n# \u30a8\u30e9\u30fc\u7b49\nsudo cat /var/log/messages\n\n# \u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\nsudo cat /var/log/secure\n\n\n\n\n\u30a4\u30f3\u30bf\u30fc\u30ca\u30eb\u30d7\u30ed\u30bb\u30b9\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3\nLink\n\n\n# \u30b5\u30de\u30ea\nipcs -u\n\n# \u5236\u9650\u8868\u793a\nipcs -l\n\n\n\n\nSecurity\nLink\n\n\n# \u4eca\u8ab0\u304c\u30ed\u30b0\u30a4\u30f3\u3057\u3066\u3044\u308b\u304b\nw\n\n# \u30a2\u30ab\u30a6\u30f3\u30c8\u6bce\u6700\u7d42\u30ed\u30b0\u30a4\u30f3\u65e5\u6642\nlastlog\n\n# \u30ed\u30b0\u30a4\u30f3\u5c65\u6b74\nlast\n\n\n\n\nSoftware\nLink\n\n\n# \u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u6e08\u307f\nrpm -qa | sort\n\n\n\n\nNetwork\nLink\n\n\n# \u73fe\u5728\u306e\u63a5\u7d9a\u72b6\u6cc1\nnetstat -antp\n\n# \u30d1\u30b1\u30c3\u30c8\u30ed\u30b9\u7b49\u304c\u306a\u3044\u304b\nnetstat -s", 
+            "title": "System check"
+        }, 
+        {
+            "location": "/linux/system_check/#system-check", 
+            "text": "", 
+            "title": "System check"
+        }, 
+        {
+            "location": "/linux/system_check/#short", 
+            "text": "# \u30db\u30b9\u30c8\u540d\nhostname\n\n# \u30b7\u30b9\u30c6\u30e0\nuname -a\n\n# \u30e1\u30c3\u30bb\u30fc\u30b8\u30d0\u30c3\u30d5\u30a1\u306e\u5185\u5bb9\ndmesg | tail\n\n# \u4eee\u60f3\u30e1\u30e2\u30ea\u306e\u7d71\u8a08\nvmstat 1\n\n# CPU\u6bce\u306e\u4f7f\u7528\u72b6\u6cc1\nmpstat -P ALL 1\n\n# \u30d7\u30ed\u30bb\u30b9\u6bce\u306e\u30ea\u30bd\u30fc\u30b9\u4f7f\u7528\u72b6\u6cc1\npidstat 1\n\n# I/O\u7d71\u8a08\niostat -xz 1\n\n# \u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u30c8\u30e9\u30d5\u30a3\u30c3\u30af\nsar -n DEV 1\nsar -n TCP,ETCP 1\n\n# \u30bf\u30b9\u30af\ntop\n\n## \u8d77\u52d5\u3057\u3066\u304b\u3089\u306e\u7d4c\u904e\u6642\u9593\nuptime\n\n## \u30e1\u30e2\u30ea\u78ba\u8a8d\nfree -m\n\n## \u5404\u30d7\u30ed\u30bb\u30b9\u306e\u8a73\u7d30\u306a\u30e1\u30e2\u30ea\u4f7f\u7528\u72b6\u6cc1\npmap -x  PID \n\n## \u30d7\u30ed\u30bb\u30b9\nps -ef\n\n## \u74b0\u5883\u5909\u6570\u3082\u8868\u793a(e)\nps auxfe\n\n## \u30b9\u30ec\u30c3\u30c9\u3082\u8868\u793a\nps -efL\npidstat -p ALL", 
+            "title": "short"
+        }, 
+        {
+            "location": "/linux/system_check/#system-info", 
+            "text": "# \u30e1\u30e2\u30ea\u60c5\u5831\ncat /proc/meminfo\n\n# \u30e1\u30e2\u30ea\u65ad\u7247\u5316\ncat /proc/buddyinfo\n(DMA32\u306e\u884c\u306e\u5de6\u304c\u5927\u304d\u304f\u53f3\u304c\u5c0f\u3055\u3044\u3068\u65ad\u7247\u5316\u3057\u3066\u3044\u308b)\n\n# CPU\u60c5\u5831\ncat /proc/cpuinfo\n\n# \u30d0\u30fc\u30b8\u30e7\u30f3\u60c5\u5831\ncat /proc/version", 
+            "title": "System info"
+        }, 
+        {
+            "location": "/linux/system_check/#log", 
+            "text": "# \u30a8\u30e9\u30fc\u7b49\nsudo cat /var/log/messages\n\n# \u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\nsudo cat /var/log/secure", 
+            "title": "Log"
+        }, 
+        {
+            "location": "/linux/system_check/#_1", 
+            "text": "# \u30b5\u30de\u30ea\nipcs -u\n\n# \u5236\u9650\u8868\u793a\nipcs -l", 
+            "title": "\u30a4\u30f3\u30bf\u30fc\u30ca\u30eb\u30d7\u30ed\u30bb\u30b9\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3"
+        }, 
+        {
+            "location": "/linux/system_check/#security", 
+            "text": "# \u4eca\u8ab0\u304c\u30ed\u30b0\u30a4\u30f3\u3057\u3066\u3044\u308b\u304b\nw\n\n# \u30a2\u30ab\u30a6\u30f3\u30c8\u6bce\u6700\u7d42\u30ed\u30b0\u30a4\u30f3\u65e5\u6642\nlastlog\n\n# \u30ed\u30b0\u30a4\u30f3\u5c65\u6b74\nlast", 
+            "title": "Security"
+        }, 
+        {
+            "location": "/linux/system_check/#software", 
+            "text": "# \u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u6e08\u307f\nrpm -qa | sort", 
+            "title": "Software"
+        }, 
+        {
+            "location": "/linux/system_check/#network", 
+            "text": "# \u73fe\u5728\u306e\u63a5\u7d9a\u72b6\u6cc1\nnetstat -antp\n\n# \u30d1\u30b1\u30c3\u30c8\u30ed\u30b9\u7b49\u304c\u306a\u3044\u304b\nnetstat -s", 
+            "title": "Network"
+        }, 
+        {
+            "location": "/linux/command/at/", 
+            "text": "at\nLink\n\n\n\u6307\u5b9a\u6642\u9593\u306b\uff11\u56de\u3060\u3051\u5b9f\u884c\n\n\nsee \nat\u30b3\u30de\u30f3\u30c9\u306b\u3064\u3044\u3066\u8a73\u3057\u304f\u307e\u3068\u3081\u307e\u3057\u305f \u3010Linux\u30b3\u30de\u30f3\u30c9\u96c6\u3011\n\n\n# service atd start\nat hh:mm\n\u30b3\u30de\u30f3\u30c9\u5165\u308c\u308b\nCTRL+D\n\n# \u30b9\u30b1\u30b8\u30e5\u30fc\u30eb\u3055\u308c\u305f\u30b8\u30e7\u30d6\u306e\u30ea\u30b9\u30c8\natq\n\n# XX\u756a\u306e\u30b9\u30b1\u30b8\u30e5\u30fc\u30eb\u306e\u8a73\u7d30\nat -c XX\n\n# XX \u756a\u306e\u30b9\u30b1\u30b8\u30e5\u30fc\u30eb\u306e\u524a\u9664\natrm XX\n\n# 12\u6642\u9593\uff08720min\uff09\u5f8c\u306b\u518d\u8d77\u52d5\necho \nshutdown -r now\n | at now + 720 minutes", 
+            "title": "at"
+        }, 
+        {
+            "location": "/linux/command/at/#at", 
+            "text": "\u6307\u5b9a\u6642\u9593\u306b\uff11\u56de\u3060\u3051\u5b9f\u884c  see  at\u30b3\u30de\u30f3\u30c9\u306b\u3064\u3044\u3066\u8a73\u3057\u304f\u307e\u3068\u3081\u307e\u3057\u305f \u3010Linux\u30b3\u30de\u30f3\u30c9\u96c6\u3011  # service atd start\nat hh:mm\n\u30b3\u30de\u30f3\u30c9\u5165\u308c\u308b\nCTRL+D\n\n# \u30b9\u30b1\u30b8\u30e5\u30fc\u30eb\u3055\u308c\u305f\u30b8\u30e7\u30d6\u306e\u30ea\u30b9\u30c8\natq\n\n# XX\u756a\u306e\u30b9\u30b1\u30b8\u30e5\u30fc\u30eb\u306e\u8a73\u7d30\nat -c XX\n\n# XX \u756a\u306e\u30b9\u30b1\u30b8\u30e5\u30fc\u30eb\u306e\u524a\u9664\natrm XX\n\n# 12\u6642\u9593\uff08720min\uff09\u5f8c\u306b\u518d\u8d77\u52d5\necho  shutdown -r now  | at now + 720 minutes", 
+            "title": "at"
+        }, 
+        {
+            "location": "/linux/command/awk/", 
+            "text": "awk\nLink\n\n\nExamples\nLink\n\n\n# multi separator []\nawk -F \n[,:]\n \n{print $2, $3}\n \n\n# Last column $NF\nawk \n{print $NF}\n\nawk \n{print $(NF-1)}\n\n\n# If else \nawk \n{if($3==200) ok++; else ng++}; END {print ok; print ng}\n\n\n# If\nawk \n$(NF-1) \n= 30.0 { print $0 }\n\nawk \n{if($1==A || $2==B) print}\n\nawk \n{if($1==A \n $2==B) print}\n\n\n\n# \u30ef\u30f3\u30e9\u30a4\u30ca\u30fc\ngrep FROM mysql.slow.log | awk \n{ print $2 }\n | sort -n | uniq -c | sort -r | head\n\ngrep \n 12:30:\n sql.log | awk \n{if ($(NF-1) \n 0.2) print }\n | head", 
+            "title": "awk"
+        }, 
+        {
+            "location": "/linux/command/awk/#awk", 
+            "text": "", 
+            "title": "awk"
+        }, 
+        {
+            "location": "/linux/command/awk/#examples", 
+            "text": "# multi separator []\nawk -F  [,:]   {print $2, $3}  \n\n# Last column $NF\nawk  {print $NF} \nawk  {print $(NF-1)} \n\n# If else \nawk  {if($3==200) ok++; else ng++}; END {print ok; print ng} \n\n# If\nawk  $(NF-1)  = 30.0 { print $0 } \nawk  {if($1==A || $2==B) print} \nawk  {if($1==A   $2==B) print} \n\n\n# \u30ef\u30f3\u30e9\u30a4\u30ca\u30fc\ngrep FROM mysql.slow.log | awk  { print $2 }  | sort -n | uniq -c | sort -r | head\n\ngrep   12:30:  sql.log | awk  {if ($(NF-1)   0.2) print }  | head", 
+            "title": "Examples"
+        }, 
+        {
+            "location": "/linux/command/du/", 
+            "text": "du\nLink\n\n\n# \u6240\u5b9a\u306e\u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u306e\u30b5\u30a4\u30ba\u30c1\u30a7\u30c3\u30af\ndu | sort -nr | head\ndu -s DIR\n\n# \u30ab\u30ec\u30f3\u30c8\u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u4ee5\u4e0b\u306e\u5bb9\u91cf\ndu -s *\n\n# \u30ab\u30ec\u30f3\u30c8\u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u4ee5\u4e0b\u30d5\u30a1\u30a4\u30eb\u306e\u5927\u304d\u3044\u9806\ndu -s * | sort -nr | head -10", 
+            "title": "du"
+        }, 
+        {
+            "location": "/linux/command/du/#du", 
+            "text": "# \u6240\u5b9a\u306e\u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u306e\u30b5\u30a4\u30ba\u30c1\u30a7\u30c3\u30af\ndu | sort -nr | head\ndu -s DIR\n\n# \u30ab\u30ec\u30f3\u30c8\u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u4ee5\u4e0b\u306e\u5bb9\u91cf\ndu -s *\n\n# \u30ab\u30ec\u30f3\u30c8\u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u4ee5\u4e0b\u30d5\u30a1\u30a4\u30eb\u306e\u5927\u304d\u3044\u9806\ndu -s * | sort -nr | head -10", 
+            "title": "du"
+        }, 
+        {
+            "location": "/linux/command/find/", 
+            "text": "find\nLink\n\n\nExamples\nLink\n\n\n# \u30ab\u30ec\u30f3\u30c8\u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u4ee5\u4e0b\u3067\u30d5\u30a1\u30a4\u30eb\u30b5\u30a4\u30ba\u304c1MB\u4ee5\u4e0a\u306e\u30d5\u30a1\u30a4\u30eb\u3092ls\u5f62\u5f0f\u3067\u8868\u793a\nfind . -size +1M -ls\n\n# \u671f\u9593\u6307\u5b9a \nfind . -mtime -14 -mtime +7 -ls\n\n# \u6700\u8fd1\u66f4\u65b0\u3057\u305f\u30d5\u30a1\u30a4\u30eb\nfind . -mmin -30 -ls\n\n# .git \u3092\u307e\u3068\u3081\u3066\u524a\u9664\nfind . -name .git -exec rm -rf {} \\;\n\n# \u30b7\u30f3\u30dc\u30ea\u30c3\u30af\u30ea\u30f3\u30af\u3092\u63a2\u3059\nfind . -type l -exec ls -l {} \\;\n\n# \u6b63\u898f\u8868\u73fe\u3092\u4f7f\u3063\u3066\u62e1\u5f35\u5b50\u306e\u7570\u306a\u308b\u30d5\u30a1\u30a4\u30eb\u3092\u63a2\u3059\nfind -regextype posix-egrep -regex \n.*\\.(php|tpl)\n -ls\n\n# \u6587\u5b57\u5217\u304c\u542b\u307e\u308c\u305f\u30d5\u30a1\u30a4\u30eb\u3092\u63a2\u3059\nfind . -name \n*.php\n | xargs grep \nsearch\n\ngrep \nsearch\n -rl .\n\n# \u305f\u304f\u3055\u3093\u306e\u30d5\u30a1\u30a4\u30eb\u3092\u524a\u9664\nfind /var/log/ -maxdepth 1 -type f -print0 | xargs -0 rm -f", 
+            "title": "find"
+        }, 
+        {
+            "location": "/linux/command/find/#find", 
+            "text": "", 
+            "title": "find"
+        }, 
+        {
+            "location": "/linux/command/find/#examples", 
+            "text": "# \u30ab\u30ec\u30f3\u30c8\u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u4ee5\u4e0b\u3067\u30d5\u30a1\u30a4\u30eb\u30b5\u30a4\u30ba\u304c1MB\u4ee5\u4e0a\u306e\u30d5\u30a1\u30a4\u30eb\u3092ls\u5f62\u5f0f\u3067\u8868\u793a\nfind . -size +1M -ls\n\n# \u671f\u9593\u6307\u5b9a \nfind . -mtime -14 -mtime +7 -ls\n\n# \u6700\u8fd1\u66f4\u65b0\u3057\u305f\u30d5\u30a1\u30a4\u30eb\nfind . -mmin -30 -ls\n\n# .git \u3092\u307e\u3068\u3081\u3066\u524a\u9664\nfind . -name .git -exec rm -rf {} \\;\n\n# \u30b7\u30f3\u30dc\u30ea\u30c3\u30af\u30ea\u30f3\u30af\u3092\u63a2\u3059\nfind . -type l -exec ls -l {} \\;\n\n# \u6b63\u898f\u8868\u73fe\u3092\u4f7f\u3063\u3066\u62e1\u5f35\u5b50\u306e\u7570\u306a\u308b\u30d5\u30a1\u30a4\u30eb\u3092\u63a2\u3059\nfind -regextype posix-egrep -regex  .*\\.(php|tpl)  -ls\n\n# \u6587\u5b57\u5217\u304c\u542b\u307e\u308c\u305f\u30d5\u30a1\u30a4\u30eb\u3092\u63a2\u3059\nfind . -name  *.php  | xargs grep  search \ngrep  search  -rl .\n\n# \u305f\u304f\u3055\u3093\u306e\u30d5\u30a1\u30a4\u30eb\u3092\u524a\u9664\nfind /var/log/ -maxdepth 1 -type f -print0 | xargs -0 rm -f", 
+            "title": "Examples"
+        }, 
+        {
+            "location": "/linux/command/grep/", 
+            "text": "grep\nLink\n\n\n# TAB \u3092grep\ngrep $\n\\t\n\n\n# \u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u4ee5\u4e0b\u518d\u5e30\ngrep -r hoge dir\n\n# \u524d\uff13\u884c\ngrep -A 3\n\n# \u5f8c\uff13\u884c\ngrep -B 3\n\n# \u524d\u5f8c\uff13\u884c\ngrep -3", 
+            "title": "grep"
+        }, 
+        {
+            "location": "/linux/command/grep/#grep", 
+            "text": "# TAB \u3092grep\ngrep $ \\t \n\n# \u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u4ee5\u4e0b\u518d\u5e30\ngrep -r hoge dir\n\n# \u524d\uff13\u884c\ngrep -A 3\n\n# \u5f8c\uff13\u884c\ngrep -B 3\n\n# \u524d\u5f8c\uff13\u884c\ngrep -3", 
+            "title": "grep"
+        }, 
+        {
+            "location": "/linux/command/mkpasswd/", 
+            "text": "mkpasswd\nLink\n\n\n\u30d1\u30b9\u30ef\u30fc\u30c9\u3092\u751f\u6210\u3059\u308b\n\n\nmkpasswd -l 10 -s 0 -2\n\n-l \u9577\u3055(9)\n-s \u8a18\u53f7\u306e\u6570(1)\n-d \u6570\u5b57\u306e\u6570(2)\n-c \u5c0f\u6587\u5b57\u306e\u6570(2)\n-C \u5927\u6587\u5b57\u306e\u6570(2)\n-2\uff08\u5de6\u53f3\u4ea4\u4e92\u5165\u529b\u306b\u3059\u308b\uff09\n\nalias \u3057\u3066\u304a\u304f\u3068\u4fbf\u5229", 
+            "title": "mkpasswd"
+        }, 
+        {
+            "location": "/linux/command/mkpasswd/#mkpasswd", 
+            "text": "\u30d1\u30b9\u30ef\u30fc\u30c9\u3092\u751f\u6210\u3059\u308b  mkpasswd -l 10 -s 0 -2\n\n-l \u9577\u3055(9)\n-s \u8a18\u53f7\u306e\u6570(1)\n-d \u6570\u5b57\u306e\u6570(2)\n-c \u5c0f\u6587\u5b57\u306e\u6570(2)\n-C \u5927\u6587\u5b57\u306e\u6570(2)\n-2\uff08\u5de6\u53f3\u4ea4\u4e92\u5165\u529b\u306b\u3059\u308b\uff09\n\nalias \u3057\u3066\u304a\u304f\u3068\u4fbf\u5229", 
+            "title": "mkpasswd"
+        }, 
+        {
+            "location": "/linux/command/patch/", 
+            "text": "patch\nLink\n\n\npatch \u306e\u4f5c\u308a\u65b9\u3068\u5f53\u3066\u65b9\n\n\n# short\ndiff -u BASE NEW \n PATCH\npatch -u \n PATCH\n\n\n## \u30d1\u30c3\u30c1\u3092\u4f5c\u308b\ndiff -u main.c.orig main.c \n main.patch\n\n## \u30d1\u30c3\u30c1\u3092\u3042\u3066\u308b\npatch \n main.patch\n\n## \u30ea\u30d0\u30fc\u30b9\uff08\u623b\u3059\uff09\npatch -R \n main.patch", 
+            "title": "patch"
+        }, 
+        {
+            "location": "/linux/command/patch/#patch", 
+            "text": "patch \u306e\u4f5c\u308a\u65b9\u3068\u5f53\u3066\u65b9  # short\ndiff -u BASE NEW   PATCH\npatch -u   PATCH\n\n\n## \u30d1\u30c3\u30c1\u3092\u4f5c\u308b\ndiff -u main.c.orig main.c   main.patch\n\n## \u30d1\u30c3\u30c1\u3092\u3042\u3066\u308b\npatch   main.patch\n\n## \u30ea\u30d0\u30fc\u30b9\uff08\u623b\u3059\uff09\npatch -R   main.patch", 
+            "title": "patch"
+        }, 
+        {
+            "location": "/linux/command/sar/", 
+            "text": "sar\nLink\n\n\n\u30b7\u30b9\u30c6\u30e0\u30a2\u30af\u30c6\u30a3\u30d3\u30c6\u30a3\u306e\u53ce\u96c6\u3001\u5831\u544a\u3001\u4fdd\u7ba1\n\n\nsee \nIBM Knowledge Center - sar \u30b3\u30de\u30f3\u30c9\n\n\nsee \nsar\u30b3\u30de\u30f3\u30c9\u306e\u4f7f\u3044\u65b9 - Qiita\n\n\nsysstat \u3092\u30d1\u30c3\u30b1\u30fc\u30b8\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3057\u3066\u5e38\u6642\u8d77\u52d5\u306b\u3057\u3066\u304a\u3051\u3070\u3072\u3068\u307e\u305a\u5b89\u5fc3\n\n\n# 16\u65e5\u306e10\u6642\u304b\u308913\u6642\u306eCPU\u72b6\u6cc1\nsar -P ALL -s 10:00:00 -e 13:00:00 -f /var/log/sa/sa16", 
+            "title": "sar"
+        }, 
+        {
+            "location": "/linux/command/sar/#sar", 
+            "text": "\u30b7\u30b9\u30c6\u30e0\u30a2\u30af\u30c6\u30a3\u30d3\u30c6\u30a3\u306e\u53ce\u96c6\u3001\u5831\u544a\u3001\u4fdd\u7ba1  see  IBM Knowledge Center - sar \u30b3\u30de\u30f3\u30c9  see  sar\u30b3\u30de\u30f3\u30c9\u306e\u4f7f\u3044\u65b9 - Qiita  sysstat \u3092\u30d1\u30c3\u30b1\u30fc\u30b8\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3057\u3066\u5e38\u6642\u8d77\u52d5\u306b\u3057\u3066\u304a\u3051\u3070\u3072\u3068\u307e\u305a\u5b89\u5fc3  # 16\u65e5\u306e10\u6642\u304b\u308913\u6642\u306eCPU\u72b6\u6cc1\nsar -P ALL -s 10:00:00 -e 13:00:00 -f /var/log/sa/sa16", 
+            "title": "sar"
+        }, 
+        {
+            "location": "/linux/command/sed/", 
+            "text": "sed\nLink\n\n\nExamples\nLink\n\n\ngrep -l \n\u7f6e\u63db\u5bfe\u8c61\n ./* | xargs sed -i.bak -e \ns/\u7f6e\u63db\u5bfe\u8c61/\u7f6e\u63db\u5f8c/g\n\n\n# \u30d5\u30a1\u30a4\u30eb\u540d\u3092\u307e\u3068\u3081\u3066\u7f6e\u63db\uff08p\u30671\u3064\u3001;\u306e\u5f8c\u308d\u3067\u7f6e\u63db\u3057\u30661\u3064\u51fa\u529b\u3057\u3066\u3001xargs\u30672\u3064\u305a\u3064\u4f7f\u3046\uff09\nfind ./ -type f | sed \np;s/aaa/bbb/\n | xargs -n2 mv", 
+            "title": "sed"
+        }, 
+        {
+            "location": "/linux/command/sed/#sed", 
+            "text": "", 
+            "title": "sed"
+        }, 
+        {
+            "location": "/linux/command/sed/#examples", 
+            "text": "grep -l  \u7f6e\u63db\u5bfe\u8c61  ./* | xargs sed -i.bak -e  s/\u7f6e\u63db\u5bfe\u8c61/\u7f6e\u63db\u5f8c/g \n\n# \u30d5\u30a1\u30a4\u30eb\u540d\u3092\u307e\u3068\u3081\u3066\u7f6e\u63db\uff08p\u30671\u3064\u3001;\u306e\u5f8c\u308d\u3067\u7f6e\u63db\u3057\u30661\u3064\u51fa\u529b\u3057\u3066\u3001xargs\u30672\u3064\u305a\u3064\u4f7f\u3046\uff09\nfind ./ -type f | sed  p;s/aaa/bbb/  | xargs -n2 mv", 
+            "title": "Examples"
+        }, 
+        {
+            "location": "/shortcode/note/", 
+            "text": "short code\nLink\n\n\n\u5c0f\u30cd\u30bf\u96c6\u7684\u306a\n\n\n\u884c\u304d\u5834\u304c\u3067\u304d\u305f\u3089\u5f8c\u3067\u79fb\u52d5\u3059\u308b\n\n\n\u30e1\u30e2\u30ea\nLink\n\n\n# \u30ea\u30a2\u30eb\u30bf\u30a4\u30e0\u30c1\u30a7\u30c3\u30af\nvmstat -SM 1\nfree -m\n\n# \u30e1\u30e2\u30ea\u30af\u30ea\u30a2\necho 1 \n /proc/sys/vm/drop_caches\n# \u3084\u3063\u305f\u3089\u623b\u3059\necho 0 \n /proc/sys/vm/drop_caches\n# \u307e\u305f\u306f\nsudo sysctl -w vm.drop_caches=3\n\n# swap\u3092\u30af\u30ea\u30a2\uff08\u5b9f\u30e1\u30e2\u30ea\u306b\u6ce8\u610f\uff09\nsudo swapoff -a \n sudo swapon -a\n\n\n\n\n\u65e5\u4ed8\nLink\n\n\n# \u30bf\u30a4\u30e0\u30b9\u30bf\u30f3\u30d7\u3092\u5f97\u308b\ndate +%s\ndate -d \n2018-1-11 0:00:00\n +%s\n\n# \u30bf\u30a4\u30e0\u30b9\u30bf\u30f3\u30d7\u304b\u3089\u65e5\u6642\u3092\u5f97\u308b\ndate --date \n@1429151640\n\n\n\n\n\n#!/bin/bash\n\n# \u51e6\u7406\u6642\u9593\u8a08\u6e2c\u7528\u958b\u59cb\u6642\u523b\nST=`date +%s`\n\n# \u30c6\u30b9\u30c8\u7528\u306b\u5dfb\u304d\u623b\u3057\nST=`expr ${ST} - 3666`\n\n# \u3053\u3053\u306b\u51e6\u7406\n\n# \u51e6\u7406\u6642\u9593\u8a08\u6e2c\u7528\u7d42\u4e86\u6642\u523b\nET=`date +%s`\nSS=`expr ${ET} - ${ST}`\nHH=`expr ${SS} / 3600`\nSS=`expr ${SS} % 3600`\nMM=`expr ${SS} / 60`\nSS=`expr ${SS} % 60`\n# \u51e6\u7406\u6642\u9593\necho   \nStart date:\n `date \n+%Y/%m/%d %H:%M:%S\n --date \n@${ST}\n`\necho   \n End  date:\n `date \n+%Y/%m/%d %H:%M:%S\n --date \n@${ET}\n`\nprintf \nTotal time:            %02d:%02d:%02d\\n\n ${HH} ${MM} ${SS}\n\n\n\n\n\u30e6\u30fc\u30b6\nLink\n\n\n# \u8ffd\u52a0\nuseradd\n# \u524a\u9664\nuserdel\n# \u30d1\u30b9\u30ef\u30fc\u30c9\u3092\u524a\u9664\npasswd -d USER\n\n# \u30b0\u30eb\u30fc\u30d7\u306b\u8ffd\u52a0\nusermod -aG GROUP USER\n# \u30b0\u30eb\u30fc\u30d7\u304b\u3089\u524a\u9664\ngpasswd -d USER GROUP\n\n\n\n\n\u30c0\u30df\u30fc\u30d5\u30a1\u30a4\u30eb\u751f\u6210\nLink\n\n\n# \u4e00\u822c\u7684\ndd if=/dev/zero    of=/dev/null bs=1024 count=1000000\n# \u9045\u3044\ndd if=/dev/random  of=/dev/null bs=1 count=1000000\n# \u901f\u3044\ndd if=/dev/urandom of=/dev/null bs=1 count=1000000\n\n\n\n\nwatch curl\nLink\n\n\nwatch -n 1 curl http://example.com/ -s", 
+            "title": "short code"
+        }, 
+        {
+            "location": "/shortcode/note/#short-code", 
+            "text": "\u5c0f\u30cd\u30bf\u96c6\u7684\u306a  \u884c\u304d\u5834\u304c\u3067\u304d\u305f\u3089\u5f8c\u3067\u79fb\u52d5\u3059\u308b", 
+            "title": "short code"
+        }, 
+        {
+            "location": "/shortcode/note/#_1", 
+            "text": "# \u30ea\u30a2\u30eb\u30bf\u30a4\u30e0\u30c1\u30a7\u30c3\u30af\nvmstat -SM 1\nfree -m\n\n# \u30e1\u30e2\u30ea\u30af\u30ea\u30a2\necho 1   /proc/sys/vm/drop_caches\n# \u3084\u3063\u305f\u3089\u623b\u3059\necho 0   /proc/sys/vm/drop_caches\n# \u307e\u305f\u306f\nsudo sysctl -w vm.drop_caches=3\n\n# swap\u3092\u30af\u30ea\u30a2\uff08\u5b9f\u30e1\u30e2\u30ea\u306b\u6ce8\u610f\uff09\nsudo swapoff -a   sudo swapon -a", 
+            "title": "\u30e1\u30e2\u30ea"
+        }, 
+        {
+            "location": "/shortcode/note/#_2", 
+            "text": "# \u30bf\u30a4\u30e0\u30b9\u30bf\u30f3\u30d7\u3092\u5f97\u308b\ndate +%s\ndate -d  2018-1-11 0:00:00  +%s\n\n# \u30bf\u30a4\u30e0\u30b9\u30bf\u30f3\u30d7\u304b\u3089\u65e5\u6642\u3092\u5f97\u308b\ndate --date  @1429151640   #!/bin/bash\n\n# \u51e6\u7406\u6642\u9593\u8a08\u6e2c\u7528\u958b\u59cb\u6642\u523b\nST=`date +%s`\n\n# \u30c6\u30b9\u30c8\u7528\u306b\u5dfb\u304d\u623b\u3057\nST=`expr ${ST} - 3666`\n\n# \u3053\u3053\u306b\u51e6\u7406\n\n# \u51e6\u7406\u6642\u9593\u8a08\u6e2c\u7528\u7d42\u4e86\u6642\u523b\nET=`date +%s`\nSS=`expr ${ET} - ${ST}`\nHH=`expr ${SS} / 3600`\nSS=`expr ${SS} % 3600`\nMM=`expr ${SS} / 60`\nSS=`expr ${SS} % 60`\n# \u51e6\u7406\u6642\u9593\necho    Start date:  `date  +%Y/%m/%d %H:%M:%S  --date  @${ST} `\necho     End  date:  `date  +%Y/%m/%d %H:%M:%S  --date  @${ET} `\nprintf  Total time:            %02d:%02d:%02d\\n  ${HH} ${MM} ${SS}", 
+            "title": "\u65e5\u4ed8"
+        }, 
+        {
+            "location": "/shortcode/note/#_3", 
+            "text": "# \u8ffd\u52a0\nuseradd\n# \u524a\u9664\nuserdel\n# \u30d1\u30b9\u30ef\u30fc\u30c9\u3092\u524a\u9664\npasswd -d USER\n\n# \u30b0\u30eb\u30fc\u30d7\u306b\u8ffd\u52a0\nusermod -aG GROUP USER\n# \u30b0\u30eb\u30fc\u30d7\u304b\u3089\u524a\u9664\ngpasswd -d USER GROUP", 
+            "title": "\u30e6\u30fc\u30b6"
+        }, 
+        {
+            "location": "/shortcode/note/#_4", 
+            "text": "# \u4e00\u822c\u7684\ndd if=/dev/zero    of=/dev/null bs=1024 count=1000000\n# \u9045\u3044\ndd if=/dev/random  of=/dev/null bs=1 count=1000000\n# \u901f\u3044\ndd if=/dev/urandom of=/dev/null bs=1 count=1000000", 
+            "title": "\u30c0\u30df\u30fc\u30d5\u30a1\u30a4\u30eb\u751f\u6210"
+        }, 
+        {
+            "location": "/shortcode/note/#watch-curl", 
+            "text": "watch -n 1 curl http://example.com/ -s", 
+            "title": "watch curl"
+        }, 
+        {
+            "location": "/tools/git/", 
+            "text": "git\nLink\n\n\nconfig\nLink\n\n\ngit config --global user.name \nname\n\ngit config --global user.email \nmail\n\ngit config --global core.autocrlf false\ngit config --global core.excludesfile ~/.gitignore_global\ngit config --global core.pager \nless -R\n\ngit config --global core.quotepath false\ngit config --global color.ui auto\ngit config --global push.default simple\ngit config --global credential.helper cache\n# see http://docs.aws.amazon.com/ja_jp/codecommit/latest/userguide/setting-up-https-windows.html#setting-up-https-windows-credential-helper\ngit config --global credential.helper \n!aws codecommit credential-helper $@\n\ngit config --global credential.UseHttpPath true\n\ngit config -l\ngit config --unset                     # \u8a2d\u5b9a\u3092\u5916\u3059\n\ngit config core.filemode false         # \u6a29\u9650\u5909\u66f4\u3092\u7121\u8996\u3059\u308b\ngit config fetch.prune true            # fetch\u6642\u306b\u5e38\u306bprune\n\n\n\n\nExamples\nLink\n\n\ngit update-index --add --chmod=+x FILE # \u6a29\u9650\u3092\u3064\u3051\u308b\uff08for Win\uff09\n\ngit diff --staged\ngit diff HEAD..origin/master\ngit diff HEAD^ HEAD\n\ngit log -p --ignore-space-change       # ignore \u3055\u308c\u3066\u3044\u308b\u30d5\u30a1\u30a4\u30eb\u3092\u78ba\u8a8d\ngit log --oneline --decorate --graph --branches --tags --remotes\ngit log --graph --date-order --all --pretty=format:\n%h %Cred%d %Cgreen%ad %Cblue%cn %Creset%s\n --date=short\ngit log --graph --all --pretty=format:\n%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)\n%an\n%Creset\n --abbrev-commit --date=relative\n\ngit reset HEAD \nFILE\n    # add \u3092\u306a\u304b\u3063\u305f\u3053\u3068\u306b\u3059\u308b\ngit rm --cached \nFILE\n   # \u307e\u3060\u7ba1\u7406\u4e0b\u306b\u306a\u304b\u3063\u305f\u30d5\u30a1\u30a4\u30eb\u3092add\u3057\u3066\u306a\u3044\u3053\u3068\u306b\u3059\u308b\ngit reset --soft HEAD^   # \u76f4\u524d\u306e\u30b3\u30df\u30c3\u30c8\u3092\u306a\u304b\u3063\u305f\u3053\u3068\u306b\u3059\u308b\uff08\u30ef\u30fc\u30ad\u30f3\u30b0\u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u306f\u305d\u306e\u307e\u307e\uff09\ngit reset --hard HEAD^   # \u540c\u4e0a\uff08\u30ef\u30fc\u30ad\u30f3\u30b0\u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u3082\u304d\u308c\u3044\u306b\uff09\n\ngit commit --allow-empty -m \nresolve #xx\n # \u30d6\u30e9\u30f3\u30c1\u4f5c\u696d\u3067\u7a7a\u30b3\u30df\u30c3\u30c8\u3092\u6253\u3063\u3066 ISSUE \u306b\u7d10\u3065\u3051\u308b\n\n# wip \ngit checkout -b feature/999_xxx\ngit commit --allow-empty -m \n[wip] #999\n\ngit push --set-upstream origin feature/999_xxx\n\n\n\n\nTips\nLink\n\n\ngit log --first-parent --reverse # \u30b3\u30df\u30c3\u30c8\u3092\u6700\u521d\u304b\u3089\u8868\u793a", 
+            "title": "git"
+        }, 
+        {
+            "location": "/tools/git/#git", 
+            "text": "", 
+            "title": "git"
+        }, 
+        {
+            "location": "/tools/git/#config", 
+            "text": "git config --global user.name  name \ngit config --global user.email  mail \ngit config --global core.autocrlf false\ngit config --global core.excludesfile ~/.gitignore_global\ngit config --global core.pager  less -R \ngit config --global core.quotepath false\ngit config --global color.ui auto\ngit config --global push.default simple\ngit config --global credential.helper cache\n# see http://docs.aws.amazon.com/ja_jp/codecommit/latest/userguide/setting-up-https-windows.html#setting-up-https-windows-credential-helper\ngit config --global credential.helper  !aws codecommit credential-helper $@ \ngit config --global credential.UseHttpPath true\n\ngit config -l\ngit config --unset                     # \u8a2d\u5b9a\u3092\u5916\u3059\n\ngit config core.filemode false         # \u6a29\u9650\u5909\u66f4\u3092\u7121\u8996\u3059\u308b\ngit config fetch.prune true            # fetch\u6642\u306b\u5e38\u306bprune", 
+            "title": "config"
+        }, 
+        {
+            "location": "/tools/git/#examples", 
+            "text": "git update-index --add --chmod=+x FILE # \u6a29\u9650\u3092\u3064\u3051\u308b\uff08for Win\uff09\n\ngit diff --staged\ngit diff HEAD..origin/master\ngit diff HEAD^ HEAD\n\ngit log -p --ignore-space-change       # ignore \u3055\u308c\u3066\u3044\u308b\u30d5\u30a1\u30a4\u30eb\u3092\u78ba\u8a8d\ngit log --oneline --decorate --graph --branches --tags --remotes\ngit log --graph --date-order --all --pretty=format: %h %Cred%d %Cgreen%ad %Cblue%cn %Creset%s  --date=short\ngit log --graph --all --pretty=format: %Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue) %an %Creset  --abbrev-commit --date=relative\n\ngit reset HEAD  FILE     # add \u3092\u306a\u304b\u3063\u305f\u3053\u3068\u306b\u3059\u308b\ngit rm --cached  FILE    # \u307e\u3060\u7ba1\u7406\u4e0b\u306b\u306a\u304b\u3063\u305f\u30d5\u30a1\u30a4\u30eb\u3092add\u3057\u3066\u306a\u3044\u3053\u3068\u306b\u3059\u308b\ngit reset --soft HEAD^   # \u76f4\u524d\u306e\u30b3\u30df\u30c3\u30c8\u3092\u306a\u304b\u3063\u305f\u3053\u3068\u306b\u3059\u308b\uff08\u30ef\u30fc\u30ad\u30f3\u30b0\u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u306f\u305d\u306e\u307e\u307e\uff09\ngit reset --hard HEAD^   # \u540c\u4e0a\uff08\u30ef\u30fc\u30ad\u30f3\u30b0\u30c7\u30a3\u30ec\u30af\u30c8\u30ea\u3082\u304d\u308c\u3044\u306b\uff09\n\ngit commit --allow-empty -m  resolve #xx  # \u30d6\u30e9\u30f3\u30c1\u4f5c\u696d\u3067\u7a7a\u30b3\u30df\u30c3\u30c8\u3092\u6253\u3063\u3066 ISSUE \u306b\u7d10\u3065\u3051\u308b\n\n# wip \ngit checkout -b feature/999_xxx\ngit commit --allow-empty -m  [wip] #999 \ngit push --set-upstream origin feature/999_xxx", 
+            "title": "Examples"
+        }, 
+        {
+            "location": "/tools/git/#tips", 
+            "text": "git log --first-parent --reverse # \u30b3\u30df\u30c3\u30c8\u3092\u6700\u521d\u304b\u3089\u8868\u793a", 
+            "title": "Tips"
+        }, 
+        {
+            "location": "/tools/jq/", 
+            "text": "jq\nLink\n\n\n\n\njq\n\n\njson \u5f62\u5f0f\u306e\u30c7\u30fc\u30bf\u3092\u30d5\u30a3\u30eb\u30bf\u3057\u3066\u52a0\u5de5\u3059\u308b\u30c4\u30fc\u30eb\n\n\n\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u3092\u8aad\u3081\u3070\u308f\u304b\u308b\u3053\u3068\u306f\u30d1\u30b9\n\n\naws \u4e0b\u306e cli_jq \u306b\u66f8\u3044\u305f\u3082\u306e\u3092\u79fb\u3057\u305f\n\n\n\n\n\u30e1\u30e2\nLink\n\n\n# Tags \u306b\u3064\u3044\u3066\u306f from_entries \u3092\u4f7f\u3046\u3068\u30bf\u30a4\u30d7\u6570\u304c\u6e1b\u308b\u3002\u4e38\u62ec\u5f27\u5185\u3092\u30a4\u30c7\u30a3\u30aa\u30e0\u3068\u3057\u3066\u4f7f\u3046\naws ec2 describe-vpcs | jq -r \n.Vpcs[] | .VpcId, (.Tags | from_entries | .Name)\n\n\n# \u6a2a\u306b\u4e26\u3079\u3066\u8868\u793a\uff08\u6539\u884c\u3057\u306a\u3044\uff09\u306b\u3064\u3044\u3066\u306f -c -r @tsv \u3092\u4f75\u7528\u3059\u308b\u3068\u697d\naws ec2 describe-instances --region ap-northeast-1 | jq -c -r \n.Reservations[].Instances[] | [.Placement.AvailabilityZone, .State.Name, .InstanceId] | @tsv", 
+            "title": "jq"
+        }, 
+        {
+            "location": "/tools/jq/#jq", 
+            "text": "jq  json \u5f62\u5f0f\u306e\u30c7\u30fc\u30bf\u3092\u30d5\u30a3\u30eb\u30bf\u3057\u3066\u52a0\u5de5\u3059\u308b\u30c4\u30fc\u30eb  \u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u3092\u8aad\u3081\u3070\u308f\u304b\u308b\u3053\u3068\u306f\u30d1\u30b9  aws \u4e0b\u306e cli_jq \u306b\u66f8\u3044\u305f\u3082\u306e\u3092\u79fb\u3057\u305f", 
+            "title": "jq"
+        }, 
+        {
+            "location": "/tools/jq/#_1", 
+            "text": "# Tags \u306b\u3064\u3044\u3066\u306f from_entries \u3092\u4f7f\u3046\u3068\u30bf\u30a4\u30d7\u6570\u304c\u6e1b\u308b\u3002\u4e38\u62ec\u5f27\u5185\u3092\u30a4\u30c7\u30a3\u30aa\u30e0\u3068\u3057\u3066\u4f7f\u3046\naws ec2 describe-vpcs | jq -r  .Vpcs[] | .VpcId, (.Tags | from_entries | .Name) \n\n# \u6a2a\u306b\u4e26\u3079\u3066\u8868\u793a\uff08\u6539\u884c\u3057\u306a\u3044\uff09\u306b\u3064\u3044\u3066\u306f -c -r @tsv \u3092\u4f75\u7528\u3059\u308b\u3068\u697d\naws ec2 describe-instances --region ap-northeast-1 | jq -c -r  .Reservations[].Instances[] | [.Placement.AvailabilityZone, .State.Name, .InstanceId] | @tsv", 
+            "title": "\u30e1\u30e2"
+        }, 
+        {
+            "location": "/tools/mkdocs/", 
+            "text": "MkDocs\nLink\n\n\nMarkdown \u3067\u66f8\u304b\u308c\u305f\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u304b\u3089\u9759\u7684\u30b5\u30a4\u30c8\u3092\u751f\u6210\u3059\u308b\n\n\n\n\nMkDocs\n\n\nMaterial for MkDocs", 
+            "title": "MkDocs"
+        }, 
+        {
+            "location": "/tools/mkdocs/#mkdocs", 
+            "text": "Markdown \u3067\u66f8\u304b\u308c\u305f\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u304b\u3089\u9759\u7684\u30b5\u30a4\u30c8\u3092\u751f\u6210\u3059\u308b   MkDocs  Material for MkDocs", 
+            "title": "MkDocs"
+        }, 
+        {
+            "location": "/tools/sphinx/", 
+            "text": "Sphinx\nLink\n\n\n\u30c9\u30ad\u30e5\u30e1\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3\u30c4\u30fc\u30eb\u3002Python\u88fd\u3002\n\n\n\n\nhttp://sphinx-doc.org/\n\n\nhttp://sphinx-users.jp/", 
+            "title": "Sphinx"
+        }, 
+        {
+            "location": "/tools/sphinx/#sphinx", 
+            "text": "\u30c9\u30ad\u30e5\u30e1\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3\u30c4\u30fc\u30eb\u3002Python\u88fd\u3002   http://sphinx-doc.org/  http://sphinx-users.jp/", 
+            "title": "Sphinx"
+        }, 
+        {
+            "location": "/web/note/", 
+            "text": "web \u5411\u3051 note\nLink\n\n\n\u5f8c\u3067\u6574\u7406\u4e88\u5b9a\n\n\n\u30c0\u30a4\u30b8\u30a7\u30b9\u30c8\u8a8d\u8a3c\nLink\n\n\nconf file\nLink\n\n\nSatisfy Any\nOrder Deny,Allow\nDeny from all\nAllow from i.p.add.r\nAuthtype Digest\nAuthName     \nPlease Id and Password\n\nAuthUserFile /var/www/vhosts/.htdigest\nRequire      valid-user\n\n\n\n\nhtdigest\nLink\n\n\nhtdigest [\u65b0\u898f\u306e\u5834\u5408\u306b -c ] .htdigest \n\u30ec\u30eb\u30e0\u6587\u5b57\u5217\n\n\u30d1\u30b9\u30ef\u30fc\u30c9\u4e8c\u56de\u5165\u529b\n\n\n\n\n\u30d9\u30fc\u30b7\u30c3\u30af\u8a8d\u8a3c\nLink\n\n\nconf file\nLink\n\n\n  Satisfy Any\n  Order Deny,Allow\n  Deny from all\n  Allow from i.p.add.r\n  AuthType Basic\n  AuthName \nPlease enter your Id and Password.\n\n  AuthUserFile /var/www/vhosts/.htpasswd\n  Require valid-user  \n\n\n\n\nhtpasswd\nLink\n\n\n# \u65b0\u898f\u306e\u5834\u5408\u306f -c \u3092\u3064\u3051\u308b\nhtpasswd -b /var/www/vhosts/.htpasswd id pass\n\n\n\n\nCORS\nLink\n\n\n\n\n\u4e00\u65e6\u7c21\u5358\u306b\u901a\u904e\u3067\u304d\u308c\u3070\u3044\u3044\u306a\u3089\u6700\u4f4e\u9650\u3053\u308c\u3067\n\n\n\u30b5\u30a4\u30c8\u5168\u4f53\u306e\u30a2\u30af\u30bb\u30b9\u5236\u5fa1\u3001\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u306f\u5225\u9014\u884c\u3046\u3053\u3068\n\n\n\n\n  add_header Access-Control-Allow-Origin *;\n  add_header Access-Control-Allow-Methods \nPOST, GET, OPTIONS\n;\n  add_header Access-Control-Allow-Headers \nOrigin, Authorization, Accept, Content-Type\n;\n  add_header Access-Control-Allow-Credentials true;\n  add_header Access-Control-Expose-Headers \nxxx-sessid\n;", 
+            "title": "web \u5411\u3051 note"
+        }, 
+        {
+            "location": "/web/note/#web-note", 
+            "text": "\u5f8c\u3067\u6574\u7406\u4e88\u5b9a", 
+            "title": "web \u5411\u3051 note"
+        }, 
+        {
+            "location": "/web/note/#_1", 
+            "text": "", 
+            "title": "\u30c0\u30a4\u30b8\u30a7\u30b9\u30c8\u8a8d\u8a3c"
+        }, 
+        {
+            "location": "/web/note/#conf-file", 
+            "text": "Satisfy Any\nOrder Deny,Allow\nDeny from all\nAllow from i.p.add.r\nAuthtype Digest\nAuthName      Please Id and Password \nAuthUserFile /var/www/vhosts/.htdigest\nRequire      valid-user", 
+            "title": "conf file"
+        }, 
+        {
+            "location": "/web/note/#htdigest", 
+            "text": "htdigest [\u65b0\u898f\u306e\u5834\u5408\u306b -c ] .htdigest  \u30ec\u30eb\u30e0\u6587\u5b57\u5217 \n\u30d1\u30b9\u30ef\u30fc\u30c9\u4e8c\u56de\u5165\u529b", 
+            "title": "htdigest"
+        }, 
+        {
+            "location": "/web/note/#_2", 
+            "text": "", 
+            "title": "\u30d9\u30fc\u30b7\u30c3\u30af\u8a8d\u8a3c"
+        }, 
+        {
+            "location": "/web/note/#conf-file_1", 
+            "text": "Satisfy Any\n  Order Deny,Allow\n  Deny from all\n  Allow from i.p.add.r\n  AuthType Basic\n  AuthName  Please enter your Id and Password. \n  AuthUserFile /var/www/vhosts/.htpasswd\n  Require valid-user", 
+            "title": "conf file"
+        }, 
+        {
+            "location": "/web/note/#htpasswd", 
+            "text": "# \u65b0\u898f\u306e\u5834\u5408\u306f -c \u3092\u3064\u3051\u308b\nhtpasswd -b /var/www/vhosts/.htpasswd id pass", 
+            "title": "htpasswd"
+        }, 
+        {
+            "location": "/web/note/#cors", 
+            "text": "\u4e00\u65e6\u7c21\u5358\u306b\u901a\u904e\u3067\u304d\u308c\u3070\u3044\u3044\u306a\u3089\u6700\u4f4e\u9650\u3053\u308c\u3067  \u30b5\u30a4\u30c8\u5168\u4f53\u306e\u30a2\u30af\u30bb\u30b9\u5236\u5fa1\u3001\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u306f\u5225\u9014\u884c\u3046\u3053\u3068     add_header Access-Control-Allow-Origin *;\n  add_header Access-Control-Allow-Methods  POST, GET, OPTIONS ;\n  add_header Access-Control-Allow-Headers  Origin, Authorization, Accept, Content-Type ;\n  add_header Access-Control-Allow-Credentials true;\n  add_header Access-Control-Expose-Headers  xxx-sessid ;", 
+            "title": "CORS"
+        }
+    ]
+}

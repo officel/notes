@@ -1,0 +1,39 @@
+- hosts: all
+  become: true
+  gather_facts: true
+  vars:
+    jq_alias_dir: "/usr/local/bin"
+    jq_install_dir: "/usr/local/share/jq"
+    jq_install_version: 1.5
+    jq_install_version_dir: "{{ jq_install_dir }}/{{ jq_install_version }}"
+    jq_download_url: "https://github.com/stedolan/jq/releases/download/jq-{{ jq_install_version }}/jq-linux64"
+
+    # use 1.4 or more old versions url (file name...)
+    # see https://stedolan.github.io/jq/download/
+    # jq_download_url: "https://github.com/stedolan/jq/releases/download/jq-{{ jq_install_version }}/jq-linux-x86_64"
+
+  tasks:
+
+    - name: create install directory
+      file:
+        path:  "{{ jq_install_version_dir }}"
+        owner: root
+        group: root
+        mode:  0755
+        state: directory
+
+    - name: download
+      get_url:
+        url:     "{{ jq_download_url }}"
+        dest:    "{{ jq_install_version_dir }}/jq"
+        mode:    0755
+        owner:   root
+        group:   root
+
+    - name: create symlink
+      file:
+        state: link
+        src:   "{{ jq_install_version_dir }}/jq"
+        dest:  "{{ jq_alias_dir }}/jq"
+        owner: root
+        group: root
